@@ -4195,6 +4195,4765 @@
      ]
     }
    ]
+  },
+  {
+   "level": 11,
+   "title": "Опыт и перемены",
+   "blocks": [
+    {
+     "id": "11-01",
+     "topic": "Давно делаю: have been doing",
+     "sentences": [
+      {
+       "id": "11-01-1",
+       "ru": "Я учу английский уже три года.",
+       "target": "I have been learning English for three years.",
+       "alternatives": []
+      },
+      {
+       "id": "11-01-2",
+       "ru": "Ты давно ждёшь?",
+       "target": "Have you been waiting long?",
+       "alternatives": [
+        "Have you been waiting for a long time?"
+       ]
+      },
+      {
+       "id": "11-01-3",
+       "ru": "Она весь день работает в саду.",
+       "target": "She has been working in the garden all day.",
+       "alternatives": [
+        "She's been working in the garden all day."
+       ]
+      },
+      {
+       "id": "11-01-4",
+       "ru": "Они живут здесь с 2015 года.",
+       "target": "They have been living here since 2015.",
+       "alternatives": [
+        "They have lived here since 2015."
+       ]
+      },
+      {
+       "id": "11-01-5",
+       "ru": "Почему ты такой уставший? Ты бегал?",
+       "target": "Why are you so tired? Have you been running?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "11-02",
+     "topic": "До того: past perfect",
+     "sentences": [
+      {
+       "id": "11-02-1",
+       "ru": "Когда мы пришли, фильм уже начался.",
+       "target": "When we arrived, the film had already started.",
+       "alternatives": [
+        "When we arrived, the movie had already started.",
+        "When we came, the film had already started."
+       ]
+      },
+      {
+       "id": "11-02-2",
+       "ru": "До той поездки я никогда не видел моря.",
+       "target": "Before that trip I had never seen the sea.",
+       "alternatives": [
+        "I had never seen the sea before that trip."
+       ]
+      },
+      {
+       "id": "11-02-3",
+       "ru": "Она поняла, что забыла ключи дома.",
+       "target": "She realized that she had left her keys at home.",
+       "alternatives": [
+        "She realised that she had left her keys at home.",
+        "She realized she had forgotten her keys at home."
+       ]
+      },
+      {
+       "id": "11-02-4",
+       "ru": "Поезд ушёл до того, как мы добрались до станции.",
+       "target": "The train had left before we got to the station.",
+       "alternatives": [
+        "The train had left before we reached the station."
+       ]
+      },
+      {
+       "id": "11-02-5",
+       "ru": "После того как гости ушли, мы убрали квартиру.",
+       "target": "After the guests had left, we cleaned the flat.",
+       "alternatives": [
+        "After the guests had left, we cleaned the apartment.",
+        "After the guests left, we cleaned the flat."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11-03",
+     "topic": "Привык: be used to, get used to",
+     "sentences": [
+      {
+       "id": "11-03-1",
+       "ru": "Я привык рано вставать.",
+       "target": "I am used to getting up early.",
+       "alternatives": []
+      },
+      {
+       "id": "11-03-2",
+       "ru": "Она никак не может привыкнуть к холоду.",
+       "target": "She can't get used to the cold.",
+       "alternatives": [
+        "She cannot get used to the cold."
+       ]
+      },
+      {
+       "id": "11-03-3",
+       "ru": "Мы уже привыкли к новому офису.",
+       "target": "We have already got used to the new office.",
+       "alternatives": [
+        "We have already gotten used to the new office.",
+        "We are already used to the new office."
+       ]
+      },
+      {
+       "id": "11-03-4",
+       "ru": "Ты привыкнешь к этому.",
+       "target": "You will get used to it.",
+       "alternatives": []
+      },
+      {
+       "id": "11-03-5",
+       "ru": "Он не привык водить машину слева.",
+       "target": "He is not used to driving on the left.",
+       "alternatives": [
+        "He's not used to driving on the left.",
+        "He isn't used to driving on the left."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11-04",
+     "topic": "Раньше и теперь: used to, any more",
+     "sentences": [
+      {
+       "id": "11-04-1",
+       "ru": "В детстве я каждое лето ездил к бабушке.",
+       "target": "When I was a child, I used to visit my grandmother every summer.",
+       "alternatives": [
+        "As a child, I used to visit my grandmother every summer.",
+        "When I was a child, I would visit my grandmother every summer."
+       ]
+      },
+      {
+       "id": "11-04-2",
+       "ru": "Раньше на этой улице было много магазинов.",
+       "target": "There used to be a lot of shops on this street.",
+       "alternatives": [
+        "There used to be many shops in this street.",
+        "There used to be lots of stores on this street."
+       ]
+      },
+      {
+       "id": "11-04-3",
+       "ru": "Он больше не курит.",
+       "target": "He doesn't smoke any more.",
+       "alternatives": [
+        "He does not smoke anymore.",
+        "He no longer smokes."
+       ]
+      },
+      {
+       "id": "11-04-4",
+       "ru": "Раньше ты носил очки?",
+       "target": "Did you use to wear glasses?",
+       "alternatives": []
+      },
+      {
+       "id": "11-04-5",
+       "ru": "Мы больше не живём в том доме.",
+       "target": "We don't live in that house any more.",
+       "alternatives": [
+        "We no longer live in that house.",
+        "We do not live in that house anymore."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11-05",
+     "topic": "Перемены: become, get, turn into",
+     "sentences": [
+      {
+       "id": "11-05-1",
+       "ru": "Город сильно изменился за последние десять лет.",
+       "target": "The city has changed a lot in the last ten years.",
+       "alternatives": [
+        "The town has changed a lot over the last ten years.",
+        "The city has changed a lot over the past ten years."
+       ]
+      },
+      {
+       "id": "11-05-2",
+       "ru": "Стало темнеть.",
+       "target": "It started getting dark.",
+       "alternatives": [
+        "It began to get dark.",
+        "It was getting dark."
+       ]
+      },
+      {
+       "id": "11-05-3",
+       "ru": "Она стала известной писательницей.",
+       "target": "She became a famous writer.",
+       "alternatives": []
+      },
+      {
+       "id": "11-05-4",
+       "ru": "Цены становятся всё выше и выше.",
+       "target": "Prices are getting higher and higher.",
+       "alternatives": []
+      },
+      {
+       "id": "11-05-5",
+       "ru": "Его хобби превратилось в бизнес.",
+       "target": "His hobby turned into a business.",
+       "alternatives": [
+        "His hobby has turned into a business."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11-06",
+     "topic": "Удалось: manage to, succeed in",
+     "sentences": [
+      {
+       "id": "11-06-1",
+       "ru": "Нам удалось найти недорогую квартиру.",
+       "target": "We managed to find a cheap flat.",
+       "alternatives": [
+        "We managed to find an inexpensive apartment.",
+        "We managed to find a cheap apartment."
+       ]
+      },
+      {
+       "id": "11-06-2",
+       "ru": "Наконец-то я сдал экзамен по вождению.",
+       "target": "I have finally passed my driving test.",
+       "alternatives": [
+        "I finally passed my driving test."
+       ]
+      },
+      {
+       "id": "11-06-3",
+       "ru": "Она смогла открыть дверь без ключа.",
+       "target": "She managed to open the door without a key.",
+       "alternatives": [
+        "She was able to open the door without a key."
+       ]
+      },
+      {
+       "id": "11-06-4",
+       "ru": "Он добился успеха в бизнесе.",
+       "target": "He succeeded in business.",
+       "alternatives": [
+        "He was successful in business."
+       ]
+      },
+      {
+       "id": "11-06-5",
+       "ru": "Мне так и не удалось ему дозвониться.",
+       "target": "I never managed to get through to him.",
+       "alternatives": [
+        "I never managed to reach him by phone."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11-07",
+     "topic": "Впервые: it is the first time",
+     "sentences": [
+      {
+       "id": "11-07-1",
+       "ru": "Я впервые в Лондоне.",
+       "target": "This is the first time I have been to London.",
+       "alternatives": [
+        "It is the first time I have been to London.",
+        "This is my first time in London."
+       ]
+      },
+      {
+       "id": "11-07-2",
+       "ru": "Она впервые ведёт машину.",
+       "target": "It is the first time she has driven a car.",
+       "alternatives": [
+        "This is the first time she has driven a car."
+       ]
+      },
+      {
+       "id": "11-07-3",
+       "ru": "Это самая интересная книга, которую я когда-либо читал.",
+       "target": "This is the most interesting book I have ever read.",
+       "alternatives": [
+        "It is the most interesting book I have ever read."
+       ]
+      },
+      {
+       "id": "11-07-4",
+       "ru": "Сколько раз ты был в Париже?",
+       "target": "How many times have you been to Paris?",
+       "alternatives": []
+      },
+      {
+       "id": "11-07-5",
+       "ru": "Мы уже дважды встречались.",
+       "target": "We have already met twice.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "11-08",
+     "topic": "Пока не: until, by the time",
+     "sentences": [
+      {
+       "id": "11-08-1",
+       "ru": "Подожди здесь, пока я не вернусь.",
+       "target": "Wait here until I come back.",
+       "alternatives": [
+        "Wait here until I get back."
+       ]
+      },
+      {
+       "id": "11-08-2",
+       "ru": "К тому времени, как я проснулся, все уже ушли.",
+       "target": "By the time I woke up, everyone had already left.",
+       "alternatives": [
+        "By the time I woke up, everybody had already left.",
+        "By the time I woke up, everyone had left."
+       ]
+      },
+      {
+       "id": "11-08-3",
+       "ru": "Я не знал об этом до вчерашнего дня.",
+       "target": "I didn't know about it until yesterday.",
+       "alternatives": [
+        "I did not know about this until yesterday."
+       ]
+      },
+      {
+       "id": "11-08-4",
+       "ru": "Как только он вернётся, я тебе позвоню.",
+       "target": "As soon as he comes back, I will call you.",
+       "alternatives": [
+        "As soon as he returns, I will call you.",
+        "As soon as he gets back, I will phone you."
+       ]
+      },
+      {
+       "id": "11-08-5",
+       "ru": "Пока ты спал, звонила мама.",
+       "target": "While you were sleeping, Mum called.",
+       "alternatives": [
+        "While you were asleep, Mom called.",
+        "While you were sleeping, Mom called."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11-09",
+     "topic": "Сколько уже: how long have you",
+     "sentences": [
+      {
+       "id": "11-09-1",
+       "ru": "Как долго ты здесь работаешь?",
+       "target": "How long have you been working here?",
+       "alternatives": [
+        "How long have you worked here?"
+       ]
+      },
+      {
+       "id": "11-09-2",
+       "ru": "Сколько времени вы знаете друг друга?",
+       "target": "How long have you known each other?",
+       "alternatives": []
+      },
+      {
+       "id": "11-09-3",
+       "ru": "Я не видел его целую вечность.",
+       "target": "I haven't seen him for ages.",
+       "alternatives": [
+        "I have not seen him in ages."
+       ]
+      },
+      {
+       "id": "11-09-4",
+       "ru": "Она болеет с понедельника.",
+       "target": "She has been ill since Monday.",
+       "alternatives": [
+        "She has been sick since Monday.",
+        "She's been ill since Monday."
+       ]
+      },
+      {
+       "id": "11-09-5",
+       "ru": "Сколько лет у тебя эта машина?",
+       "target": "How long have you had this car?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "11-10",
+     "topic": "Повторение: опыт и перемены",
+     "sentences": [
+      {
+       "id": "11-10-1",
+       "ru": "Я раньше не любил оливки, а теперь обожаю.",
+       "target": "I didn't use to like olives, but now I love them.",
+       "alternatives": [
+        "I used not to like olives, but now I love them."
+       ]
+      },
+      {
+       "id": "11-10-2",
+       "ru": "Он чинил машину два часа, прежде чем она завелась.",
+       "target": "He had been repairing the car for two hours before it started.",
+       "alternatives": [
+        "He had been fixing the car for two hours before it started."
+       ]
+      },
+      {
+       "id": "11-10-3",
+       "ru": "Мы переехали, потому что район стал слишком шумным.",
+       "target": "We moved because the area had become too noisy.",
+       "alternatives": [
+        "We moved because the neighbourhood had become too noisy.",
+        "We moved because the area became too noisy."
+       ]
+      },
+      {
+       "id": "11-10-4",
+       "ru": "Ты уже привык к новой работе?",
+       "target": "Have you got used to your new job yet?",
+       "alternatives": [
+        "Are you used to your new job yet?",
+        "Have you gotten used to your new job yet?"
+       ]
+      },
+      {
+       "id": "11-10-5",
+       "ru": "С тех пор как она переехала, мы не общались.",
+       "target": "We haven't been in touch since she moved.",
+       "alternatives": [
+        "We have not talked since she moved away.",
+        "We haven't spoken since she moved."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 12,
+   "title": "Если бы и жаль",
+   "blocks": [
+    {
+     "id": "12-01",
+     "topic": "Если бы тогда: third conditional",
+     "sentences": [
+      {
+       "id": "12-01-1",
+       "ru": "Если бы я знал, я бы тебе сказал.",
+       "target": "If I had known, I would have told you.",
+       "alternatives": [
+        "If I'd known, I'd have told you."
+       ]
+      },
+      {
+       "id": "12-01-2",
+       "ru": "Если бы мы вышли раньше, мы бы не опоздали.",
+       "target": "If we had left earlier, we would not have been late.",
+       "alternatives": [
+        "If we'd left earlier, we wouldn't have been late."
+       ]
+      },
+      {
+       "id": "12-01-3",
+       "ru": "Она бы не упала, если бы была осторожнее.",
+       "target": "She wouldn't have fallen if she had been more careful.",
+       "alternatives": [
+        "She wouldn't have fallen if she'd been more careful."
+       ]
+      },
+      {
+       "id": "12-01-4",
+       "ru": "Если бы ты мне позвонил, я бы тебя встретил на вокзале.",
+       "target": "If you had called me, I would have met you at the station.",
+       "alternatives": [
+        "If you had phoned me, I would have met you at the station.",
+        "If you'd called me, I'd have met you at the station."
+       ]
+      },
+      {
+       "id": "12-01-5",
+       "ru": "Если бы не дождь, мы бы вчера пошли гулять.",
+       "target": "If it hadn't rained, we would have gone for a walk yesterday.",
+       "alternatives": [
+        "If it had not rained yesterday, we would have gone for a walk."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-02",
+     "topic": "Жаль: I wish",
+     "sentences": [
+      {
+       "id": "12-02-1",
+       "ru": "Жаль, что я не говорю по-французски.",
+       "target": "I wish I spoke French.",
+       "alternatives": [
+        "I wish I could speak French."
+       ]
+      },
+      {
+       "id": "12-02-2",
+       "ru": "Жаль, что ты не здесь.",
+       "target": "I wish you were here.",
+       "alternatives": []
+      },
+      {
+       "id": "12-02-3",
+       "ru": "Жаль, что я не пошёл с вами вчера.",
+       "target": "I wish I had gone with you yesterday.",
+       "alternatives": [
+        "I wish I'd gone with you yesterday."
+       ]
+      },
+      {
+       "id": "12-02-4",
+       "ru": "Жаль, что у нас нет машины.",
+       "target": "I wish we had a car.",
+       "alternatives": []
+      },
+      {
+       "id": "12-02-5",
+       "ru": "Он жалеет, что продал свою гитару.",
+       "target": "He wishes he hadn't sold his guitar.",
+       "alternatives": [
+        "He regrets selling his guitar.",
+        "He regrets having sold his guitar."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-03",
+     "topic": "Если бы только: if only",
+     "sentences": [
+      {
+       "id": "12-03-1",
+       "ru": "Если бы только у меня было больше времени!",
+       "target": "If only I had more time!",
+       "alternatives": []
+      },
+      {
+       "id": "12-03-2",
+       "ru": "Если бы только я её послушал!",
+       "target": "If only I had listened to her!",
+       "alternatives": [
+        "If only I'd listened to her!"
+       ]
+      },
+      {
+       "id": "12-03-3",
+       "ru": "Если бы только он не был таким упрямым!",
+       "target": "If only he weren't so stubborn!",
+       "alternatives": [
+        "If only he wasn't so stubborn!"
+       ]
+      },
+      {
+       "id": "12-03-4",
+       "ru": "Если бы только мы знали об этом раньше!",
+       "target": "If only we had known about it earlier!",
+       "alternatives": [
+        "If only we had known about this before!",
+        "If only we'd known about it earlier!"
+       ]
+      },
+      {
+       "id": "12-03-5",
+       "ru": "Если бы только перестал идти дождь!",
+       "target": "If only it would stop raining!",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "12-04",
+     "topic": "Если не: unless",
+     "sentences": [
+      {
+       "id": "12-04-1",
+       "ru": "Мы не успеем, если не поторопимся.",
+       "target": "We won't make it unless we hurry.",
+       "alternatives": [
+        "We won't make it unless we hurry up.",
+        "We won't be in time unless we hurry."
+       ]
+      },
+      {
+       "id": "12-04-2",
+       "ru": "Не звони мне, если это не срочно.",
+       "target": "Don't call me unless it is urgent.",
+       "alternatives": [
+        "Don't call me unless it's urgent."
+       ]
+      },
+      {
+       "id": "12-04-3",
+       "ru": "Он не придёт, если его не пригласят.",
+       "target": "He won't come unless he is invited.",
+       "alternatives": [
+        "He won't come unless they invite him.",
+        "He won't come unless he's invited."
+       ]
+      },
+      {
+       "id": "12-04-4",
+       "ru": "Ты не сдашь экзамен, если не будешь заниматься.",
+       "target": "You won't pass the exam unless you study.",
+       "alternatives": [
+        "You won't pass the exam if you don't study."
+       ]
+      },
+      {
+       "id": "12-04-5",
+       "ru": "Я не поеду, если ты не поедешь со мной.",
+       "target": "I won't go unless you come with me.",
+       "alternatives": [
+        "I won't go unless you go with me."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-05",
+     "topic": "На случай: in case",
+     "sentences": [
+      {
+       "id": "12-05-1",
+       "ru": "Возьми зонт на случай дождя.",
+       "target": "Take an umbrella in case it rains.",
+       "alternatives": []
+      },
+      {
+       "id": "12-05-2",
+       "ru": "Я записал её номер на случай, если он мне понадобится.",
+       "target": "I wrote down her number in case I needed it.",
+       "alternatives": [
+        "I wrote her number down in case I needed it."
+       ]
+      },
+      {
+       "id": "12-05-3",
+       "ru": "На всякий случай проверь ещё раз.",
+       "target": "Check again just in case.",
+       "alternatives": [
+        "Check it again just in case."
+       ]
+      },
+      {
+       "id": "12-05-4",
+       "ru": "Возьми немного наличных на случай, если там не принимают карты.",
+       "target": "Take some cash in case they don't take cards.",
+       "alternatives": [
+        "Take some cash in case they don't accept cards there."
+       ]
+      },
+      {
+       "id": "12-05-5",
+       "ru": "Я оставлю ключ у соседа на случай, если ты придёшь раньше.",
+       "target": "I will leave the key with the neighbour in case you come early.",
+       "alternatives": [
+        "I will leave the key with the neighbor in case you come earlier."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-06",
+     "topic": "При условии: as long as, provided",
+     "sentences": [
+      {
+       "id": "12-06-1",
+       "ru": "Можешь взять мою машину, если вернёшь её до вечера.",
+       "target": "You can borrow my car as long as you bring it back by the evening.",
+       "alternatives": [
+        "You can take my car as long as you return it by tonight.",
+        "You can borrow my car provided you return it by the evening."
+       ]
+      },
+      {
+       "id": "12-06-2",
+       "ru": "Я помогу тебе при условии, что ты сделаешь половину работы сам.",
+       "target": "I will help you provided that you do half the work yourself.",
+       "alternatives": [
+        "I will help you as long as you do half of the work yourself."
+       ]
+      },
+      {
+       "id": "12-06-3",
+       "ru": "Всё будет хорошо, если мы будем держаться вместе.",
+       "target": "Everything will be fine as long as we stick together.",
+       "alternatives": [
+        "Everything will be all right if we stay together."
+       ]
+      },
+      {
+       "id": "12-06-4",
+       "ru": "Мы поедем на пикник, если только погода будет хорошей.",
+       "target": "We will go for a picnic as long as the weather is good.",
+       "alternatives": [
+        "We will have a picnic provided the weather is nice."
+       ]
+      },
+      {
+       "id": "12-06-5",
+       "ru": "Дети могут играть на улице, пока светло.",
+       "target": "The children can play outside as long as it is light.",
+       "alternatives": [
+        "The kids can play outside while it is light.",
+        "The children can play outside while it's light."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-07",
+     "topic": "Что если: what if, suppose",
+     "sentences": [
+      {
+       "id": "12-07-1",
+       "ru": "А что если он не придёт?",
+       "target": "What if he doesn't come?",
+       "alternatives": []
+      },
+      {
+       "id": "12-07-2",
+       "ru": "Представь, что ты выиграл миллион.",
+       "target": "Imagine you won a million.",
+       "alternatives": [
+        "Suppose you won a million.",
+        "Imagine you have won a million."
+       ]
+      },
+      {
+       "id": "12-07-3",
+       "ru": "Что если нам поехать на море?",
+       "target": "What if we went to the seaside?",
+       "alternatives": [
+        "What if we go to the sea?",
+        "How about going to the seaside?"
+       ]
+      },
+      {
+       "id": "12-07-4",
+       "ru": "Допустим, поезд опоздает. Что тогда?",
+       "target": "Suppose the train is late. What then?",
+       "alternatives": [
+        "Suppose the train is late. What will we do then?"
+       ]
+      },
+      {
+       "id": "12-07-5",
+       "ru": "Что бы ты сказал, если бы встретил её?",
+       "target": "What would you say if you met her?",
+       "alternatives": [
+        "What would you say if you saw her?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-08",
+     "topic": "Следовало: should have",
+     "sentences": [
+      {
+       "id": "12-08-1",
+       "ru": "Тебе следовало сказать мне раньше.",
+       "target": "You should have told me earlier.",
+       "alternatives": [
+        "You should have told me before."
+       ]
+      },
+      {
+       "id": "12-08-2",
+       "ru": "Мне не стоило так много есть.",
+       "target": "I shouldn't have eaten so much.",
+       "alternatives": []
+      },
+      {
+       "id": "12-08-3",
+       "ru": "Нам надо было взять такси.",
+       "target": "We should have taken a taxi.",
+       "alternatives": [
+        "We should have got a taxi."
+       ]
+      },
+      {
+       "id": "12-08-4",
+       "ru": "Он не должен был кричать на неё.",
+       "target": "He shouldn't have shouted at her.",
+       "alternatives": [
+        "He shouldn't have yelled at her."
+       ]
+      },
+      {
+       "id": "12-08-5",
+       "ru": "Ты должен был меня предупредить!",
+       "target": "You should have warned me!",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "12-09",
+     "topic": "Мог бы тогда: could have",
+     "sentences": [
+      {
+       "id": "12-09-1",
+       "ru": "Ты мог бы помочь мне вчера.",
+       "target": "You could have helped me yesterday.",
+       "alternatives": []
+      },
+      {
+       "id": "12-09-2",
+       "ru": "Это могло бы быть намного хуже.",
+       "target": "It could have been much worse.",
+       "alternatives": [
+        "It could have been a lot worse."
+       ]
+      },
+      {
+       "id": "12-09-3",
+       "ru": "Я мог бы стать врачом, но выбрал музыку.",
+       "target": "I could have become a doctor, but I chose music.",
+       "alternatives": []
+      },
+      {
+       "id": "12-09-4",
+       "ru": "Почему ты не позвонил? Я мог бы тебя подвезти.",
+       "target": "Why didn't you call? I could have given you a lift.",
+       "alternatives": [
+        "Why didn't you call? I could have given you a ride.",
+        "Why didn't you phone? I could have driven you."
+       ]
+      },
+      {
+       "id": "12-09-5",
+       "ru": "Ты мог бы хотя бы извиниться.",
+       "target": "You could at least have apologized.",
+       "alternatives": [
+        "You could have at least apologised.",
+        "You could at least have apologised."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "12-10",
+     "topic": "Повторение: условия и сожаления",
+     "sentences": [
+      {
+       "id": "12-10-1",
+       "ru": "Если бы я не опоздал на автобус, я бы не встретил её.",
+       "target": "If I hadn't missed the bus, I wouldn't have met her.",
+       "alternatives": []
+      },
+      {
+       "id": "12-10-2",
+       "ru": "Жаль, что ты не можешь остаться подольше.",
+       "target": "I wish you could stay longer.",
+       "alternatives": []
+      },
+      {
+       "id": "12-10-3",
+       "ru": "Скажи мне, если тебе что-нибудь понадобится.",
+       "target": "Tell me if you need anything.",
+       "alternatives": [
+        "Let me know if you need anything."
+       ]
+      },
+      {
+       "id": "12-10-4",
+       "ru": "Возьми куртку на случай, если станет холодно.",
+       "target": "Take a jacket in case it gets cold.",
+       "alternatives": []
+      },
+      {
+       "id": "12-10-5",
+       "ru": "Нам не стоило ехать туда в выходные.",
+       "target": "We shouldn't have gone there at the weekend.",
+       "alternatives": [
+        "We shouldn't have gone there on the weekend."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 13,
+   "title": "Чужие слова",
+   "blocks": [
+    {
+     "id": "13-01",
+     "topic": "Он сказал: say, tell",
+     "sentences": [
+      {
+       "id": "13-01-1",
+       "ru": "Она сказала, что устала.",
+       "target": "She said that she was tired.",
+       "alternatives": [
+        "She said she was tired."
+       ]
+      },
+      {
+       "id": "13-01-2",
+       "ru": "Он сказал мне, что опоздает.",
+       "target": "He told me that he would be late.",
+       "alternatives": [
+        "He told me he would be late."
+       ]
+      },
+      {
+       "id": "13-01-3",
+       "ru": "Они сказали, что уже видели этот фильм.",
+       "target": "They said that they had already seen that film.",
+       "alternatives": [
+        "They said they had already seen that movie.",
+        "They said they had already seen the film."
+       ]
+      },
+      {
+       "id": "13-01-4",
+       "ru": "Ты сказал, что придёшь!",
+       "target": "You said you would come!",
+       "alternatives": [
+        "You said that you would come!"
+       ]
+      },
+      {
+       "id": "13-01-5",
+       "ru": "Я сказал ей правду.",
+       "target": "I told her the truth.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "13-02",
+     "topic": "Он спросил: asked if",
+     "sentences": [
+      {
+       "id": "13-02-1",
+       "ru": "Она спросила, где я живу.",
+       "target": "She asked me where I lived.",
+       "alternatives": [
+        "She asked where I lived."
+       ]
+      },
+      {
+       "id": "13-02-2",
+       "ru": "Он спросил, говорю ли я по-английски.",
+       "target": "He asked if I spoke English.",
+       "alternatives": [
+        "He asked whether I spoke English.",
+        "He asked me if I spoke English."
+       ]
+      },
+      {
+       "id": "13-02-3",
+       "ru": "Учитель спросил, почему мы опоздали.",
+       "target": "The teacher asked why we were late.",
+       "alternatives": [
+        "The teacher asked us why we were late.",
+        "The teacher asked why we had been late."
+       ]
+      },
+      {
+       "id": "13-02-4",
+       "ru": "Они спросили, сколько стоит билет.",
+       "target": "They asked how much the ticket cost.",
+       "alternatives": [
+        "They asked how much the ticket was."
+       ]
+      },
+      {
+       "id": "13-02-5",
+       "ru": "Мама спросила, поел ли я.",
+       "target": "Mum asked if I had eaten.",
+       "alternatives": [
+        "Mom asked whether I had eaten.",
+        "My mother asked if I had eaten."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-03",
+     "topic": "Попросил: asked me to",
+     "sentences": [
+      {
+       "id": "13-03-1",
+       "ru": "Он попросил меня закрыть дверь.",
+       "target": "He asked me to close the door.",
+       "alternatives": [
+        "He asked me to shut the door."
+       ]
+      },
+      {
+       "id": "13-03-2",
+       "ru": "Врач велел мне оставаться в постели.",
+       "target": "The doctor told me to stay in bed.",
+       "alternatives": []
+      },
+      {
+       "id": "13-03-3",
+       "ru": "Она попросила нас не шуметь.",
+       "target": "She asked us not to make noise.",
+       "alternatives": [
+        "She asked us not to make any noise.",
+        "She asked us to be quiet."
+       ]
+      },
+      {
+       "id": "13-03-4",
+       "ru": "Я сказал детям убрать игрушки.",
+       "target": "I told the children to put away their toys.",
+       "alternatives": [
+        "I told the kids to put their toys away.",
+        "I told the children to tidy up their toys."
+       ]
+      },
+      {
+       "id": "13-03-5",
+       "ru": "Начальник попросил меня задержаться после работы.",
+       "target": "My boss asked me to stay after work.",
+       "alternatives": [
+        "The boss asked me to stay late."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-04",
+     "topic": "Пообещал и отказался: promise, refuse",
+     "sentences": [
+      {
+       "id": "13-04-1",
+       "ru": "Он пообещал вернуть деньги.",
+       "target": "He promised to give the money back.",
+       "alternatives": [
+        "He promised to return the money.",
+        "He promised to pay the money back."
+       ]
+      },
+      {
+       "id": "13-04-2",
+       "ru": "Она предложила помочь мне с переездом.",
+       "target": "She offered to help me with the move.",
+       "alternatives": [
+        "She offered to help me move."
+       ]
+      },
+      {
+       "id": "13-04-3",
+       "ru": "Я согласился встретиться с ним в пятницу.",
+       "target": "I agreed to meet him on Friday.",
+       "alternatives": []
+      },
+      {
+       "id": "13-04-4",
+       "ru": "Они отказались платить.",
+       "target": "They refused to pay.",
+       "alternatives": []
+      },
+      {
+       "id": "13-04-5",
+       "ru": "Он пригрозил уволиться.",
+       "target": "He threatened to quit.",
+       "alternatives": [
+        "He threatened to resign."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-05",
+     "topic": "Советую: suggest, advise",
+     "sentences": [
+      {
+       "id": "13-05-1",
+       "ru": "Я предлагаю пойти в кино.",
+       "target": "I suggest going to the cinema.",
+       "alternatives": [
+        "I suggest we go to the cinema.",
+        "I suggest going to the movies."
+       ]
+      },
+      {
+       "id": "13-05-2",
+       "ru": "Она посоветовала мне больше отдыхать.",
+       "target": "She advised me to rest more.",
+       "alternatives": [
+        "She advised me to get more rest."
+       ]
+      },
+      {
+       "id": "13-05-3",
+       "ru": "Что вы порекомендуете?",
+       "target": "What would you recommend?",
+       "alternatives": [
+        "What do you recommend?"
+       ]
+      },
+      {
+       "id": "13-05-4",
+       "ru": "Врач посоветовал мне бросить курить.",
+       "target": "The doctor advised me to give up smoking.",
+       "alternatives": [
+        "The doctor advised me to stop smoking.",
+        "The doctor recommended that I stop smoking."
+       ]
+      },
+      {
+       "id": "13-05-5",
+       "ru": "Он предложил отложить встречу.",
+       "target": "He suggested putting off the meeting.",
+       "alternatives": [
+        "He suggested postponing the meeting.",
+        "He suggested that we postpone the meeting."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-06",
+     "topic": "Говорят: they say, it is said",
+     "sentences": [
+      {
+       "id": "13-06-1",
+       "ru": "Говорят, этот ресторан очень хороший.",
+       "target": "They say this restaurant is very good.",
+       "alternatives": [
+        "People say this restaurant is very good.",
+        "This restaurant is said to be very good."
+       ]
+      },
+      {
+       "id": "13-06-2",
+       "ru": "Говорят, что он очень богат.",
+       "target": "He is said to be very rich.",
+       "alternatives": [
+        "It is said that he is very rich.",
+        "They say he is very rich.",
+        "He's said to be very rich."
+       ]
+      },
+      {
+       "id": "13-06-3",
+       "ru": "Говорят, завтра будет снег.",
+       "target": "They say it will snow tomorrow.",
+       "alternatives": [
+        "They say it is going to snow tomorrow."
+       ]
+      },
+      {
+       "id": "13-06-4",
+       "ru": "Считается, что этот замок построили в двенадцатом веке.",
+       "target": "The castle is believed to have been built in the twelfth century.",
+       "alternatives": [
+        "It is believed that the castle was built in the 12th century.",
+        "The castle is thought to have been built in the 12th century."
+       ]
+      },
+      {
+       "id": "13-06-5",
+       "ru": "Ожидается, что цены вырастут.",
+       "target": "Prices are expected to rise.",
+       "alternatives": [
+        "It is expected that prices will rise.",
+        "Prices are expected to go up."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-07",
+     "topic": "Похоже: it seems, apparently",
+     "sentences": [
+      {
+       "id": "13-07-1",
+       "ru": "Кажется, никого нет дома.",
+       "target": "It seems that nobody is at home.",
+       "alternatives": [
+        "It seems nobody is home.",
+        "It seems no one is at home.",
+        "There seems to be nobody at home."
+       ]
+      },
+      {
+       "id": "13-07-2",
+       "ru": "Похоже, она расстроена.",
+       "target": "She seems to be upset.",
+       "alternatives": [
+        "She seems upset.",
+        "It seems that she is upset.",
+        "It looks like she's upset."
+       ]
+      },
+      {
+       "id": "13-07-3",
+       "ru": "Судя по всему, магазин закрылся.",
+       "target": "Apparently the shop has closed.",
+       "alternatives": [
+        "Apparently, the shop has closed down.",
+        "Apparently the store has closed."
+       ]
+      },
+      {
+       "id": "13-07-4",
+       "ru": "Он, кажется, забыл о встрече.",
+       "target": "He seems to have forgotten about the meeting.",
+       "alternatives": [
+        "It seems he has forgotten about the meeting."
+       ]
+      },
+      {
+       "id": "13-07-5",
+       "ru": "По-видимому, они поженились.",
+       "target": "Apparently they got married.",
+       "alternatives": [
+        "Apparently, they have got married."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-08",
+     "topic": "Думал, что будет: would, was going to",
+     "sentences": [
+      {
+       "id": "13-08-1",
+       "ru": "Я думал, ты будешь дома.",
+       "target": "I thought you would be at home.",
+       "alternatives": [
+        "I thought you would be home."
+       ]
+      },
+      {
+       "id": "13-08-2",
+       "ru": "Она обещала, что позвонит.",
+       "target": "She promised that she would call.",
+       "alternatives": [
+        "She promised she would phone.",
+        "She promised to call."
+       ]
+      },
+      {
+       "id": "13-08-3",
+       "ru": "Я знал, что ты поймёшь.",
+       "target": "I knew you would understand.",
+       "alternatives": [
+        "I knew that you would understand."
+       ]
+      },
+      {
+       "id": "13-08-4",
+       "ru": "Он сказал, что собирается переехать.",
+       "target": "He said he was going to move.",
+       "alternatives": [
+        "He said that he was going to move house."
+       ]
+      },
+      {
+       "id": "13-08-5",
+       "ru": "Мы надеялись, что погода улучшится.",
+       "target": "We hoped that the weather would get better.",
+       "alternatives": [
+        "We hoped the weather would improve."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-09",
+     "topic": "Объяснить и ответить: explain, reply",
+     "sentences": [
+      {
+       "id": "13-09-1",
+       "ru": "Объясни мне, что случилось.",
+       "target": "Explain to me what happened.",
+       "alternatives": [
+        "Tell me what happened."
+       ]
+      },
+      {
+       "id": "13-09-2",
+       "ru": "Он не ответил на моё письмо.",
+       "target": "He didn't answer my letter.",
+       "alternatives": [
+        "He didn't reply to my email.",
+        "He didn't reply to my letter."
+       ]
+      },
+      {
+       "id": "13-09-3",
+       "ru": "Она объяснила, как работает эта программа.",
+       "target": "She explained how the program works.",
+       "alternatives": [
+        "She explained how this program worked.",
+        "She explained how the program worked."
+       ]
+      },
+      {
+       "id": "13-09-4",
+       "ru": "Я не знаю, что ответить.",
+       "target": "I don't know what to say.",
+       "alternatives": [
+        "I don't know what to answer.",
+        "I don't know how to answer."
+       ]
+      },
+      {
+       "id": "13-09-5",
+       "ru": "Можешь повторить, что ты сказал?",
+       "target": "Can you repeat what you said?",
+       "alternatives": [
+        "Could you repeat what you said?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "13-10",
+     "topic": "Повторение: чужие слова",
+     "sentences": [
+      {
+       "id": "13-10-1",
+       "ru": "Она сказала, что позвонит мне завтра.",
+       "target": "She said she would call me the next day.",
+       "alternatives": [
+        "She said that she would call me tomorrow.",
+        "She said she would phone me the following day."
+       ]
+      },
+      {
+       "id": "13-10-2",
+       "ru": "Он спросил, не видел ли я его телефон.",
+       "target": "He asked if I had seen his phone.",
+       "alternatives": [
+        "He asked me whether I had seen his phone."
+       ]
+      },
+      {
+       "id": "13-10-3",
+       "ru": "Мама попросила меня купить хлеба.",
+       "target": "Mum asked me to buy some bread.",
+       "alternatives": [
+        "Mom asked me to buy bread.",
+        "My mother asked me to buy some bread."
+       ]
+      },
+      {
+       "id": "13-10-4",
+       "ru": "Говорят, этот фильм скучный.",
+       "target": "They say this film is boring.",
+       "alternatives": [
+        "People say this movie is boring.",
+        "This film is said to be boring."
+       ]
+      },
+      {
+       "id": "13-10-5",
+       "ru": "Он признал, что был неправ.",
+       "target": "He admitted that he was wrong.",
+       "alternatives": [
+        "He admitted he had been wrong.",
+        "He admitted he was wrong."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 14,
+   "title": "Пассив во всех временах",
+   "blocks": [
+    {
+     "id": "14-01",
+     "topic": "Делают сейчас: is being done",
+     "sentences": [
+      {
+       "id": "14-01-1",
+       "ru": "Мою машину сейчас чинят.",
+       "target": "My car is being repaired.",
+       "alternatives": [
+        "My car is being fixed."
+       ]
+      },
+      {
+       "id": "14-01-2",
+       "ru": "Этот вопрос сейчас обсуждается.",
+       "target": "The question is being discussed now.",
+       "alternatives": [
+        "The issue is being discussed at the moment.",
+        "The question is being discussed."
+       ]
+      },
+      {
+       "id": "14-01-3",
+       "ru": "Когда я пришёл, комнату убирали.",
+       "target": "When I arrived, the room was being cleaned.",
+       "alternatives": [
+        "When I came, the room was being cleaned."
+       ]
+      },
+      {
+       "id": "14-01-4",
+       "ru": "За нами следят.",
+       "target": "We are being followed.",
+       "alternatives": [
+        "We are being watched."
+       ]
+      },
+      {
+       "id": "14-01-5",
+       "ru": "Новую школу строят прямо сейчас.",
+       "target": "The new school is being built right now.",
+       "alternatives": [
+        "The new school is being built at the moment."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-02",
+     "topic": "Уже сделано: has been done",
+     "sentences": [
+      {
+       "id": "14-02-1",
+       "ru": "Счёт уже оплачен.",
+       "target": "The bill has already been paid.",
+       "alternatives": [
+        "The invoice has already been paid."
+       ]
+      },
+      {
+       "id": "14-02-2",
+       "ru": "Мой кошелёк украли!",
+       "target": "My wallet has been stolen!",
+       "alternatives": [
+        "My purse has been stolen!"
+       ]
+      },
+      {
+       "id": "14-02-3",
+       "ru": "Ничего ещё не решено.",
+       "target": "Nothing has been decided yet.",
+       "alternatives": []
+      },
+      {
+       "id": "14-02-4",
+       "ru": "Все билеты проданы.",
+       "target": "All the tickets have been sold.",
+       "alternatives": [
+        "All tickets have been sold.",
+        "All the tickets are sold."
+       ]
+      },
+      {
+       "id": "14-02-5",
+       "ru": "Тебя уже пригласили на вечеринку?",
+       "target": "Have you been invited to the party yet?",
+       "alternatives": [
+        "Have you already been invited to the party?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-03",
+     "topic": "Будет сделано: will be done",
+     "sentences": [
+      {
+       "id": "14-03-1",
+       "ru": "Работа будет закончена к пятнице.",
+       "target": "The work will be finished by Friday.",
+       "alternatives": [
+        "The work will be done by Friday."
+       ]
+      },
+      {
+       "id": "14-03-2",
+       "ru": "Результаты вам пришлют по почте.",
+       "target": "You will be sent the results by email.",
+       "alternatives": [
+        "The results will be sent to you by email.",
+        "You will get the results by email."
+       ]
+      },
+      {
+       "id": "14-03-3",
+       "ru": "Встреча будет перенесена.",
+       "target": "The meeting will be postponed.",
+       "alternatives": [
+        "The meeting will be put off."
+       ]
+      },
+      {
+       "id": "14-03-4",
+       "ru": "Победителя объявят завтра.",
+       "target": "The winner will be announced tomorrow.",
+       "alternatives": []
+      },
+      {
+       "id": "14-03-5",
+       "ru": "Ваш заказ доставят в течение двух дней.",
+       "target": "Your order will be delivered within two days.",
+       "alternatives": [
+        "Your order will be delivered in two days."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-04",
+     "topic": "Должно быть сделано: must be done",
+     "sentences": [
+      {
+       "id": "14-04-1",
+       "ru": "Это нужно сделать сегодня.",
+       "target": "This must be done today.",
+       "alternatives": [
+        "It must be done today.",
+        "This has to be done today."
+       ]
+      },
+      {
+       "id": "14-04-2",
+       "ru": "Телефоны должны быть выключены.",
+       "target": "Phones must be switched off.",
+       "alternatives": [
+        "Mobile phones must be turned off.",
+        "Phones must be turned off."
+       ]
+      },
+      {
+       "id": "14-04-3",
+       "ru": "Это можно исправить.",
+       "target": "It can be fixed.",
+       "alternatives": [
+        "This can be fixed.",
+        "It can be corrected."
+       ]
+      },
+      {
+       "id": "14-04-4",
+       "ru": "На границе нужно показать паспорт.",
+       "target": "Your passport must be shown at the border.",
+       "alternatives": [
+        "You must show your passport at the border.",
+        "You have to show your passport at the border."
+       ]
+      },
+      {
+       "id": "14-04-5",
+       "ru": "Окна надо было помыть ещё весной.",
+       "target": "The windows should have been washed in the spring.",
+       "alternatives": [
+        "The windows should have been cleaned in spring."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-05",
+     "topic": "Сделал не сам: have something done",
+     "sentences": [
+      {
+       "id": "14-05-1",
+       "ru": "Я подстригся вчера.",
+       "target": "I had my hair cut yesterday.",
+       "alternatives": [
+        "I got my hair cut yesterday."
+       ]
+      },
+      {
+       "id": "14-05-2",
+       "ru": "Нам надо отремонтировать крышу.",
+       "target": "We need to have the roof repaired.",
+       "alternatives": [
+        "We need to get the roof repaired.",
+        "We need to have the roof fixed."
+       ]
+      },
+      {
+       "id": "14-05-3",
+       "ru": "Где ты чинишь свой велосипед?",
+       "target": "Where do you get your bike repaired?",
+       "alternatives": [
+        "Where do you have your bike repaired?",
+        "Where do you get your bicycle fixed?"
+       ]
+      },
+      {
+       "id": "14-05-4",
+       "ru": "Мне нужно проверить зрение.",
+       "target": "I need to have my eyes tested.",
+       "alternatives": [
+        "I need to get my eyes tested.",
+        "I need to have my eyes checked."
+       ]
+      },
+      {
+       "id": "14-05-5",
+       "ru": "У него угнали машину.",
+       "target": "He had his car stolen.",
+       "alternatives": [
+        "His car was stolen.",
+        "His car got stolen."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-06",
+     "topic": "Кем и чем: by, with",
+     "sentences": [
+      {
+       "id": "14-06-1",
+       "ru": "Эту книгу написал известный писатель.",
+       "target": "This book was written by a famous writer.",
+       "alternatives": [
+        "The book was written by a famous writer."
+       ]
+      },
+      {
+       "id": "14-06-2",
+       "ru": "Дверь открыли ключом.",
+       "target": "The door was opened with a key.",
+       "alternatives": []
+      },
+      {
+       "id": "14-06-3",
+       "ru": "Нас разбудил шум.",
+       "target": "We were woken up by a noise.",
+       "alternatives": [
+        "We were woken by the noise.",
+        "The noise woke us up."
+       ]
+      },
+      {
+       "id": "14-06-4",
+       "ru": "Торт был украшен клубникой.",
+       "target": "The cake was decorated with strawberries.",
+       "alternatives": []
+      },
+      {
+       "id": "14-06-5",
+       "ru": "Эту картину нарисовал мой брат.",
+       "target": "This picture was painted by my brother.",
+       "alternatives": [
+        "My brother painted this picture."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-07",
+     "topic": "Родился и сделан: born, made of",
+     "sentences": [
+      {
+       "id": "14-07-1",
+       "ru": "Где ты родился?",
+       "target": "Where were you born?",
+       "alternatives": []
+      },
+      {
+       "id": "14-07-2",
+       "ru": "Этот стол сделан из дерева.",
+       "target": "This table is made of wood.",
+       "alternatives": [
+        "The table is made of wood.",
+        "This table is made from wood."
+       ]
+      },
+      {
+       "id": "14-07-3",
+       "ru": "Сыр делают из молока.",
+       "target": "Cheese is made from milk.",
+       "alternatives": []
+      },
+      {
+       "id": "14-07-4",
+       "ru": "Он родился в маленькой деревне.",
+       "target": "He was born in a small village.",
+       "alternatives": []
+      },
+      {
+       "id": "14-07-5",
+       "ru": "Эти часы сделаны в Швейцарии.",
+       "target": "This watch was made in Switzerland.",
+       "alternatives": [
+        "These watches were made in Switzerland.",
+        "This watch is made in Switzerland."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-08",
+     "topic": "Случилось: get + причастие",
+     "sentences": [
+      {
+       "id": "14-08-1",
+       "ru": "Они поженились в июне.",
+       "target": "They got married in June.",
+       "alternatives": []
+      },
+      {
+       "id": "14-08-2",
+       "ru": "Она поранилась, когда готовила.",
+       "target": "She got hurt while she was cooking.",
+       "alternatives": [
+        "She hurt herself while cooking.",
+        "She got hurt while cooking."
+       ]
+      },
+      {
+       "id": "14-08-3",
+       "ru": "Наш рейс отменили.",
+       "target": "Our flight got cancelled.",
+       "alternatives": [
+        "Our flight was cancelled.",
+        "Our flight was canceled."
+       ]
+      },
+      {
+       "id": "14-08-4",
+       "ru": "Его повысили.",
+       "target": "He got promoted.",
+       "alternatives": [
+        "He was promoted.",
+        "He got a promotion."
+       ]
+      },
+      {
+       "id": "14-08-5",
+       "ru": "Одевайся быстрее, мы опаздываем.",
+       "target": "Get dressed quickly, we are late.",
+       "alternatives": [
+        "Hurry up and get dressed, we are late."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "14-09",
+     "topic": "Объявления и правила",
+     "sentences": [
+      {
+       "id": "14-09-1",
+       "ru": "Курить запрещено.",
+       "target": "Smoking is not allowed.",
+       "alternatives": [
+        "Smoking is forbidden.",
+        "Smoking is prohibited.",
+        "No smoking."
+       ]
+      },
+      {
+       "id": "14-09-2",
+       "ru": "Завтрак подаётся с семи до десяти.",
+       "target": "Breakfast is served from seven to ten.",
+       "alternatives": [
+        "Breakfast is served from 7 to 10."
+       ]
+      },
+      {
+       "id": "14-09-3",
+       "ru": "Магазин закрыт на ремонт.",
+       "target": "The shop is closed for repairs.",
+       "alternatives": [
+        "The store is closed for renovation.",
+        "The shop is closed for renovation."
+       ]
+      },
+      {
+       "id": "14-09-4",
+       "ru": "Билеты можно купить онлайн.",
+       "target": "Tickets can be bought online.",
+       "alternatives": [
+        "Tickets can be purchased online."
+       ]
+      },
+      {
+       "id": "14-09-5",
+       "ru": "Посетителей просят не трогать экспонаты.",
+       "target": "Visitors are asked not to touch the exhibits.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "14-10",
+     "topic": "Повторение: пассив",
+     "sentences": [
+      {
+       "id": "14-10-1",
+       "ru": "Наш дом построили сто лет назад.",
+       "target": "Our house was built a hundred years ago.",
+       "alternatives": [
+        "Our house was built one hundred years ago."
+       ]
+      },
+      {
+       "id": "14-10-2",
+       "ru": "Ключи нашли под диваном.",
+       "target": "The keys were found under the sofa.",
+       "alternatives": [
+        "The keys were found under the couch."
+       ]
+      },
+      {
+       "id": "14-10-3",
+       "ru": "Мне надо отдать куртку в химчистку.",
+       "target": "I need to have my jacket dry-cleaned.",
+       "alternatives": [
+        "I need to get my jacket dry-cleaned.",
+        "I need to have my jacket cleaned."
+       ]
+      },
+      {
+       "id": "14-10-4",
+       "ru": "Эту проблему решат на следующей неделе.",
+       "target": "This problem will be solved next week.",
+       "alternatives": [
+        "This issue will be resolved next week."
+       ]
+      },
+      {
+       "id": "14-10-5",
+       "ru": "Нас не пригласили.",
+       "target": "We weren't invited.",
+       "alternatives": [
+        "We were not invited."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 15,
+   "title": "Связная речь",
+   "blocks": [
+    {
+     "id": "15-01",
+     "topic": "Чей и где: whose, where",
+     "sentences": [
+      {
+       "id": "15-01-1",
+       "ru": "Это человек, чья собака меня укусила.",
+       "target": "This is the man whose dog bit me.",
+       "alternatives": [
+        "That is the man whose dog bit me."
+       ]
+      },
+      {
+       "id": "15-01-2",
+       "ru": "Это кафе, где мы познакомились.",
+       "target": "This is the café where we met.",
+       "alternatives": [
+        "This is the cafe where we met."
+       ]
+      },
+      {
+       "id": "15-01-3",
+       "ru": "У меня есть друг, отец которого пилот.",
+       "target": "I have a friend whose father is a pilot.",
+       "alternatives": [
+        "I have got a friend whose father is a pilot."
+       ]
+      },
+      {
+       "id": "15-01-4",
+       "ru": "Помнишь день, когда мы встретились?",
+       "target": "Do you remember the day when we met?",
+       "alternatives": [
+        "Do you remember the day we met?"
+       ]
+      },
+      {
+       "id": "15-01-5",
+       "ru": "Это причина, по которой я ушёл.",
+       "target": "That is the reason why I left.",
+       "alternatives": [
+        "This is the reason why I left.",
+        "That is why I left."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-02",
+     "topic": "Который, через запятую",
+     "sentences": [
+      {
+       "id": "15-02-1",
+       "ru": "Мой брат, который живёт в Канаде, приезжает завтра.",
+       "target": "My brother, who lives in Canada, is coming tomorrow.",
+       "alternatives": []
+      },
+      {
+       "id": "15-02-2",
+       "ru": "Лондон, где я учился, очень дорогой город.",
+       "target": "London, where I studied, is a very expensive city.",
+       "alternatives": []
+      },
+      {
+       "id": "15-02-3",
+       "ru": "Она подарила мне книгу, которую я уже читал.",
+       "target": "She gave me a book that I had already read.",
+       "alternatives": [
+        "She gave me a book which I had already read.",
+        "She gave me a book I had already read."
+       ]
+      },
+      {
+       "id": "15-02-4",
+       "ru": "Наш учитель, которого все любили, ушёл на пенсию.",
+       "target": "Our teacher, who everyone loved, has retired.",
+       "alternatives": [
+        "Our teacher, whom everybody loved, retired.",
+        "Our teacher, who everybody loved, has retired."
+       ]
+      },
+      {
+       "id": "15-02-5",
+       "ru": "Он опоздал, что меня очень разозлило.",
+       "target": "He was late, which made me very angry.",
+       "alternatives": [
+        "He was late, which really annoyed me."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-03",
+     "topic": "Хотя: although, even though",
+     "sentences": [
+      {
+       "id": "15-03-1",
+       "ru": "Хотя шёл дождь, мы пошли гулять.",
+       "target": "Although it was raining, we went for a walk.",
+       "alternatives": [
+        "Even though it was raining, we went for a walk."
+       ]
+      },
+      {
+       "id": "15-03-2",
+       "ru": "Он пришёл на работу, хотя был болен.",
+       "target": "He came to work even though he was ill.",
+       "alternatives": [
+        "He came to work although he was sick."
+       ]
+      },
+      {
+       "id": "15-03-3",
+       "ru": "Хотя она богата, она не счастлива.",
+       "target": "Although she is rich, she is not happy.",
+       "alternatives": [
+        "Even though she is rich, she is not happy."
+       ]
+      },
+      {
+       "id": "15-03-4",
+       "ru": "Я всё равно пойду.",
+       "target": "I will go anyway.",
+       "alternatives": [
+        "I am going anyway.",
+        "I will still go."
+       ]
+      },
+      {
+       "id": "15-03-5",
+       "ru": "Фильм был длинным, но всё же интересным.",
+       "target": "The film was long but still interesting.",
+       "alternatives": [
+        "The movie was long, but it was still interesting."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-04",
+     "topic": "Несмотря на: despite, in spite of",
+     "sentences": [
+      {
+       "id": "15-04-1",
+       "ru": "Несмотря на дождь, мы играли в футбол.",
+       "target": "Despite the rain, we played football.",
+       "alternatives": [
+        "In spite of the rain, we played football.",
+        "Despite the rain, we played soccer."
+       ]
+      },
+      {
+       "id": "15-04-2",
+       "ru": "Несмотря на усталость, она закончила работу.",
+       "target": "Despite being tired, she finished the work.",
+       "alternatives": [
+        "In spite of her tiredness, she finished the work.",
+        "Despite being tired, she finished her work."
+       ]
+      },
+      {
+       "id": "15-04-3",
+       "ru": "Он получил работу, несмотря на отсутствие опыта.",
+       "target": "He got the job despite his lack of experience.",
+       "alternatives": [
+        "He got the job in spite of having no experience."
+       ]
+      },
+      {
+       "id": "15-04-4",
+       "ru": "Несмотря на то что было поздно, магазин был открыт.",
+       "target": "Despite the fact that it was late, the shop was open.",
+       "alternatives": [
+        "Although it was late, the shop was still open.",
+        "Despite it being late, the store was open."
+       ]
+      },
+      {
+       "id": "15-04-5",
+       "ru": "Несмотря на все проблемы, мы справились.",
+       "target": "Despite all the problems, we managed.",
+       "alternatives": [
+        "In spite of all the problems, we coped."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-05",
+     "topic": "Чтобы: so that, in order to",
+     "sentences": [
+      {
+       "id": "15-05-1",
+       "ru": "Я встал рано, чтобы успеть на поезд.",
+       "target": "I got up early to catch the train.",
+       "alternatives": [
+        "I got up early in order to catch the train.",
+        "I got up early so that I could catch the train."
+       ]
+      },
+      {
+       "id": "15-05-2",
+       "ru": "Говори громче, чтобы все слышали.",
+       "target": "Speak louder so that everyone can hear.",
+       "alternatives": [
+        "Speak up so that everybody can hear you.",
+        "Speak louder so everyone can hear."
+       ]
+      },
+      {
+       "id": "15-05-3",
+       "ru": "Она копит деньги, чтобы купить машину.",
+       "target": "She is saving money to buy a car.",
+       "alternatives": [
+        "She is saving up to buy a car.",
+        "She's saving money to buy a car."
+       ]
+      },
+      {
+       "id": "15-05-4",
+       "ru": "Я записал адрес, чтобы не забыть.",
+       "target": "I wrote down the address so that I wouldn't forget it.",
+       "alternatives": [
+        "I wrote down the address so as not to forget it.",
+        "I wrote the address down so I wouldn't forget it."
+       ]
+      },
+      {
+       "id": "15-05-5",
+       "ru": "Мы говорили тихо, чтобы не разбудить ребёнка.",
+       "target": "We spoke quietly so as not to wake the baby.",
+       "alternatives": [
+        "We talked quietly so that we wouldn't wake the baby.",
+        "We spoke quietly so we would not wake the baby."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-06",
+     "topic": "Поэтому и в результате: so, as a result",
+     "sentences": [
+      {
+       "id": "15-06-1",
+       "ru": "Шёл сильный снег, поэтому рейс отменили.",
+       "target": "It was snowing heavily, so the flight was cancelled.",
+       "alternatives": [
+        "It was snowing hard, so the flight was canceled."
+       ]
+      },
+      {
+       "id": "15-06-2",
+       "ru": "Он много тренировался и в результате выиграл.",
+       "target": "He trained a lot and as a result he won.",
+       "alternatives": [
+        "He trained hard and, as a result, he won."
+       ]
+      },
+      {
+       "id": "15-06-3",
+       "ru": "Было так холодно, что мы остались дома.",
+       "target": "It was so cold that we stayed at home.",
+       "alternatives": [
+        "It was so cold we stayed home."
+       ]
+      },
+      {
+       "id": "15-06-4",
+       "ru": "Это был такой скучный фильм, что я уснул.",
+       "target": "It was such a boring film that I fell asleep.",
+       "alternatives": [
+        "It was such a boring movie that I fell asleep."
+       ]
+      },
+      {
+       "id": "15-06-5",
+       "ru": "Из-за пробки мы опоздали.",
+       "target": "We were late because of the traffic jam.",
+       "alternatives": [
+        "Because of the traffic, we were late.",
+        "We were late due to the traffic jam."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-07",
+     "topic": "Кроме того и однако: besides, however",
+     "sentences": [
+      {
+       "id": "15-07-1",
+       "ru": "Кроме того, это слишком дорого.",
+       "target": "Besides, it is too expensive.",
+       "alternatives": [
+        "Besides, it's too expensive.",
+        "Moreover, it is too expensive."
+       ]
+      },
+      {
+       "id": "15-07-2",
+       "ru": "Однако есть одна проблема.",
+       "target": "However, there is one problem.",
+       "alternatives": [
+        "However, there is a problem."
+       ]
+      },
+      {
+       "id": "15-07-3",
+       "ru": "С одной стороны, это удобно, с другой — дорого.",
+       "target": "On the one hand it is convenient, on the other hand it is expensive.",
+       "alternatives": [
+        "On one hand, it's convenient; on the other hand, it's expensive."
+       ]
+      },
+      {
+       "id": "15-07-4",
+       "ru": "Кроме меня, никто не пришёл.",
+       "target": "Nobody came except me.",
+       "alternatives": [
+        "No one came apart from me.",
+        "Nobody except me came."
+       ]
+      },
+      {
+       "id": "15-07-5",
+       "ru": "Вместо того чтобы помочь, он ушёл.",
+       "target": "Instead of helping, he left.",
+       "alternatives": [
+        "Instead of helping, he went away."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-08",
+     "topic": "Буду делать: will be doing",
+     "sentences": [
+      {
+       "id": "15-08-1",
+       "ru": "Завтра в это время я буду лететь в Рим.",
+       "target": "This time tomorrow I will be flying to Rome.",
+       "alternatives": [
+        "At this time tomorrow I will be flying to Rome."
+       ]
+      },
+      {
+       "id": "15-08-2",
+       "ru": "Не звони в восемь, я буду ужинать.",
+       "target": "Don't call at eight, I will be having dinner.",
+       "alternatives": [
+        "Don't phone at eight, I will be having dinner."
+       ]
+      },
+      {
+       "id": "15-08-3",
+       "ru": "Ты будешь пользоваться машиной вечером?",
+       "target": "Will you be using the car this evening?",
+       "alternatives": [
+        "Will you be using the car tonight?"
+       ]
+      },
+      {
+       "id": "15-08-4",
+       "ru": "Через год мы будем жить в новом доме.",
+       "target": "In a year we will be living in a new house.",
+       "alternatives": [
+        "A year from now we will be living in a new house."
+       ]
+      },
+      {
+       "id": "15-08-5",
+       "ru": "Не беспокойся, я буду ждать тебя у входа.",
+       "target": "Don't worry, I will be waiting for you at the entrance.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "15-09",
+     "topic": "Глагол после глагола: stop doing, stop to do",
+     "sentences": [
+      {
+       "id": "15-09-1",
+       "ru": "Она перестала мне звонить.",
+       "target": "She stopped calling me.",
+       "alternatives": [
+        "She has stopped calling me.",
+        "She stopped phoning me."
+       ]
+      },
+      {
+       "id": "15-09-2",
+       "ru": "Мы остановились, чтобы купить воды.",
+       "target": "We stopped to buy some water.",
+       "alternatives": [
+        "We stopped to buy water."
+       ]
+      },
+      {
+       "id": "15-09-3",
+       "ru": "Не забудь выключить свет.",
+       "target": "Don't forget to turn off the light.",
+       "alternatives": [
+        "Don't forget to switch off the light.",
+        "Don't forget to switch the light off."
+       ]
+      },
+      {
+       "id": "15-09-4",
+       "ru": "Я помню, как встречал его в детстве.",
+       "target": "I remember meeting him as a child.",
+       "alternatives": [
+        "I remember meeting him when I was a child."
+       ]
+      },
+      {
+       "id": "15-09-5",
+       "ru": "Попробуй перезагрузить компьютер.",
+       "target": "Try restarting the computer.",
+       "alternatives": [
+        "Try rebooting the computer.",
+        "Try to restart the computer."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15-10",
+     "topic": "Повторение: связная речь",
+     "sentences": [
+      {
+       "id": "15-10-1",
+       "ru": "Девушка, с которой я работаю, говорит на трёх языках.",
+       "target": "The girl I work with speaks three languages.",
+       "alternatives": [
+        "The girl who I work with speaks three languages.",
+        "The woman I work with speaks three languages."
+       ]
+      },
+      {
+       "id": "15-10-2",
+       "ru": "Хотя было дорого, мы купили билеты.",
+       "target": "Although it was expensive, we bought the tickets.",
+       "alternatives": [
+        "Even though it was expensive, we bought tickets."
+       ]
+      },
+      {
+       "id": "15-10-3",
+       "ru": "Он ушёл рано, чтобы не попасть в пробку.",
+       "target": "He left early so as not to get stuck in traffic.",
+       "alternatives": [
+        "He left early to avoid the traffic.",
+        "He left early so that he wouldn't get stuck in traffic."
+       ]
+      },
+      {
+       "id": "15-10-4",
+       "ru": "Было так жарко, что мы не могли спать.",
+       "target": "It was so hot that we couldn't sleep.",
+       "alternatives": [
+        "It was so hot we could not sleep."
+       ]
+      },
+      {
+       "id": "15-10-5",
+       "ru": "Вместо того чтобы смотреть телевизор, почитай книгу.",
+       "target": "Instead of watching TV, read a book.",
+       "alternatives": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 16,
+   "title": "Догадки и выводы",
+   "blocks": [
+    {
+     "id": "16-01",
+     "topic": "Наверное, сделал: must have",
+     "sentences": [
+      {
+       "id": "16-01-1",
+       "ru": "Наверное, он уже ушёл.",
+       "target": "He must have left already.",
+       "alternatives": [
+        "He must have already left."
+       ]
+      },
+      {
+       "id": "16-01-2",
+       "ru": "Ты, должно быть, очень устал после поездки.",
+       "target": "You must have been very tired after the trip.",
+       "alternatives": [
+        "You must be very tired after the trip."
+       ]
+      },
+      {
+       "id": "16-01-3",
+       "ru": "Она, видимо, забыла про встречу.",
+       "target": "She must have forgotten about the meeting.",
+       "alternatives": [
+        "She must have forgotten the meeting."
+       ]
+      },
+      {
+       "id": "16-01-4",
+       "ru": "Ночью, наверное, шёл дождь: дорога мокрая.",
+       "target": "It must have rained at night, the road is wet.",
+       "alternatives": [
+        "It must have rained during the night because the road is wet.",
+        "It must have been raining at night; the road is wet."
+       ]
+      },
+      {
+       "id": "16-01-5",
+       "ru": "Должно быть, это было ужасно.",
+       "target": "It must have been terrible.",
+       "alternatives": [
+        "That must have been awful.",
+        "It must have been awful."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-02",
+     "topic": "Не может быть: can't have",
+     "sentences": [
+      {
+       "id": "16-02-1",
+       "ru": "Не может быть, чтобы он это сказал.",
+       "target": "He can't have said that.",
+       "alternatives": [
+        "He couldn't have said that."
+       ]
+      },
+      {
+       "id": "16-02-2",
+       "ru": "Она не могла уйти так рано.",
+       "target": "She can't have left so early.",
+       "alternatives": [
+        "She couldn't have left so early.",
+        "She can't have left that early."
+       ]
+      },
+      {
+       "id": "16-02-3",
+       "ru": "Ты не мог видеть его вчера: он в Америке.",
+       "target": "You can't have seen him yesterday, he is in America.",
+       "alternatives": [
+        "You couldn't have seen him yesterday; he's in America."
+       ]
+      },
+      {
+       "id": "16-02-4",
+       "ru": "Это не может быть правдой.",
+       "target": "That can't be true.",
+       "alternatives": [
+        "It can't be true."
+       ]
+      },
+      {
+       "id": "16-02-5",
+       "ru": "Они не могли заблудиться, у них есть карта.",
+       "target": "They can't have got lost, they have a map.",
+       "alternatives": [
+        "They couldn't have got lost; they have a map.",
+        "They can't have gotten lost, they have a map."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-03",
+     "topic": "Может, сделал: might have",
+     "sentences": [
+      {
+       "id": "16-03-1",
+       "ru": "Возможно, он не слышал звонка.",
+       "target": "He might not have heard the phone.",
+       "alternatives": [
+        "He may not have heard the phone ring.",
+        "He might not have heard the bell."
+       ]
+      },
+      {
+       "id": "16-03-2",
+       "ru": "Может быть, она опоздала на поезд.",
+       "target": "She might have missed the train.",
+       "alternatives": [
+        "She may have missed the train."
+       ]
+      },
+      {
+       "id": "16-03-3",
+       "ru": "Я мог оставить ключи в машине.",
+       "target": "I might have left the keys in the car.",
+       "alternatives": [
+        "I may have left my keys in the car.",
+        "I might have left my keys in the car."
+       ]
+      },
+      {
+       "id": "16-03-4",
+       "ru": "Они, возможно, уже знают.",
+       "target": "They might already know.",
+       "alternatives": [
+        "They may already know.",
+        "They might know already."
+       ]
+      },
+      {
+       "id": "16-03-5",
+       "ru": "Может, он и прав.",
+       "target": "He may be right.",
+       "alternatives": [
+        "He might be right.",
+        "Maybe he is right."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-04",
+     "topic": "Зря: needn't have, didn't need to",
+     "sentences": [
+      {
+       "id": "16-04-1",
+       "ru": "Тебе не нужно было приносить подарок.",
+       "target": "You needn't have brought a present.",
+       "alternatives": [
+        "You didn't need to bring a gift.",
+        "You need not have brought a present."
+       ]
+      },
+      {
+       "id": "16-04-2",
+       "ru": "Мне не пришлось ждать долго.",
+       "target": "I didn't have to wait long.",
+       "alternatives": [
+        "I didn't have to wait for long."
+       ]
+      },
+      {
+       "id": "16-04-3",
+       "ru": "Зря я так волновался.",
+       "target": "I needn't have worried so much.",
+       "alternatives": [
+        "I shouldn't have worried so much."
+       ]
+      },
+      {
+       "id": "16-04-4",
+       "ru": "Тебе не обязательно отвечать сейчас.",
+       "target": "You don't have to answer now.",
+       "alternatives": [
+        "You don't need to answer right now.",
+        "You don't have to reply now."
+       ]
+      },
+      {
+       "id": "16-04-5",
+       "ru": "Нам не нужно было брать зонт: дождя не было.",
+       "target": "We needn't have taken an umbrella, it didn't rain.",
+       "alternatives": [
+        "We didn't need to take an umbrella because it didn't rain."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-05",
+     "topic": "Должен был: be supposed to",
+     "sentences": [
+      {
+       "id": "16-05-1",
+       "ru": "Поезд должен был прийти в шесть.",
+       "target": "The train was supposed to arrive at six.",
+       "alternatives": [
+        "The train was due to arrive at six.",
+        "The train was supposed to arrive at 6."
+       ]
+      },
+      {
+       "id": "16-05-2",
+       "ru": "Ты не должен был этого видеть.",
+       "target": "You weren't supposed to see that.",
+       "alternatives": [
+        "You weren't supposed to see this."
+       ]
+      },
+      {
+       "id": "16-05-3",
+       "ru": "И что мне теперь делать?",
+       "target": "What am I supposed to do now?",
+       "alternatives": [
+        "So what should I do now?"
+       ]
+      },
+      {
+       "id": "16-05-4",
+       "ru": "Здесь не положено парковаться.",
+       "target": "You are not supposed to park here.",
+       "alternatives": [
+        "You aren't supposed to park here."
+       ]
+      },
+      {
+       "id": "16-05-5",
+       "ru": "Этот фильм, говорят, очень смешной.",
+       "target": "This film is supposed to be very funny.",
+       "alternatives": [
+        "This movie is supposed to be really funny."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-06",
+     "topic": "Вероятно: be likely to, be bound to",
+     "sentences": [
+      {
+       "id": "16-06-1",
+       "ru": "Скорее всего, он опоздает.",
+       "target": "He is likely to be late.",
+       "alternatives": [
+        "He will probably be late.",
+        "He's likely to be late."
+       ]
+      },
+      {
+       "id": "16-06-2",
+       "ru": "Вряд ли она согласится.",
+       "target": "She is unlikely to agree.",
+       "alternatives": [
+        "She probably won't agree.",
+        "It is unlikely that she will agree.",
+        "She's unlikely to agree."
+       ]
+      },
+      {
+       "id": "16-06-3",
+       "ru": "Он обязательно заметит.",
+       "target": "He is bound to notice.",
+       "alternatives": [
+        "He is sure to notice.",
+        "He's bound to notice."
+       ]
+      },
+      {
+       "id": "16-06-4",
+       "ru": "Цены, вероятно, вырастут в следующем году.",
+       "target": "Prices are likely to rise next year.",
+       "alternatives": [
+        "Prices will probably go up next year."
+       ]
+      },
+      {
+       "id": "16-06-5",
+       "ru": "Есть шанс, что пойдёт снег.",
+       "target": "There is a chance that it will snow.",
+       "alternatives": [
+        "There's a chance it will snow.",
+        "There is a chance of snow."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-07",
+     "topic": "Как будто: as if, as though",
+     "sentences": [
+      {
+       "id": "16-07-1",
+       "ru": "Он выглядит так, будто не спал всю ночь.",
+       "target": "He looks as if he hasn't slept all night.",
+       "alternatives": [
+        "He looks as though he hasn't slept all night.",
+        "He looks like he hasn't slept all night."
+       ]
+      },
+      {
+       "id": "16-07-2",
+       "ru": "Она говорит так, будто всё знает.",
+       "target": "She talks as if she knows everything.",
+       "alternatives": [
+        "She speaks as though she knew everything.",
+        "She talks as if she knew everything."
+       ]
+      },
+      {
+       "id": "16-07-3",
+       "ru": "Похоже, будет гроза.",
+       "target": "It looks as if there is going to be a storm.",
+       "alternatives": [
+        "It looks like there's going to be a thunderstorm.",
+        "It looks like there's going to be a storm."
+       ]
+      },
+      {
+       "id": "16-07-4",
+       "ru": "Он вёл себя так, будто ничего не случилось.",
+       "target": "He behaved as if nothing had happened.",
+       "alternatives": [
+        "He acted as though nothing had happened.",
+        "He acted as if nothing had happened."
+       ]
+      },
+      {
+       "id": "16-07-5",
+       "ru": "Мне кажется, я тебя где-то видел.",
+       "target": "I feel as if I have seen you somewhere.",
+       "alternatives": [
+        "I think I have seen you somewhere before.",
+        "I feel like I have seen you somewhere."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-08",
+     "topic": "Догадки о сейчас: must be, can't be",
+     "sentences": [
+      {
+       "id": "16-08-1",
+       "ru": "Это, должно быть, твоя сестра.",
+       "target": "This must be your sister.",
+       "alternatives": [
+        "That must be your sister."
+       ]
+      },
+      {
+       "id": "16-08-2",
+       "ru": "Его не может быть дома: свет не горит.",
+       "target": "He can't be at home, the lights are off.",
+       "alternatives": [
+        "He can't be home; the lights are off."
+       ]
+      },
+      {
+       "id": "16-08-3",
+       "ru": "Должно быть, они сейчас ужинают.",
+       "target": "They must be having dinner now.",
+       "alternatives": [
+        "They must be having dinner right now."
+       ]
+      },
+      {
+       "id": "16-08-4",
+       "ru": "Ты, наверное, шутишь!",
+       "target": "You must be joking!",
+       "alternatives": [
+        "You must be kidding!"
+       ]
+      },
+      {
+       "id": "16-08-5",
+       "ru": "Она, возможно, сейчас на работе.",
+       "target": "She might be at work now.",
+       "alternatives": [
+        "She may be at work right now.",
+        "She could be at work now."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-09",
+     "topic": "Может, делал: might have been doing",
+     "sentences": [
+      {
+       "id": "16-09-1",
+       "ru": "Он, наверное, спал, когда ты звонил.",
+       "target": "He must have been sleeping when you called.",
+       "alternatives": [
+        "He must have been asleep when you phoned."
+       ]
+      },
+      {
+       "id": "16-09-2",
+       "ru": "Может, она работала допоздна.",
+       "target": "She might have been working late.",
+       "alternatives": [
+        "She may have been working late."
+       ]
+      },
+      {
+       "id": "16-09-3",
+       "ru": "Ты, должно быть, ждал целую вечность.",
+       "target": "You must have been waiting for ages.",
+       "alternatives": [
+        "You must have been waiting forever."
+       ]
+      },
+      {
+       "id": "16-09-4",
+       "ru": "Не может быть, чтобы он был за рулём: у него нет прав.",
+       "target": "He can't have been driving, he doesn't have a licence.",
+       "alternatives": [
+        "He can't have been driving; he doesn't have a license.",
+        "He couldn't have been driving because he has no driving licence."
+       ]
+      },
+      {
+       "id": "16-09-5",
+       "ru": "Может, они просто шутили.",
+       "target": "They might have just been joking.",
+       "alternatives": [
+        "They may have been joking.",
+        "Maybe they were just joking."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "16-10",
+     "topic": "Повторение: догадки",
+     "sentences": [
+      {
+       "id": "16-10-1",
+       "ru": "Наверное, я потерял телефон в такси.",
+       "target": "I must have lost my phone in the taxi.",
+       "alternatives": [
+        "I must have left my phone in the taxi."
+       ]
+      },
+      {
+       "id": "16-10-2",
+       "ru": "Она не могла этого сделать: её здесь не было.",
+       "target": "She can't have done it, she wasn't here.",
+       "alternatives": [
+        "She couldn't have done that; she wasn't here."
+       ]
+      },
+      {
+       "id": "16-10-3",
+       "ru": "Не стоило ради меня так стараться.",
+       "target": "You needn't have gone to so much trouble for me.",
+       "alternatives": [
+        "You shouldn't have gone to so much trouble for me."
+       ]
+      },
+      {
+       "id": "16-10-4",
+       "ru": "Посылка должна была прийти вчера.",
+       "target": "The parcel was supposed to arrive yesterday.",
+       "alternatives": [
+        "The package was supposed to come yesterday.",
+        "The parcel was due yesterday."
+       ]
+      },
+      {
+       "id": "16-10-5",
+       "ru": "Вряд ли мы успеем до обеда.",
+       "target": "We are unlikely to finish before lunch.",
+       "alternatives": [
+        "We probably won't make it before lunch.",
+        "We're unlikely to be done before lunch."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 17,
+   "title": "Время и планы",
+   "blocks": [
+    {
+     "id": "17-01",
+     "topic": "Уже сделаю к: will have done",
+     "sentences": [
+      {
+       "id": "17-01-1",
+       "ru": "К вечеру я уже закончу отчёт.",
+       "target": "I will have finished the report by the evening.",
+       "alternatives": [
+        "By this evening I will have finished the report.",
+        "I will have finished the report by tonight."
+       ]
+      },
+      {
+       "id": "17-01-2",
+       "ru": "К тому времени, как ты приедешь, мы уже поедим.",
+       "target": "By the time you arrive, we will have eaten.",
+       "alternatives": [
+        "By the time you get here, we will have already eaten.",
+        "By the time you come, we will have had dinner."
+       ]
+      },
+      {
+       "id": "17-01-3",
+       "ru": "В следующем месяце будет десять лет, как мы женаты.",
+       "target": "Next month we will have been married for ten years.",
+       "alternatives": []
+      },
+      {
+       "id": "17-01-4",
+       "ru": "К 2030 году город сильно изменится.",
+       "target": "By 2030 the city will have changed a lot.",
+       "alternatives": [
+        "By 2030, the city will have changed a great deal."
+       ]
+      },
+      {
+       "id": "17-01-5",
+       "ru": "Когда ты позвонишь, он уже уйдёт.",
+       "target": "He will have left by the time you call.",
+       "alternatives": [
+        "He will already have left when you phone."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-02",
+     "topic": "Собирался, но: was going to",
+     "sentences": [
+      {
+       "id": "17-02-1",
+       "ru": "Я собирался тебе позвонить, но забыл.",
+       "target": "I was going to call you, but I forgot.",
+       "alternatives": [
+        "I was going to phone you but I forgot."
+       ]
+      },
+      {
+       "id": "17-02-2",
+       "ru": "Мы собирались поехать на море, но пошёл дождь.",
+       "target": "We were going to go to the seaside, but it rained.",
+       "alternatives": [
+        "We were going to go to the beach, but it started raining."
+       ]
+      },
+      {
+       "id": "17-02-3",
+       "ru": "Она собиралась уволиться, но передумала.",
+       "target": "She was going to quit, but she changed her mind.",
+       "alternatives": [
+        "She was going to resign but changed her mind."
+       ]
+      },
+      {
+       "id": "17-02-4",
+       "ru": "Я как раз собирался уходить.",
+       "target": "I was just about to leave.",
+       "alternatives": [
+        "I was just going to leave."
+       ]
+      },
+      {
+       "id": "17-02-5",
+       "ru": "Ты собирался мне рассказать?",
+       "target": "Were you going to tell me?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "17-03",
+     "topic": "Вот-вот: be about to",
+     "sentences": [
+      {
+       "id": "17-03-1",
+       "ru": "Фильм вот-вот начнётся.",
+       "target": "The film is about to start.",
+       "alternatives": [
+        "The movie is about to begin.",
+        "The film is about to begin."
+       ]
+      },
+      {
+       "id": "17-03-2",
+       "ru": "Я как раз собирался тебе написать.",
+       "target": "I was just about to text you.",
+       "alternatives": [
+        "I was about to write to you.",
+        "I was just about to message you."
+       ]
+      },
+      {
+       "id": "17-03-3",
+       "ru": "Поезд вот-вот отправится.",
+       "target": "The train is about to leave.",
+       "alternatives": [
+        "The train is about to depart."
+       ]
+      },
+      {
+       "id": "17-03-4",
+       "ru": "Батарея вот-вот сядет.",
+       "target": "The battery is about to die.",
+       "alternatives": [
+        "My battery is about to run out.",
+        "The battery is about to go dead."
+       ]
+      },
+      {
+       "id": "17-03-5",
+       "ru": "Мы были готовы сдаться.",
+       "target": "We were on the verge of giving up.",
+       "alternatives": [
+        "We were about to give up.",
+        "We were ready to give up."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-04",
+     "topic": "По расписанию: be due, present simple",
+     "sentences": [
+      {
+       "id": "17-04-1",
+       "ru": "Самолёт прибывает в 10:30.",
+       "target": "The plane arrives at 10:30.",
+       "alternatives": [
+        "The plane lands at 10:30.",
+        "The flight arrives at half past ten."
+       ]
+      },
+      {
+       "id": "17-04-2",
+       "ru": "Ребёнок должен родиться в мае.",
+       "target": "The baby is due in May.",
+       "alternatives": []
+      },
+      {
+       "id": "17-04-3",
+       "ru": "Отчёт нужно сдать в понедельник.",
+       "target": "The report is due on Monday.",
+       "alternatives": []
+      },
+      {
+       "id": "17-04-4",
+       "ru": "Во сколько завтра начинается конференция?",
+       "target": "What time does the conference start tomorrow?",
+       "alternatives": [
+        "When does the conference begin tomorrow?"
+       ]
+      },
+      {
+       "id": "17-04-5",
+       "ru": "Выставка открывается в следующую пятницу.",
+       "target": "The exhibition opens next Friday.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "17-05",
+     "topic": "Как только и пока не: once, until",
+     "sentences": [
+      {
+       "id": "17-05-1",
+       "ru": "Как только закончишь, дай мне знать.",
+       "target": "Once you finish, let me know.",
+       "alternatives": [
+        "Let me know as soon as you have finished.",
+        "Let me know once you're done."
+       ]
+      },
+      {
+       "id": "17-05-2",
+       "ru": "Не уходи, пока я не скажу.",
+       "target": "Don't leave until I tell you.",
+       "alternatives": [
+        "Don't go until I say so.",
+        "Don't leave until I say."
+       ]
+      },
+      {
+       "id": "17-05-3",
+       "ru": "Я не лягу спать, пока не дочитаю эту книгу.",
+       "target": "I won't go to bed until I finish this book.",
+       "alternatives": [
+        "I won't go to bed until I have finished this book."
+       ]
+      },
+      {
+       "id": "17-05-4",
+       "ru": "Когда приедешь, сразу позвони мне.",
+       "target": "Call me as soon as you arrive.",
+       "alternatives": [
+        "Phone me as soon as you get there.",
+        "Call me as soon as you get there."
+       ]
+      },
+      {
+       "id": "17-05-5",
+       "ru": "После того как заполните анкету, отдайте её секретарю.",
+       "target": "After you have filled in the form, give it to the secretary.",
+       "alternatives": [
+        "Once you have filled out the form, hand it to the secretary.",
+        "After you fill in the form, give it to the secretary."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-06",
+     "topic": "Давно пора: it's time",
+     "sentences": [
+      {
+       "id": "17-06-1",
+       "ru": "Пора идти.",
+       "target": "It is time to go.",
+       "alternatives": [
+        "It's time to go.",
+        "It's time we went."
+       ]
+      },
+      {
+       "id": "17-06-2",
+       "ru": "Тебе давно пора найти работу.",
+       "target": "It's high time you found a job.",
+       "alternatives": [
+        "It's high time you got a job."
+       ]
+      },
+      {
+       "id": "17-06-3",
+       "ru": "Детям пора ложиться спать.",
+       "target": "It is time the children went to bed.",
+       "alternatives": [
+        "It's time for the kids to go to bed.",
+        "It is time for the children to go to bed."
+       ]
+      },
+      {
+       "id": "17-06-4",
+       "ru": "Нам пора поговорить серьёзно.",
+       "target": "It is time we had a serious talk.",
+       "alternatives": [
+        "It's time we talked seriously."
+       ]
+      },
+      {
+       "id": "17-06-5",
+       "ru": "Самое время что-то менять.",
+       "target": "It is about time something changed.",
+       "alternatives": [
+        "It's about time we changed something."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-07",
+     "topic": "До сих пор и пока что: still, yet, so far",
+     "sentences": [
+      {
+       "id": "17-07-1",
+       "ru": "Я до сих пор не получил ответа.",
+       "target": "I still haven't received an answer.",
+       "alternatives": [
+        "I still haven't got a reply.",
+        "I still haven't got an answer."
+       ]
+      },
+      {
+       "id": "17-07-2",
+       "ru": "Пока всё идёт хорошо.",
+       "target": "So far everything is going well.",
+       "alternatives": [
+        "So far, so good.",
+        "Everything is going well so far."
+       ]
+      },
+      {
+       "id": "17-07-3",
+       "ru": "Ты всё ещё работаешь там?",
+       "target": "Are you still working there?",
+       "alternatives": [
+        "Do you still work there?"
+       ]
+      },
+      {
+       "id": "17-07-4",
+       "ru": "Он ещё не решил.",
+       "target": "He hasn't decided yet.",
+       "alternatives": [
+        "He hasn't made up his mind yet."
+       ]
+      },
+      {
+       "id": "17-07-5",
+       "ru": "Пока что мы продали сто билетов.",
+       "target": "So far we have sold a hundred tickets.",
+       "alternatives": [
+        "We have sold one hundred tickets so far."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-08",
+     "topic": "Сроки: by, within, in",
+     "sentences": [
+      {
+       "id": "17-08-1",
+       "ru": "Проект нужно закончить к концу месяца.",
+       "target": "The project must be finished by the end of the month.",
+       "alternatives": [
+        "We need to finish the project by the end of the month."
+       ]
+      },
+      {
+       "id": "17-08-2",
+       "ru": "Я вернусь через полчаса.",
+       "target": "I will be back in half an hour.",
+       "alternatives": [
+        "I will be back in thirty minutes."
+       ]
+      },
+      {
+       "id": "17-08-3",
+       "ru": "Ответ придёт в течение недели.",
+       "target": "The answer will come within a week.",
+       "alternatives": [
+        "You will get a reply within a week.",
+        "The reply will arrive within a week."
+       ]
+      },
+      {
+       "id": "17-08-4",
+       "ru": "Сдайте документы не позднее пятницы.",
+       "target": "Submit the documents no later than Friday.",
+       "alternatives": [
+        "Hand in the documents by Friday at the latest."
+       ]
+      },
+      {
+       "id": "17-08-5",
+       "ru": "Мы закончили на два дня раньше срока.",
+       "target": "We finished two days ahead of schedule.",
+       "alternatives": [
+        "We finished two days early.",
+        "We finished two days before the deadline."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-09",
+     "topic": "Будет уже столько: will have been doing",
+     "sentences": [
+      {
+       "id": "17-09-1",
+       "ru": "В июле будет пять лет, как я здесь работаю.",
+       "target": "In July I will have been working here for five years.",
+       "alternatives": [
+        "By July I will have been working here for five years."
+       ]
+      },
+      {
+       "id": "17-09-2",
+       "ru": "К приходу врача она прождёт уже три часа.",
+       "target": "By the time the doctor arrives, she will have been waiting for three hours.",
+       "alternatives": []
+      },
+      {
+       "id": "17-09-3",
+       "ru": "К концу года мы будем строить этот дом уже два года.",
+       "target": "By the end of the year we will have been building this house for two years.",
+       "alternatives": []
+      },
+      {
+       "id": "17-09-4",
+       "ru": "Завтра будет неделя, как я не курю.",
+       "target": "Tomorrow it will be a week since I stopped smoking.",
+       "alternatives": [
+        "Tomorrow it will have been a week since I quit smoking."
+       ]
+      },
+      {
+       "id": "17-09-5",
+       "ru": "В субботу будет ровно год, как мы вместе.",
+       "target": "On Saturday it will be exactly a year since we got together.",
+       "alternatives": [
+        "On Saturday we will have been together for exactly a year."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "17-10",
+     "topic": "Повторение: время и планы",
+     "sentences": [
+      {
+       "id": "17-10-1",
+       "ru": "Я собирался купить билеты, но их все раскупили.",
+       "target": "I was going to buy tickets, but they were sold out.",
+       "alternatives": [
+        "I was going to buy the tickets, but they had all been sold."
+       ]
+      },
+      {
+       "id": "17-10-2",
+       "ru": "К пятнице я уже прочитаю эту книгу.",
+       "target": "I will have read this book by Friday.",
+       "alternatives": [
+        "By Friday I will have read this book.",
+        "I will have finished this book by Friday."
+       ]
+      },
+      {
+       "id": "17-10-3",
+       "ru": "Концерт вот-вот закончится.",
+       "target": "The concert is about to end.",
+       "alternatives": [
+        "The concert is about to finish."
+       ]
+      },
+      {
+       "id": "17-10-4",
+       "ru": "Тебе давно пора сходить к врачу.",
+       "target": "It's high time you went to the doctor.",
+       "alternatives": [
+        "It's high time you saw a doctor."
+       ]
+      },
+      {
+       "id": "17-10-5",
+       "ru": "Статью нужно сдать в среду.",
+       "target": "The article is due on Wednesday.",
+       "alternatives": [
+        "The deadline for the article is Wednesday."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 18,
+   "title": "Сложные фразы",
+   "blocks": [
+    {
+     "id": "18-01",
+     "topic": "Никогда я не: инверсия",
+     "sentences": [
+      {
+       "id": "18-01-1",
+       "ru": "Никогда я не видел такого красивого заката.",
+       "target": "Never have I seen such a beautiful sunset.",
+       "alternatives": [
+        "I have never seen such a beautiful sunset."
+       ]
+      },
+      {
+       "id": "18-01-2",
+       "ru": "Едва мы вышли, как начался дождь.",
+       "target": "Hardly had we left when it started to rain.",
+       "alternatives": [
+        "No sooner had we left than it began to rain.",
+        "We had hardly left when it started raining."
+       ]
+      },
+      {
+       "id": "18-01-3",
+       "ru": "Он не только опоздал, но и забыл документы.",
+       "target": "Not only was he late, but he also forgot the documents.",
+       "alternatives": [
+        "Not only was he late, he also forgot the papers.",
+        "He was not only late but also forgot the documents."
+       ]
+      },
+      {
+       "id": "18-01-4",
+       "ru": "Ни при каких обстоятельствах не открывайте эту дверь.",
+       "target": "Under no circumstances should you open this door.",
+       "alternatives": [
+        "Don't open this door under any circumstances."
+       ]
+      },
+      {
+       "id": "18-01-5",
+       "ru": "Только тогда я понял, что случилось.",
+       "target": "Only then did I realize what had happened.",
+       "alternatives": [
+        "Only then did I realise what had happened.",
+        "Only then did I understand what had happened."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-02",
+     "topic": "Именно: what I need is",
+     "sentences": [
+      {
+       "id": "18-02-1",
+       "ru": "Мне нужен просто отдых.",
+       "target": "What I need is a rest.",
+       "alternatives": [
+        "All I need is a rest.",
+        "What I need is just some rest."
+       ]
+      },
+      {
+       "id": "18-02-2",
+       "ru": "Именно Анна мне это рассказала.",
+       "target": "It was Anna who told me this.",
+       "alternatives": [
+        "It was Anna who told me that."
+       ]
+      },
+      {
+       "id": "18-02-3",
+       "ru": "Что меня удивило, так это его спокойствие.",
+       "target": "What surprised me was his calmness.",
+       "alternatives": [
+        "What surprised me was how calm he was."
+       ]
+      },
+      {
+       "id": "18-02-4",
+       "ru": "Именно поэтому я ушёл.",
+       "target": "That is exactly why I left.",
+       "alternatives": [
+        "That's exactly why I left."
+       ]
+      },
+      {
+       "id": "18-02-5",
+       "ru": "Единственное, чего я хочу, это спать.",
+       "target": "The only thing I want is to sleep.",
+       "alternatives": [
+        "All I want is to sleep.",
+        "All I want to do is sleep."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-03",
+     "topic": "Сделав: participle clauses",
+     "sentences": [
+      {
+       "id": "18-03-1",
+       "ru": "Закончив работу, он пошёл домой.",
+       "target": "Having finished work, he went home.",
+       "alternatives": [
+        "After finishing work, he went home.",
+        "Having finished his work, he went home."
+       ]
+      },
+      {
+       "id": "18-03-2",
+       "ru": "Не зная, что сказать, я промолчал.",
+       "target": "Not knowing what to say, I kept silent.",
+       "alternatives": [
+        "Not knowing what to say, I said nothing.",
+        "I didn't know what to say, so I kept quiet."
+       ]
+      },
+      {
+       "id": "18-03-3",
+       "ru": "Гуляя по парку, я встретил старого друга.",
+       "target": "While walking in the park, I met an old friend.",
+       "alternatives": [
+        "Walking in the park, I met an old friend.",
+        "Walking through the park, I ran into an old friend."
+       ]
+      },
+      {
+       "id": "18-03-4",
+       "ru": "Построенный в прошлом веке, дом всё ещё крепкий.",
+       "target": "Built in the last century, the house is still solid.",
+       "alternatives": [
+        "Built last century, the house is still strong."
+       ]
+      },
+      {
+       "id": "18-03-5",
+       "ru": "Человек, сидящий у окна, мой начальник.",
+       "target": "The man sitting by the window is my boss.",
+       "alternatives": [
+        "The man sitting at the window is my boss."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-04",
+     "topic": "Чем больше, тем: the more",
+     "sentences": [
+      {
+       "id": "18-04-1",
+       "ru": "Чем больше читаешь, тем больше знаешь.",
+       "target": "The more you read, the more you know.",
+       "alternatives": []
+      },
+      {
+       "id": "18-04-2",
+       "ru": "Чем раньше, тем лучше.",
+       "target": "The sooner, the better.",
+       "alternatives": [
+        "The earlier, the better."
+       ]
+      },
+      {
+       "id": "18-04-3",
+       "ru": "Чем старше я становлюсь, тем меньше сплю.",
+       "target": "The older I get, the less I sleep.",
+       "alternatives": []
+      },
+      {
+       "id": "18-04-4",
+       "ru": "Чем больше он объяснял, тем меньше я понимал.",
+       "target": "The more he explained, the less I understood.",
+       "alternatives": []
+      },
+      {
+       "id": "18-04-5",
+       "ru": "Чем быстрее мы закончим, тем раньше пойдём домой.",
+       "target": "The faster we finish, the sooner we can go home.",
+       "alternatives": [
+        "The sooner we finish, the sooner we can go home.",
+        "The quicker we finish, the sooner we go home."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-05",
+     "topic": "Такой, что: so, such, too",
+     "sentences": [
+      {
+       "id": "18-05-1",
+       "ru": "Это была такая хорошая идея, что все согласились.",
+       "target": "It was such a good idea that everyone agreed.",
+       "alternatives": [
+        "It was such a good idea that everybody agreed."
+       ]
+      },
+      {
+       "id": "18-05-2",
+       "ru": "У него было так много работы, что он не спал.",
+       "target": "He had so much work that he didn't sleep.",
+       "alternatives": [
+        "He had so much work to do that he didn't sleep."
+       ]
+      },
+      {
+       "id": "18-05-3",
+       "ru": "Чай слишком горячий, чтобы его пить.",
+       "target": "The tea is too hot to drink.",
+       "alternatives": []
+      },
+      {
+       "id": "18-05-4",
+       "ru": "Она достаточно взрослая, чтобы решать сама.",
+       "target": "She is old enough to decide for herself.",
+       "alternatives": [
+        "She's old enough to make her own decisions."
+       ]
+      },
+      {
+       "id": "18-05-5",
+       "ru": "Там было столько людей, что мы ушли.",
+       "target": "There were so many people that we left.",
+       "alternatives": [
+        "There were so many people there that we left."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-06",
+     "topic": "Ни то ни другое: either, neither, both",
+     "sentences": [
+      {
+       "id": "18-06-1",
+       "ru": "Ни один из двух ответов не верен.",
+       "target": "Neither of the answers is correct.",
+       "alternatives": [
+        "Neither answer is correct."
+       ]
+      },
+      {
+       "id": "18-06-2",
+       "ru": "Можешь взять любой из двух.",
+       "target": "You can take either of them.",
+       "alternatives": [
+        "You can take either one.",
+        "You can have either of the two."
+       ]
+      },
+      {
+       "id": "18-06-3",
+       "ru": "Мне нравятся оба варианта.",
+       "target": "I like both options.",
+       "alternatives": [
+        "I like both of the options."
+       ]
+      },
+      {
+       "id": "18-06-4",
+       "ru": "Он не говорит ни по-французски, ни по-немецки.",
+       "target": "He speaks neither French nor German.",
+       "alternatives": [
+        "He doesn't speak French or German."
+       ]
+      },
+      {
+       "id": "18-06-5",
+       "ru": "Либо ты извинишься, либо я ухожу.",
+       "target": "Either you apologize or I am leaving.",
+       "alternatives": [
+        "Either you apologise or I'm leaving.",
+        "Either you say sorry or I leave."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-07",
+     "topic": "Что бы ни: whatever, wherever",
+     "sentences": [
+      {
+       "id": "18-07-1",
+       "ru": "Что бы ни случилось, я буду рядом.",
+       "target": "Whatever happens, I will be there for you.",
+       "alternatives": [
+        "Whatever happens, I will be by your side.",
+        "No matter what happens, I will be with you."
+       ]
+      },
+      {
+       "id": "18-07-2",
+       "ru": "Куда бы ты ни пошёл, я пойду с тобой.",
+       "target": "Wherever you go, I will go with you.",
+       "alternatives": [
+        "Wherever you go, I will come with you."
+       ]
+      },
+      {
+       "id": "18-07-3",
+       "ru": "Кто бы ни позвонил, меня нет дома.",
+       "target": "Whoever calls, I'm not at home.",
+       "alternatives": [
+        "Whoever calls, I am not in.",
+        "No matter who calls, I'm not home."
+       ]
+      },
+      {
+       "id": "18-07-4",
+       "ru": "Как бы я ни старался, у меня не получается.",
+       "target": "However hard I try, I can't do it.",
+       "alternatives": [
+        "No matter how hard I try, I can't do it.",
+        "However hard I try, I can't manage it."
+       ]
+      },
+      {
+       "id": "18-07-5",
+       "ru": "Приходи, когда захочешь.",
+       "target": "Come whenever you want.",
+       "alternatives": [
+        "Come whenever you like."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-08",
+     "topic": "Правда: усиление с do",
+     "sentences": [
+      {
+       "id": "18-08-1",
+       "ru": "Я действительно пытался тебе помочь!",
+       "target": "I did try to help you!",
+       "alternatives": [
+        "I really did try to help you!",
+        "I really tried to help you!"
+       ]
+      },
+      {
+       "id": "18-08-2",
+       "ru": "Мне правда нравится твоя новая стрижка.",
+       "target": "I do like your new haircut.",
+       "alternatives": [
+        "I really like your new haircut."
+       ]
+      },
+      {
+       "id": "18-08-3",
+       "ru": "Он всё-таки пришёл.",
+       "target": "He did come in the end.",
+       "alternatives": [
+        "He did come after all.",
+        "He came after all."
+       ]
+      },
+      {
+       "id": "18-08-4",
+       "ru": "Обязательно приходите к нам в гости!",
+       "target": "Do come and visit us!",
+       "alternatives": [
+        "Do come and see us!",
+        "Be sure to come and visit us!"
+       ]
+      },
+      {
+       "id": "18-08-5",
+       "ru": "Она и правда выглядит усталой.",
+       "target": "She does look tired.",
+       "alternatives": [
+        "She really does look tired.",
+        "She really looks tired."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-09",
+     "topic": "Согласно и независимо: according to, regardless of",
+     "sentences": [
+      {
+       "id": "18-09-1",
+       "ru": "Согласно прогнозу, завтра будет солнечно.",
+       "target": "According to the forecast, it will be sunny tomorrow.",
+       "alternatives": [
+        "According to the weather forecast, tomorrow will be sunny."
+       ]
+      },
+      {
+       "id": "18-09-2",
+       "ru": "Независимо от погоды, матч состоится.",
+       "target": "The match will take place regardless of the weather.",
+       "alternatives": [
+        "Regardless of the weather, the match will take place.",
+        "The match will be played whatever the weather."
+       ]
+      },
+      {
+       "id": "18-09-3",
+       "ru": "Благодаря тебе мы выиграли.",
+       "target": "Thanks to you, we won.",
+       "alternatives": [
+        "We won thanks to you."
+       ]
+      },
+      {
+       "id": "18-09-4",
+       "ru": "В отличие от брата, он очень спокойный.",
+       "target": "Unlike his brother, he is very calm.",
+       "alternatives": [
+        "Unlike his brother, he's very calm."
+       ]
+      },
+      {
+       "id": "18-09-5",
+       "ru": "Что касается денег, не волнуйся.",
+       "target": "As for the money, don't worry.",
+       "alternatives": [
+        "As far as the money is concerned, don't worry.",
+        "As for money, don't worry."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18-10",
+     "topic": "Повторение: сложные фразы",
+     "sentences": [
+      {
+       "id": "18-10-1",
+       "ru": "Никогда в жизни я так не смеялся.",
+       "target": "Never in my life have I laughed so much.",
+       "alternatives": [
+        "I have never laughed so much in my life."
+       ]
+      },
+      {
+       "id": "18-10-2",
+       "ru": "Что мне нравится в этом городе, так это парки.",
+       "target": "What I like about this city is the parks.",
+       "alternatives": [
+        "What I like about this town is its parks.",
+        "What I like most about this city is the parks."
+       ]
+      },
+      {
+       "id": "18-10-3",
+       "ru": "Чем дольше ждёшь, тем сложнее начать.",
+       "target": "The longer you wait, the harder it is to start.",
+       "alternatives": [
+        "The longer you wait, the more difficult it is to begin."
+       ]
+      },
+      {
+       "id": "18-10-4",
+       "ru": "Сказав это, он вышел из комнаты.",
+       "target": "Having said that, he left the room.",
+       "alternatives": [
+        "After saying this, he left the room.",
+        "Having said this, he walked out of the room."
+       ]
+      },
+      {
+       "id": "18-10-5",
+       "ru": "Что бы ты ни решил, я тебя поддержу.",
+       "target": "Whatever you decide, I will support you.",
+       "alternatives": [
+        "Whatever you decide, I will back you up."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 19,
+   "title": "Оттенки смысла",
+   "blocks": [
+    {
+     "id": "19-01",
+     "topic": "Лучше бы: would rather, had better",
+     "sentences": [
+      {
+       "id": "19-01-1",
+       "ru": "Я бы предпочёл остаться дома.",
+       "target": "I would rather stay at home.",
+       "alternatives": [
+        "I'd rather stay at home.",
+        "I would prefer to stay home."
+       ]
+      },
+      {
+       "id": "19-01-2",
+       "ru": "Тебе лучше уйти сейчас.",
+       "target": "You had better leave now.",
+       "alternatives": [
+        "You'd better leave now.",
+        "You'd better go now."
+       ]
+      },
+      {
+       "id": "19-01-3",
+       "ru": "Я бы предпочёл, чтобы ты здесь не курил.",
+       "target": "I would rather you didn't smoke here.",
+       "alternatives": [
+        "I'd rather you didn't smoke in here.",
+        "I'd prefer you not to smoke here."
+       ]
+      },
+      {
+       "id": "19-01-4",
+       "ru": "Нам лучше не опаздывать.",
+       "target": "We had better not be late.",
+       "alternatives": [
+        "We'd better not be late."
+       ]
+      },
+      {
+       "id": "19-01-5",
+       "ru": "Что ты предпочитаешь: чай или кофе?",
+       "target": "Which do you prefer, tea or coffee?",
+       "alternatives": [
+        "What would you prefer, tea or coffee?",
+        "Would you rather have tea or coffee?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-02",
+     "topic": "Хоть бы: wish + would",
+     "sentences": [
+      {
+       "id": "19-02-1",
+       "ru": "Хоть бы ты перестал жаловаться!",
+       "target": "I wish you would stop complaining!",
+       "alternatives": [
+        "I wish you'd stop complaining!"
+       ]
+      },
+      {
+       "id": "19-02-2",
+       "ru": "Хоть бы сосед сделал музыку потише.",
+       "target": "I wish the neighbour would turn the music down.",
+       "alternatives": [
+        "I wish my neighbor would turn the music down.",
+        "I wish the neighbour would turn down the music."
+       ]
+      },
+      {
+       "id": "19-02-3",
+       "ru": "Хоть бы автобус уже пришёл.",
+       "target": "I wish the bus would come.",
+       "alternatives": [
+        "I wish the bus would come already.",
+        "If only the bus would come."
+       ]
+      },
+      {
+       "id": "19-02-4",
+       "ru": "Жаль, что он никогда меня не слушает.",
+       "target": "I wish he would listen to me.",
+       "alternatives": [
+        "I wish he'd listen to me for once."
+       ]
+      },
+      {
+       "id": "19-02-5",
+       "ru": "Хоть бы ты иногда звонил!",
+       "target": "I wish you would call sometimes!",
+       "alternatives": [
+        "I wish you'd phone me sometimes!"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-03",
+     "topic": "Заставить и разрешить: get, make, let",
+     "sentences": [
+      {
+       "id": "19-03-1",
+       "ru": "Я попрошу брата починить кран.",
+       "target": "I will get my brother to fix the tap.",
+       "alternatives": [
+        "I will get my brother to repair the tap.",
+        "I will ask my brother to fix the faucet."
+       ]
+      },
+      {
+       "id": "19-03-2",
+       "ru": "Родители не разрешали мне гулять допоздна.",
+       "target": "My parents didn't let me stay out late.",
+       "alternatives": [
+        "My parents didn't allow me to stay out late."
+       ]
+      },
+      {
+       "id": "19-03-3",
+       "ru": "Учитель заставил нас переписать сочинение.",
+       "target": "The teacher made us rewrite the essay.",
+       "alternatives": [
+        "The teacher made us write the essay again."
+       ]
+      },
+      {
+       "id": "19-03-4",
+       "ru": "Не заставляй меня ждать.",
+       "target": "Don't make me wait.",
+       "alternatives": [
+        "Don't keep me waiting."
+       ]
+      },
+      {
+       "id": "19-03-5",
+       "ru": "Позволь мне объяснить.",
+       "target": "Let me explain.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "19-04",
+     "topic": "Вместо и наоборот: rather than, on the contrary",
+     "sentences": [
+      {
+       "id": "19-04-1",
+       "ru": "Давай пойдём пешком, а не поедем на такси.",
+       "target": "Let's walk rather than take a taxi.",
+       "alternatives": [
+        "Let's walk instead of taking a taxi.",
+        "Let us go on foot rather than take a taxi."
+       ]
+      },
+      {
+       "id": "19-04-2",
+       "ru": "Он не глупый, наоборот, очень умный.",
+       "target": "He isn't stupid; on the contrary, he is very clever.",
+       "alternatives": [
+        "He's not stupid, on the contrary, he's very smart."
+       ]
+      },
+      {
+       "id": "19-04-3",
+       "ru": "Я лучше позвоню, чем напишу.",
+       "target": "I will call rather than write.",
+       "alternatives": [
+        "I'd rather call than write.",
+        "I'll phone rather than write."
+       ]
+      },
+      {
+       "id": "19-04-4",
+       "ru": "Это скорее проблема, чем решение.",
+       "target": "It is more of a problem than a solution.",
+       "alternatives": [
+        "This is a problem rather than a solution.",
+        "It's more of a problem than a solution."
+       ]
+      },
+      {
+       "id": "19-04-5",
+       "ru": "Давай лучше посмотрим фильм.",
+       "target": "Let's watch a film instead.",
+       "alternatives": [
+        "Let's watch a movie instead.",
+        "Let us watch a film instead."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-05",
+     "topic": "Довольно и слегка: quite, rather, slightly",
+     "sentences": [
+      {
+       "id": "19-05-1",
+       "ru": "Экзамен был довольно трудным.",
+       "target": "The exam was quite difficult.",
+       "alternatives": [
+        "The exam was rather difficult.",
+        "The exam was fairly hard."
+       ]
+      },
+      {
+       "id": "19-05-2",
+       "ru": "Я немного удивился.",
+       "target": "I was a bit surprised.",
+       "alternatives": [
+        "I was slightly surprised.",
+        "I was a little surprised."
+       ]
+      },
+      {
+       "id": "19-05-3",
+       "ru": "Ресторан оказался намного лучше, чем я ожидал.",
+       "target": "The restaurant turned out to be much better than I expected.",
+       "alternatives": [
+        "The restaurant was far better than I had expected."
+       ]
+      },
+      {
+       "id": "19-05-4",
+       "ru": "Это абсолютно невозможно.",
+       "target": "It is absolutely impossible.",
+       "alternatives": [
+        "That's absolutely impossible.",
+        "This is completely impossible."
+       ]
+      },
+      {
+       "id": "19-05-5",
+       "ru": "Он ничуть не изменился.",
+       "target": "He hasn't changed a bit.",
+       "alternatives": [
+        "He hasn't changed at all.",
+        "He hasn't changed in the slightest."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-06",
+     "topic": "Оказаться и казаться: turn out, appear",
+     "sentences": [
+      {
+       "id": "19-06-1",
+       "ru": "Оказалось, что он был прав.",
+       "target": "It turned out that he was right.",
+       "alternatives": [
+        "He turned out to be right."
+       ]
+      },
+      {
+       "id": "19-06-2",
+       "ru": "Новый сосед оказался очень дружелюбным.",
+       "target": "The new neighbour turned out to be very friendly.",
+       "alternatives": [
+        "Our new neighbor turned out to be really friendly."
+       ]
+      },
+      {
+       "id": "19-06-3",
+       "ru": "Кажется, произошла ошибка.",
+       "target": "There appears to be a mistake.",
+       "alternatives": [
+        "There seems to have been a mistake.",
+        "It seems there has been a mistake."
+       ]
+      },
+      {
+       "id": "19-06-4",
+       "ru": "Она, кажется, довольна результатом.",
+       "target": "She appears to be happy with the result.",
+       "alternatives": [
+        "She seems pleased with the result.",
+        "She seems happy with the result."
+       ]
+      },
+      {
+       "id": "19-06-5",
+       "ru": "Задача оказалась проще, чем казалась.",
+       "target": "The task turned out to be easier than it seemed.",
+       "alternatives": [
+        "The problem turned out to be simpler than it looked."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-07",
+     "topic": "Чувства: fed up with, look forward to",
+     "sentences": [
+      {
+       "id": "19-07-1",
+       "ru": "Мне надоела эта погода.",
+       "target": "I am fed up with this weather.",
+       "alternatives": [
+        "I am tired of this weather.",
+        "I am sick of this weather."
+       ]
+      },
+      {
+       "id": "19-07-2",
+       "ru": "С нетерпением жду нашей встречи.",
+       "target": "I am looking forward to seeing you.",
+       "alternatives": [
+        "I am looking forward to our meeting.",
+        "I look forward to meeting you."
+       ]
+      },
+      {
+       "id": "19-07-3",
+       "ru": "Он гордится своей дочерью.",
+       "target": "He is proud of his daughter.",
+       "alternatives": [
+        "He's proud of his daughter."
+       ]
+      },
+      {
+       "id": "19-07-4",
+       "ru": "Я боюсь опоздать.",
+       "target": "I am afraid of being late.",
+       "alternatives": [
+        "I am afraid I will be late."
+       ]
+      },
+      {
+       "id": "19-07-5",
+       "ru": "Она до сих пор злится на меня.",
+       "target": "She is still angry with me.",
+       "alternatives": [
+        "She's still mad at me.",
+        "She is still angry at me."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-08",
+     "topic": "Стоит и бесполезно: worth, no use",
+     "sentences": [
+      {
+       "id": "19-08-1",
+       "ru": "Этот музей стоит посетить.",
+       "target": "This museum is worth visiting.",
+       "alternatives": [
+        "The museum is worth a visit.",
+        "It's worth visiting this museum."
+       ]
+      },
+      {
+       "id": "19-08-2",
+       "ru": "Нет смысла спорить.",
+       "target": "There is no point in arguing.",
+       "alternatives": [
+        "It's no use arguing.",
+        "There's no point arguing."
+       ]
+      },
+      {
+       "id": "19-08-3",
+       "ru": "Не стоит из-за этого переживать.",
+       "target": "It's not worth worrying about.",
+       "alternatives": [
+        "It isn't worth worrying about.",
+        "Don't worry about it."
+       ]
+      },
+      {
+       "id": "19-08-4",
+       "ru": "Бесполезно ему звонить, он не ответит.",
+       "target": "It's no use calling him, he won't answer.",
+       "alternatives": [
+        "There is no point calling him; he won't pick up."
+       ]
+      },
+      {
+       "id": "19-08-5",
+       "ru": "Стоило ли оно того?",
+       "target": "Was it worth it?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "19-09",
+     "topic": "И я тоже: so, neither",
+     "sentences": [
+      {
+       "id": "19-09-1",
+       "ru": "Я устал, и она тоже.",
+       "target": "I am tired, and so is she.",
+       "alternatives": [
+        "I'm tired and so is she.",
+        "I'm tired, and she is too."
+       ]
+      },
+      {
+       "id": "19-09-2",
+       "ru": "Он не любит рыбу, и я тоже.",
+       "target": "He doesn't like fish, and neither do I.",
+       "alternatives": [
+        "He doesn't like fish and nor do I.",
+        "He doesn't like fish and I don't either."
+       ]
+      },
+      {
+       "id": "19-09-3",
+       "ru": "Я был в Риме, и моя сестра тоже.",
+       "target": "I have been to Rome, and so has my sister.",
+       "alternatives": []
+      },
+      {
+       "id": "19-09-4",
+       "ru": "Она не смогла прийти, и её муж тоже.",
+       "target": "She couldn't come, and neither could her husband.",
+       "alternatives": [
+        "She couldn't come and her husband couldn't either."
+       ]
+      },
+      {
+       "id": "19-09-5",
+       "ru": "Раньше я курил, и он тоже.",
+       "target": "I used to smoke, and so did he.",
+       "alternatives": [
+        "I used to smoke and he did too."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19-10",
+     "topic": "Повторение: оттенки смысла",
+     "sentences": [
+      {
+       "id": "19-10-1",
+       "ru": "Я бы лучше поехал на поезде.",
+       "target": "I would rather go by train.",
+       "alternatives": [
+        "I'd rather take the train.",
+        "I'd rather go by train."
+       ]
+      },
+      {
+       "id": "19-10-2",
+       "ru": "Тебе лучше взять с собой куртку.",
+       "target": "You had better take a jacket with you.",
+       "alternatives": [
+        "You'd better take a jacket."
+       ]
+      },
+      {
+       "id": "19-10-3",
+       "ru": "Оказалось, что магазин закрыт.",
+       "target": "It turned out that the shop was closed.",
+       "alternatives": [
+        "The shop turned out to be closed.",
+        "It turned out the store was closed."
+       ]
+      },
+      {
+       "id": "19-10-4",
+       "ru": "Хоть бы этот дождь прекратился.",
+       "target": "I wish the rain would stop.",
+       "alternatives": [
+        "I wish it would stop raining."
+       ]
+      },
+      {
+       "id": "19-10-5",
+       "ru": "Эту книгу стоит прочитать.",
+       "target": "This book is worth reading.",
+       "alternatives": [
+        "The book is worth reading."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 20,
+   "title": "Работа и общество",
+   "blocks": [
+    {
+     "id": "20-01",
+     "topic": "Фразовые глаголы: дела",
+     "sentences": [
+      {
+       "id": "20-01-1",
+       "ru": "Нам нужно придумать новый план.",
+       "target": "We need to come up with a new plan.",
+       "alternatives": [
+        "We have to come up with a new plan."
+       ]
+      },
+      {
+       "id": "20-01-2",
+       "ru": "Встречу отложили до следующей недели.",
+       "target": "The meeting has been put off until next week.",
+       "alternatives": [
+        "The meeting was postponed until next week.",
+        "The meeting was put off till next week."
+       ]
+      },
+      {
+       "id": "20-01-3",
+       "ru": "Он отклонил предложение о работе.",
+       "target": "He turned down the job offer.",
+       "alternatives": [
+        "He rejected the job offer.",
+        "He turned the job offer down."
+       ]
+      },
+      {
+       "id": "20-01-4",
+       "ru": "Мы разберёмся с этой проблемой.",
+       "target": "We will look into this problem.",
+       "alternatives": [
+        "We will deal with this problem.",
+        "We will sort out this problem."
+       ]
+      },
+      {
+       "id": "20-01-5",
+       "ru": "Они провели исследование.",
+       "target": "They carried out a study.",
+       "alternatives": [
+        "They carried out research.",
+        "They conducted a study."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-02",
+     "topic": "Фразовые глаголы: люди",
+     "sentences": [
+      {
+       "id": "20-02-1",
+       "ru": "Я с ним хорошо лажу.",
+       "target": "I get on well with him.",
+       "alternatives": [
+        "I get along well with him."
+       ]
+      },
+      {
+       "id": "20-02-2",
+       "ru": "Она пошла в мать.",
+       "target": "She takes after her mother.",
+       "alternatives": [
+        "She takes after her mom."
+       ]
+      },
+      {
+       "id": "20-02-3",
+       "ru": "Не подведи меня.",
+       "target": "Don't let me down.",
+       "alternatives": []
+      },
+      {
+       "id": "20-02-4",
+       "ru": "Они поссорились, а потом помирились.",
+       "target": "They fell out and then made up.",
+       "alternatives": [
+        "They had a fight and then made up.",
+        "They quarrelled and then made up."
+       ]
+      },
+      {
+       "id": "20-02-5",
+       "ru": "Я забочусь о своей бабушке.",
+       "target": "I look after my grandmother.",
+       "alternatives": [
+        "I take care of my grandmother.",
+        "I look after my grandma."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-03",
+     "topic": "Обвинить и признать: accuse, deny, admit",
+     "sentences": [
+      {
+       "id": "20-03-1",
+       "ru": "Его обвинили в краже.",
+       "target": "He was accused of theft.",
+       "alternatives": [
+        "He was accused of stealing."
+       ]
+      },
+      {
+       "id": "20-03-2",
+       "ru": "Она отрицала, что взяла деньги.",
+       "target": "She denied taking the money.",
+       "alternatives": [
+        "She denied that she had taken the money.",
+        "She denied having taken the money."
+       ]
+      },
+      {
+       "id": "20-03-3",
+       "ru": "Он признался, что разбил окно.",
+       "target": "He admitted breaking the window.",
+       "alternatives": [
+        "He admitted that he had broken the window.",
+        "He admitted to breaking the window."
+       ]
+      },
+      {
+       "id": "20-03-4",
+       "ru": "Она извинилась за опоздание.",
+       "target": "She apologized for being late.",
+       "alternatives": [
+        "She apologised for being late.",
+        "She apologised for coming late."
+       ]
+      },
+      {
+       "id": "20-03-5",
+       "ru": "Меня поблагодарили за помощь.",
+       "target": "I was thanked for my help.",
+       "alternatives": [
+        "They thanked me for my help."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-04",
+     "topic": "Собеседование: apply for, be responsible for",
+     "sentences": [
+      {
+       "id": "20-04-1",
+       "ru": "Я хочу подать заявление на эту должность.",
+       "target": "I would like to apply for this position.",
+       "alternatives": [
+        "I want to apply for this job.",
+        "I'd like to apply for this post."
+       ]
+      },
+      {
+       "id": "20-04-2",
+       "ru": "Я отвечаю за продажи.",
+       "target": "I am responsible for sales.",
+       "alternatives": [
+        "I am in charge of sales."
+       ]
+      },
+      {
+       "id": "20-04-3",
+       "ru": "У меня большой опыт работы с клиентами.",
+       "target": "I have a lot of experience working with clients.",
+       "alternatives": [
+        "I have extensive experience with customers.",
+        "I have a lot of experience in working with clients."
+       ]
+      },
+      {
+       "id": "20-04-4",
+       "ru": "Каковы ваши сильные стороны?",
+       "target": "What are your strengths?",
+       "alternatives": [
+        "What are your strong points?"
+       ]
+      },
+      {
+       "id": "20-04-5",
+       "ru": "Когда вы сможете приступить к работе?",
+       "target": "When can you start work?",
+       "alternatives": [
+        "When would you be able to start?",
+        "When could you start working?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-05",
+     "topic": "Деловая переписка",
+     "sentences": [
+      {
+       "id": "20-05-1",
+       "ru": "Спасибо за ваше письмо.",
+       "target": "Thank you for your email.",
+       "alternatives": [
+        "Thank you for your letter.",
+        "Thanks for your email."
+       ]
+      },
+      {
+       "id": "20-05-2",
+       "ru": "Высылаю вам договор во вложении.",
+       "target": "Please find the contract attached.",
+       "alternatives": [
+        "I am sending you the contract as an attachment.",
+        "I am attaching the contract."
+       ]
+      },
+      {
+       "id": "20-05-3",
+       "ru": "Буду рад ответить на ваши вопросы.",
+       "target": "I will be happy to answer your questions.",
+       "alternatives": [
+        "I'd be glad to answer any questions.",
+        "I will be happy to answer any questions you have."
+       ]
+      },
+      {
+       "id": "20-05-4",
+       "ru": "Прошу прощения за задержку с ответом.",
+       "target": "I apologize for the delay in replying.",
+       "alternatives": [
+        "Sorry for the late reply.",
+        "I apologise for the delayed response."
+       ]
+      },
+      {
+       "id": "20-05-5",
+       "ru": "Жду вашего ответа.",
+       "target": "I look forward to hearing from you.",
+       "alternatives": [
+        "I look forward to your reply."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-06",
+     "topic": "Совещание: agree, point of view",
+     "sentences": [
+      {
+       "id": "20-06-1",
+       "ru": "Я полностью с вами согласен.",
+       "target": "I completely agree with you.",
+       "alternatives": [
+        "I totally agree with you.",
+        "I fully agree with you."
+       ]
+      },
+      {
+       "id": "20-06-2",
+       "ru": "С моей точки зрения, это рискованно.",
+       "target": "From my point of view, it is risky.",
+       "alternatives": [
+        "In my view, this is risky.",
+        "From my point of view, it's risky."
+       ]
+      },
+      {
+       "id": "20-06-3",
+       "ru": "Позвольте мне закончить мысль.",
+       "target": "Let me finish my point.",
+       "alternatives": [
+        "Please let me finish.",
+        "Let me finish what I was saying."
+       ]
+      },
+      {
+       "id": "20-06-4",
+       "ru": "Давайте перейдём к следующему пункту.",
+       "target": "Let's move on to the next point.",
+       "alternatives": [
+        "Let us move on to the next item."
+       ]
+      },
+      {
+       "id": "20-06-5",
+       "ru": "Боюсь, я не могу с этим согласиться.",
+       "target": "I'm afraid I can't agree with that.",
+       "alternatives": [
+        "I'm afraid I can't agree with this."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-07",
+     "topic": "Деньги: afford, owe, borrow",
+     "sentences": [
+      {
+       "id": "20-07-1",
+       "ru": "Мы не можем себе позволить новую машину.",
+       "target": "We can't afford a new car.",
+       "alternatives": []
+      },
+      {
+       "id": "20-07-2",
+       "ru": "Сколько я тебе должен?",
+       "target": "How much do I owe you?",
+       "alternatives": []
+      },
+      {
+       "id": "20-07-3",
+       "ru": "Можно одолжить у тебя сто долларов?",
+       "target": "Can I borrow a hundred dollars from you?",
+       "alternatives": [
+        "Could I borrow one hundred dollars from you?",
+        "Can I borrow $100 from you?"
+       ]
+      },
+      {
+       "id": "20-07-4",
+       "ru": "Он одолжил мне свою машину на выходные.",
+       "target": "He lent me his car for the weekend.",
+       "alternatives": []
+      },
+      {
+       "id": "20-07-5",
+       "ru": "Мы копим на отпуск.",
+       "target": "We are saving up for a holiday.",
+       "alternatives": [
+        "We are saving for a vacation.",
+        "We are saving for a holiday."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-08",
+     "topic": "Общество: новости",
+     "sentences": [
+      {
+       "id": "20-08-1",
+       "ru": "Правительство обещает снизить налоги.",
+       "target": "The government promises to cut taxes.",
+       "alternatives": [
+        "The government has promised to reduce taxes.",
+        "The government is promising to lower taxes."
+       ]
+      },
+      {
+       "id": "20-08-2",
+       "ru": "Всё больше людей работают из дома.",
+       "target": "More and more people work from home.",
+       "alternatives": [
+        "More and more people are working from home."
+       ]
+      },
+      {
+       "id": "20-08-3",
+       "ru": "Безработица выросла на два процента.",
+       "target": "Unemployment has risen by two percent.",
+       "alternatives": [
+        "Unemployment rose by two per cent.",
+        "Unemployment has gone up by 2%."
+       ]
+      },
+      {
+       "id": "20-08-4",
+       "ru": "Эта проблема касается всех нас.",
+       "target": "This problem affects all of us.",
+       "alternatives": [
+        "This issue concerns us all.",
+        "This problem concerns all of us."
+       ]
+      },
+      {
+       "id": "20-08-5",
+       "ru": "Многие против нового закона.",
+       "target": "Many people are against the new law.",
+       "alternatives": [
+        "Many people oppose the new law."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-09",
+     "topic": "Окружающая среда",
+     "sentences": [
+      {
+       "id": "20-09-1",
+       "ru": "Мы должны сократить количество пластика.",
+       "target": "We must reduce the amount of plastic.",
+       "alternatives": [
+        "We have to cut down on plastic.",
+        "We need to use less plastic."
+       ]
+      },
+      {
+       "id": "20-09-2",
+       "ru": "Многие виды животных находятся под угрозой исчезновения.",
+       "target": "Many species of animals are endangered.",
+       "alternatives": [
+        "Many animal species are in danger of extinction.",
+        "Many animal species are endangered."
+       ]
+      },
+      {
+       "id": "20-09-3",
+       "ru": "Изменение климата — серьёзная угроза.",
+       "target": "Climate change is a serious threat.",
+       "alternatives": []
+      },
+      {
+       "id": "20-09-4",
+       "ru": "Пожалуйста, сортируйте мусор.",
+       "target": "Please sort your rubbish.",
+       "alternatives": [
+        "Please separate your waste.",
+        "Please sort your garbage."
+       ]
+      },
+      {
+       "id": "20-09-5",
+       "ru": "Мы перешли на солнечную энергию.",
+       "target": "We have switched to solar power.",
+       "alternatives": [
+        "We switched to solar energy.",
+        "We have switched to solar energy."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "20-10",
+     "topic": "Повторение: работа и общество",
+     "sentences": [
+      {
+       "id": "20-10-1",
+       "ru": "Он отказался от этой идеи.",
+       "target": "He gave up the idea.",
+       "alternatives": [
+        "He gave up on this idea.",
+        "He abandoned the idea."
+       ]
+      },
+      {
+       "id": "20-10-2",
+       "ru": "Её обвинили во лжи.",
+       "target": "She was accused of lying.",
+       "alternatives": []
+      },
+      {
+       "id": "20-10-3",
+       "ru": "Я отвечаю за этот проект.",
+       "target": "I am in charge of this project.",
+       "alternatives": [
+        "I am responsible for this project."
+       ]
+      },
+      {
+       "id": "20-10-4",
+       "ru": "Мы не можем позволить себе ждать.",
+       "target": "We can't afford to wait.",
+       "alternatives": []
+      },
+      {
+       "id": "20-10-5",
+       "ru": "Совещание перенесли на четверг.",
+       "target": "The meeting has been moved to Thursday.",
+       "alternatives": [
+        "The meeting was rescheduled for Thursday.",
+        "The meeting was moved to Thursday."
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }
