@@ -2304,10 +2304,10 @@
       },
       {
        "id": "6-07-4",
-       "ru": "Который час?",
-       "target": "What time is it?",
+       "ru": "Во сколько закрывается магазин?",
+       "target": "What time does the shop close?",
        "alternatives": [
-        "What's the time?"
+        "When does the shop close?"
        ]
       },
       {
@@ -3011,10 +3011,10 @@
      "sentences": [
       {
        "id": "8-04-1",
-       "ru": "Если пойдёт дождь, мы останемся дома.",
-       "target": "If it rains, we will stay at home.",
+       "ru": "Если будет солнечно, мы пойдём на пляж.",
+       "target": "If it is sunny, we will go to the beach.",
        "alternatives": [
-        "If it rains, we will stay home."
+        "If it's sunny, we will go to the beach."
        ]
       },
       {
@@ -3192,10 +3192,12 @@
       },
       {
        "id": "8-08-2",
-       "ru": "Он не пришёл, потому что заболел.",
-       "target": "He did not come because he was ill.",
+       "ru": "Она осталась дома, потому что была больна.",
+       "target": "She stayed at home because she was ill.",
        "alternatives": [
-        "He did not come because he was sick."
+        "She stayed home because she was ill.",
+        "She stayed at home because she was sick.",
+        "She stayed home because she was sick."
        ]
       },
       {
