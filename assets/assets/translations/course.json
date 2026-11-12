@@ -2003,6 +2003,2196 @@
      ]
     }
    ]
+  },
+  {
+   "level": 6,
+   "title": "В городе",
+   "blocks": [
+    {
+     "id": "6-01",
+     "topic": "Покупки: how much, I would like",
+     "sentences": [
+      {
+       "id": "6-01-1",
+       "ru": "Сколько стоит эта куртка?",
+       "target": "How much is this jacket?",
+       "alternatives": [
+        "How much does this jacket cost?"
+       ]
+      },
+      {
+       "id": "6-01-2",
+       "ru": "Я бы хотел купить билет.",
+       "target": "I would like to buy a ticket.",
+       "alternatives": [
+        "I'd like to buy a ticket."
+       ]
+      },
+      {
+       "id": "6-01-3",
+       "ru": "Можно мне это примерить?",
+       "target": "Can I try this on?",
+       "alternatives": [
+        "May I try this on?",
+        "Can I try it on?"
+       ]
+      },
+      {
+       "id": "6-01-4",
+       "ru": "У вас есть размер побольше?",
+       "target": "Do you have a bigger size?",
+       "alternatives": [
+        "Have you got a bigger size?"
+       ]
+      },
+      {
+       "id": "6-01-5",
+       "ru": "Я заплачу картой.",
+       "target": "I will pay by card.",
+       "alternatives": [
+        "I am paying by card."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6-02",
+     "topic": "В кафе: order, the bill",
+     "sentences": [
+      {
+       "id": "6-02-1",
+       "ru": "Мне, пожалуйста, чашку чая.",
+       "target": "A cup of tea, please.",
+       "alternatives": [
+        "Can I have a cup of tea, please?",
+        "I would like a cup of tea, please."
+       ]
+      },
+      {
+       "id": "6-02-2",
+       "ru": "Мы готовы заказать.",
+       "target": "We are ready to order.",
+       "alternatives": []
+      },
+      {
+       "id": "6-02-3",
+       "ru": "Принесите, пожалуйста, счёт.",
+       "target": "Can we have the bill, please?",
+       "alternatives": [
+        "The bill, please.",
+        "Could we have the bill, please?"
+       ]
+      },
+      {
+       "id": "6-02-4",
+       "ru": "Это без сахара?",
+       "target": "Is it without sugar?",
+       "alternatives": [
+        "Is this without sugar?"
+       ]
+      },
+      {
+       "id": "6-02-5",
+       "ru": "Столик на двоих, пожалуйста.",
+       "target": "A table for two, please.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "6-03",
+     "topic": "Дорога: how do I get to",
+     "sentences": [
+      {
+       "id": "6-03-1",
+       "ru": "Простите, как пройти к вокзалу?",
+       "target": "Excuse me, how do I get to the station?",
+       "alternatives": [
+        "Excuse me, how can I get to the station?"
+       ]
+      },
+      {
+       "id": "6-03-2",
+       "ru": "Идите прямо, потом поверните налево.",
+       "target": "Go straight on, then turn left.",
+       "alternatives": [
+        "Go straight, then turn left."
+       ]
+      },
+      {
+       "id": "6-03-3",
+       "ru": "Это далеко отсюда?",
+       "target": "Is it far from here?",
+       "alternatives": []
+      },
+      {
+       "id": "6-03-4",
+       "ru": "Аптека рядом с банком.",
+       "target": "The pharmacy is next to the bank.",
+       "alternatives": [
+        "The pharmacy's next to the bank."
+       ]
+      },
+      {
+       "id": "6-03-5",
+       "ru": "Я заблудился.",
+       "target": "I am lost.",
+       "alternatives": [
+        "I got lost."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6-04",
+     "topic": "Транспорт: take, change",
+     "sentences": [
+      {
+       "id": "6-04-1",
+       "ru": "Я езжу на работу на автобусе.",
+       "target": "I go to work by bus.",
+       "alternatives": [
+        "I take the bus to work."
+       ]
+      },
+      {
+       "id": "6-04-2",
+       "ru": "Где мне сделать пересадку?",
+       "target": "Where do I change trains?",
+       "alternatives": [
+        "Where should I change trains?"
+       ]
+      },
+      {
+       "id": "6-04-3",
+       "ru": "Поезд опаздывает на десять минут.",
+       "target": "The train is ten minutes late.",
+       "alternatives": [
+        "The train's ten minutes late."
+       ]
+      },
+      {
+       "id": "6-04-4",
+       "ru": "Выходите на следующей остановке.",
+       "target": "Get off at the next stop.",
+       "alternatives": []
+      },
+      {
+       "id": "6-04-5",
+       "ru": "Сколько ехать до аэропорта?",
+       "target": "How long does it take to get to the airport?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "6-05",
+     "topic": "У врача: I have a headache",
+     "sentences": [
+      {
+       "id": "6-05-1",
+       "ru": "У меня болит горло.",
+       "target": "I have a sore throat.",
+       "alternatives": [
+        "I have got a sore throat.",
+        "I've got a sore throat."
+       ]
+      },
+      {
+       "id": "6-05-2",
+       "ru": "Тебе надо к врачу.",
+       "target": "You should see a doctor.",
+       "alternatives": [
+        "You need to see a doctor."
+       ]
+      },
+      {
+       "id": "6-05-3",
+       "ru": "Она простудилась.",
+       "target": "She has a cold.",
+       "alternatives": [
+        "She has caught a cold.",
+        "She's caught a cold."
+       ]
+      },
+      {
+       "id": "6-05-4",
+       "ru": "Принимайте эти таблетки два раза в день.",
+       "target": "Take these pills twice a day.",
+       "alternatives": [
+        "Take these tablets twice a day."
+       ]
+      },
+      {
+       "id": "6-05-5",
+       "ru": "Мне уже лучше.",
+       "target": "I feel better now.",
+       "alternatives": [
+        "I am already better.",
+        "I already feel better."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6-06",
+     "topic": "Погода: it is raining",
+     "sentences": [
+      {
+       "id": "6-06-1",
+       "ru": "Идёт дождь.",
+       "target": "It is raining.",
+       "alternatives": [
+        "It's raining."
+       ]
+      },
+      {
+       "id": "6-06-2",
+       "ru": "Сегодня холодно и ветрено.",
+       "target": "It is cold and windy today.",
+       "alternatives": [
+        "It's cold and windy today."
+       ]
+      },
+      {
+       "id": "6-06-3",
+       "ru": "Завтра будет солнечно.",
+       "target": "It will be sunny tomorrow.",
+       "alternatives": []
+      },
+      {
+       "id": "6-06-4",
+       "ru": "Какая сегодня погода?",
+       "target": "What is the weather like today?",
+       "alternatives": [
+        "What's the weather like today?"
+       ]
+      },
+      {
+       "id": "6-06-5",
+       "ru": "Возьми зонт.",
+       "target": "Take an umbrella.",
+       "alternatives": [
+        "Take your umbrella."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6-07",
+     "topic": "Время и даты: at, on, in",
+     "sentences": [
+      {
+       "id": "6-07-1",
+       "ru": "Урок начинается в семь часов.",
+       "target": "The lesson starts at seven o'clock.",
+       "alternatives": [
+        "The lesson starts at seven."
+       ]
+      },
+      {
+       "id": "6-07-2",
+       "ru": "Увидимся в понедельник.",
+       "target": "See you on Monday.",
+       "alternatives": []
+      },
+      {
+       "id": "6-07-3",
+       "ru": "Мой день рождения в мае.",
+       "target": "My birthday is in May.",
+       "alternatives": []
+      },
+      {
+       "id": "6-07-4",
+       "ru": "Который час?",
+       "target": "What time is it?",
+       "alternatives": [
+        "What's the time?"
+       ]
+      },
+      {
+       "id": "6-07-5",
+       "ru": "Магазин закрыт по воскресеньям.",
+       "target": "The shop is closed on Sundays.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "6-08",
+     "topic": "Телефон: call, call back",
+     "sentences": [
+      {
+       "id": "6-08-1",
+       "ru": "Я перезвоню тебе позже.",
+       "target": "I will call you back later.",
+       "alternatives": []
+      },
+      {
+       "id": "6-08-2",
+       "ru": "Можно поговорить с Анной?",
+       "target": "Can I speak to Anna?",
+       "alternatives": [
+        "May I speak to Anna?",
+        "Can I talk to Anna?"
+       ]
+      },
+      {
+       "id": "6-08-3",
+       "ru": "Он не отвечает на звонки.",
+       "target": "He is not answering the phone.",
+       "alternatives": [
+        "He does not answer the phone."
+       ]
+      },
+      {
+       "id": "6-08-4",
+       "ru": "Оставьте сообщение, пожалуйста.",
+       "target": "Please leave a message.",
+       "alternatives": [
+        "Leave a message, please."
+       ]
+      },
+      {
+       "id": "6-08-5",
+       "ru": "У меня села батарея.",
+       "target": "My battery is dead.",
+       "alternatives": [
+        "My phone battery is dead."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6-09",
+     "topic": "Гостиница: book a room",
+     "sentences": [
+      {
+       "id": "6-09-1",
+       "ru": "Я хочу забронировать номер.",
+       "target": "I want to book a room.",
+       "alternatives": [
+        "I would like to book a room.",
+        "I'd like to book a room."
+       ]
+      },
+      {
+       "id": "6-09-2",
+       "ru": "Завтрак включён?",
+       "target": "Is breakfast included?",
+       "alternatives": []
+      },
+      {
+       "id": "6-09-3",
+       "ru": "Во сколько нужно выехать?",
+       "target": "What time do I have to check out?",
+       "alternatives": [
+        "What time is check-out?"
+       ]
+      },
+      {
+       "id": "6-09-4",
+       "ru": "В номере нет полотенец.",
+       "target": "There are no towels in the room.",
+       "alternatives": []
+      },
+      {
+       "id": "6-09-5",
+       "ru": "Мы останемся на три ночи.",
+       "target": "We will stay for three nights.",
+       "alternatives": [
+        "We are staying for three nights."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "6-10",
+     "topic": "Просьбы: could you, can I",
+     "sentences": [
+      {
+       "id": "6-10-1",
+       "ru": "Не могли бы вы помочь мне?",
+       "target": "Could you help me?",
+       "alternatives": [
+        "Can you help me?"
+       ]
+      },
+      {
+       "id": "6-10-2",
+       "ru": "Можно открыть окно?",
+       "target": "Can I open the window?",
+       "alternatives": [
+        "May I open the window?"
+       ]
+      },
+      {
+       "id": "6-10-3",
+       "ru": "Не могли бы вы говорить медленнее?",
+       "target": "Could you speak more slowly?",
+       "alternatives": [
+        "Could you speak slower?"
+       ]
+      },
+      {
+       "id": "6-10-4",
+       "ru": "Повторите, пожалуйста.",
+       "target": "Could you repeat that, please?",
+       "alternatives": [
+        "Can you repeat that, please?",
+        "Please repeat that."
+       ]
+      },
+      {
+       "id": "6-10-5",
+       "ru": "Можно взять твою ручку?",
+       "target": "Can I borrow your pen?",
+       "alternatives": [
+        "May I borrow your pen?"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 7,
+   "title": "Прошлое подробнее",
+   "blocks": [
+    {
+     "id": "7-01",
+     "topic": "Процесс в прошлом: was doing",
+     "sentences": [
+      {
+       "id": "7-01-1",
+       "ru": "Вчера в восемь я ужинал.",
+       "target": "I was having dinner at eight yesterday.",
+       "alternatives": [
+        "Yesterday at eight I was having dinner."
+       ]
+      },
+      {
+       "id": "7-01-2",
+       "ru": "Шёл снег.",
+       "target": "It was snowing.",
+       "alternatives": []
+      },
+      {
+       "id": "7-01-3",
+       "ru": "Что ты делал вчера вечером?",
+       "target": "What were you doing last night?",
+       "alternatives": [
+        "What were you doing yesterday evening?"
+       ]
+      },
+      {
+       "id": "7-01-4",
+       "ru": "Дети спали.",
+       "target": "The children were sleeping.",
+       "alternatives": []
+      },
+      {
+       "id": "7-01-5",
+       "ru": "Мы не смотрели телевизор.",
+       "target": "We were not watching TV.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-02",
+     "topic": "Когда и пока: when, while",
+     "sentences": [
+      {
+       "id": "7-02-1",
+       "ru": "Я готовил, когда он позвонил.",
+       "target": "I was cooking when he called.",
+       "alternatives": []
+      },
+      {
+       "id": "7-02-2",
+       "ru": "Пока она читала, я убирался.",
+       "target": "While she was reading, I was cleaning.",
+       "alternatives": []
+      },
+      {
+       "id": "7-02-3",
+       "ru": "Когда я пришёл, они уже ушли.",
+       "target": "When I arrived, they had already left.",
+       "alternatives": []
+      },
+      {
+       "id": "7-02-4",
+       "ru": "Он упал, когда бежал.",
+       "target": "He fell while he was running.",
+       "alternatives": [
+        "He fell when he was running."
+       ]
+      },
+      {
+       "id": "7-02-5",
+       "ru": "Что ты делал, когда погас свет?",
+       "target": "What were you doing when the lights went out?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-03",
+     "topic": "Вопросы о прошлом: did",
+     "sentences": [
+      {
+       "id": "7-03-1",
+       "ru": "Ты видел этот фильм?",
+       "target": "Did you see this film?",
+       "alternatives": [
+        "Did you see this movie?",
+        "Have you seen this film?"
+       ]
+      },
+      {
+       "id": "7-03-2",
+       "ru": "Где вы были в отпуске?",
+       "target": "Where did you go on holiday?",
+       "alternatives": [
+        "Where did you go on vacation?"
+       ]
+      },
+      {
+       "id": "7-03-3",
+       "ru": "Во сколько ты встал?",
+       "target": "What time did you get up?",
+       "alternatives": []
+      },
+      {
+       "id": "7-03-4",
+       "ru": "Он не пришёл вчера.",
+       "target": "He did not come yesterday.",
+       "alternatives": []
+      },
+      {
+       "id": "7-03-5",
+       "ru": "Кто тебе это сказал?",
+       "target": "Who told you that?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-04",
+     "topic": "Назад: ago",
+     "sentences": [
+      {
+       "id": "7-04-1",
+       "ru": "Я приехал сюда два года назад.",
+       "target": "I came here two years ago.",
+       "alternatives": []
+      },
+      {
+       "id": "7-04-2",
+       "ru": "Она звонила час назад.",
+       "target": "She called an hour ago.",
+       "alternatives": []
+      },
+      {
+       "id": "7-04-3",
+       "ru": "Мы познакомились давно.",
+       "target": "We met a long time ago.",
+       "alternatives": []
+      },
+      {
+       "id": "7-04-4",
+       "ru": "Сколько времени назад ты закончил школу?",
+       "target": "How long ago did you finish school?",
+       "alternatives": []
+      },
+      {
+       "id": "7-04-5",
+       "ru": "Поезд ушёл пять минут назад.",
+       "target": "The train left five minutes ago.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-05",
+     "topic": "Был или был: have been, went",
+     "sentences": [
+      {
+       "id": "7-05-1",
+       "ru": "Я был в Лондоне три раза.",
+       "target": "I have been to London three times.",
+       "alternatives": [
+        "I've been to London three times."
+       ]
+      },
+      {
+       "id": "7-05-2",
+       "ru": "В прошлом году я ездил в Лондон.",
+       "target": "I went to London last year.",
+       "alternatives": []
+      },
+      {
+       "id": "7-05-3",
+       "ru": "Ты когда-нибудь был в Италии?",
+       "target": "Have you ever been to Italy?",
+       "alternatives": []
+      },
+      {
+       "id": "7-05-4",
+       "ru": "Она уехала в Рим в июне.",
+       "target": "She went to Rome in June.",
+       "alternatives": []
+      },
+      {
+       "id": "7-05-5",
+       "ru": "Он ещё не был у нас дома.",
+       "target": "He has not been to our house yet.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-06",
+     "topic": "Пришлось и смог: had to, could",
+     "sentences": [
+      {
+       "id": "7-06-1",
+       "ru": "Мне пришлось ждать час.",
+       "target": "I had to wait an hour.",
+       "alternatives": [
+        "I had to wait for an hour."
+       ]
+      },
+      {
+       "id": "7-06-2",
+       "ru": "В детстве я умел плавать.",
+       "target": "I could swim as a child.",
+       "alternatives": [
+        "When I was a child, I could swim."
+       ]
+      },
+      {
+       "id": "7-06-3",
+       "ru": "Мы не смогли найти отель.",
+       "target": "We could not find the hotel.",
+       "alternatives": [
+        "We were not able to find the hotel."
+       ]
+      },
+      {
+       "id": "7-06-4",
+       "ru": "Ему пришлось уйти рано.",
+       "target": "He had to leave early.",
+       "alternatives": []
+      },
+      {
+       "id": "7-06-5",
+       "ru": "Тебе пришлось платить?",
+       "target": "Did you have to pay?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-07",
+     "topic": "Было: there was, there were",
+     "sentences": [
+      {
+       "id": "7-07-1",
+       "ru": "В комнате был стол.",
+       "target": "There was a table in the room.",
+       "alternatives": []
+      },
+      {
+       "id": "7-07-2",
+       "ru": "На вечеринке было много людей.",
+       "target": "There were a lot of people at the party.",
+       "alternatives": [
+        "There were many people at the party."
+       ]
+      },
+      {
+       "id": "7-07-3",
+       "ru": "Там не было воды.",
+       "target": "There was no water there.",
+       "alternatives": [
+        "There wasn't any water there."
+       ]
+      },
+      {
+       "id": "7-07-4",
+       "ru": "Были ли проблемы?",
+       "target": "Were there any problems?",
+       "alternatives": []
+      },
+      {
+       "id": "7-07-5",
+       "ru": "Раньше здесь был кинотеатр.",
+       "target": "There used to be a cinema here.",
+       "alternatives": [
+        "There was a cinema here before."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "7-08",
+     "topic": "Выходные: рассказ о прошлом",
+     "sentences": [
+      {
+       "id": "7-08-1",
+       "ru": "В субботу мы ходили в парк.",
+       "target": "On Saturday we went to the park.",
+       "alternatives": [
+        "We went to the park on Saturday."
+       ]
+      },
+      {
+       "id": "7-08-2",
+       "ru": "Погода была отличная.",
+       "target": "The weather was great.",
+       "alternatives": []
+      },
+      {
+       "id": "7-08-3",
+       "ru": "Мы взяли с собой бутерброды.",
+       "target": "We took sandwiches with us.",
+       "alternatives": []
+      },
+      {
+       "id": "7-08-4",
+       "ru": "Вечером мы смотрели фильм.",
+       "target": "In the evening we watched a film.",
+       "alternatives": [
+        "We watched a film in the evening.",
+        "In the evening we watched a movie."
+       ]
+      },
+      {
+       "id": "7-08-5",
+       "ru": "Это были хорошие выходные.",
+       "target": "It was a good weekend.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-09",
+     "topic": "Глаголы с частицей: get up, put on",
+     "sentences": [
+      {
+       "id": "7-09-1",
+       "ru": "Я просыпаюсь в шесть, но встаю в семь.",
+       "target": "I wake up at six but get up at seven.",
+       "alternatives": [
+        "I wake up at six, but I get up at seven.",
+        "I wake up at six but I get up at seven."
+       ]
+      },
+      {
+       "id": "7-09-2",
+       "ru": "Надень куртку.",
+       "target": "Put on your jacket.",
+       "alternatives": [
+        "Put your jacket on."
+       ]
+      },
+      {
+       "id": "7-09-3",
+       "ru": "Выключи свет, пожалуйста.",
+       "target": "Turn off the light, please.",
+       "alternatives": [
+        "Please turn off the light.",
+        "Turn the light off, please."
+       ]
+      },
+      {
+       "id": "7-09-4",
+       "ru": "Я ищу ключи.",
+       "target": "I am looking for my keys.",
+       "alternatives": [
+        "I am looking for the keys."
+       ]
+      },
+      {
+       "id": "7-09-5",
+       "ru": "Не сдавайся!",
+       "target": "Do not give up!",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "7-10",
+     "topic": "Повторение: прошлое",
+     "sentences": [
+      {
+       "id": "7-10-1",
+       "ru": "Когда я был маленьким, мы жили в деревне.",
+       "target": "When I was little, we lived in a village.",
+       "alternatives": [
+        "When I was a child, we lived in a village."
+       ]
+      },
+      {
+       "id": "7-10-2",
+       "ru": "Она потеряла телефон и не могла позвонить.",
+       "target": "She lost her phone and could not call.",
+       "alternatives": []
+      },
+      {
+       "id": "7-10-3",
+       "ru": "Мы ждали автобус, когда начался дождь.",
+       "target": "We were waiting for the bus when it started to rain.",
+       "alternatives": [
+        "We were waiting for the bus when it started raining."
+       ]
+      },
+      {
+       "id": "7-10-4",
+       "ru": "Ты сделал домашнее задание?",
+       "target": "Did you do your homework?",
+       "alternatives": [
+        "Have you done your homework?"
+       ]
+      },
+      {
+       "id": "7-10-5",
+       "ru": "Я не спал всю ночь.",
+       "target": "I did not sleep all night.",
+       "alternatives": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 8,
+   "title": "Мнения и планы",
+   "blocks": [
+    {
+     "id": "8-01",
+     "topic": "Мнение: I think that",
+     "sentences": [
+      {
+       "id": "8-01-1",
+       "ru": "Я думаю, что это хорошая идея.",
+       "target": "I think that it is a good idea.",
+       "alternatives": [
+        "I think it's a good idea.",
+        "I think it is a good idea."
+       ]
+      },
+      {
+       "id": "8-01-2",
+       "ru": "Я не думаю, что он придёт.",
+       "target": "I do not think he will come.",
+       "alternatives": [
+        "I do not think that he will come."
+       ]
+      },
+      {
+       "id": "8-01-3",
+       "ru": "По-моему, это слишком дорого.",
+       "target": "In my opinion, it is too expensive.",
+       "alternatives": [
+        "I think it's too expensive.",
+        "I think it is too expensive."
+       ]
+      },
+      {
+       "id": "8-01-4",
+       "ru": "Что ты об этом думаешь?",
+       "target": "What do you think about it?",
+       "alternatives": [
+        "What do you think of it?"
+       ]
+      },
+      {
+       "id": "8-01-5",
+       "ru": "Я уверен, что ты прав.",
+       "target": "I am sure you are right.",
+       "alternatives": [
+        "I am sure that you are right."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "8-02",
+     "topic": "Договорённости: I am meeting",
+     "sentences": [
+      {
+       "id": "8-02-1",
+       "ru": "Завтра я встречаюсь с Томом.",
+       "target": "I am meeting Tom tomorrow.",
+       "alternatives": [
+        "Tomorrow I am meeting Tom."
+       ]
+      },
+      {
+       "id": "8-02-2",
+       "ru": "Что ты делаешь в субботу?",
+       "target": "What are you doing on Saturday?",
+       "alternatives": []
+      },
+      {
+       "id": "8-02-3",
+       "ru": "Мы уезжаем в пятницу.",
+       "target": "We are leaving on Friday.",
+       "alternatives": []
+      },
+      {
+       "id": "8-02-4",
+       "ru": "Она не работает на следующей неделе.",
+       "target": "She is not working next week.",
+       "alternatives": []
+      },
+      {
+       "id": "8-02-5",
+       "ru": "Они приезжают вечером.",
+       "target": "They are arriving in the evening.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "8-03",
+     "topic": "Может быть: might, may",
+     "sentences": [
+      {
+       "id": "8-03-1",
+       "ru": "Может пойти дождь.",
+       "target": "It might rain.",
+       "alternatives": [
+        "It may rain."
+       ]
+      },
+      {
+       "id": "8-03-2",
+       "ru": "Возможно, я опоздаю.",
+       "target": "I might be late.",
+       "alternatives": [
+        "I may be late."
+       ]
+      },
+      {
+       "id": "8-03-3",
+       "ru": "Он, может быть, дома.",
+       "target": "He might be at home.",
+       "alternatives": [
+        "He may be at home.",
+        "Maybe he is at home."
+       ]
+      },
+      {
+       "id": "8-03-4",
+       "ru": "Мы, возможно, не придём.",
+       "target": "We might not come.",
+       "alternatives": [
+        "We may not come."
+       ]
+      },
+      {
+       "id": "8-03-5",
+       "ru": "Может быть, она права.",
+       "target": "Maybe she is right.",
+       "alternatives": [
+        "She might be right.",
+        "She may be right."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "8-04",
+     "topic": "Если будет: if + will",
+     "sentences": [
+      {
+       "id": "8-04-1",
+       "ru": "Если пойдёт дождь, мы останемся дома.",
+       "target": "If it rains, we will stay at home.",
+       "alternatives": [
+        "If it rains, we will stay home."
+       ]
+      },
+      {
+       "id": "8-04-2",
+       "ru": "Если ты поторопишься, ты успеешь.",
+       "target": "If you hurry, you will be on time.",
+       "alternatives": [
+        "If you hurry, you will make it."
+       ]
+      },
+      {
+       "id": "8-04-3",
+       "ru": "Я позвоню, если опоздаю.",
+       "target": "I will call if I am late.",
+       "alternatives": []
+      },
+      {
+       "id": "8-04-4",
+       "ru": "Если у меня будет время, я помогу.",
+       "target": "If I have time, I will help.",
+       "alternatives": []
+      },
+      {
+       "id": "8-04-5",
+       "ru": "Что ты будешь делать, если он не придёт?",
+       "target": "What will you do if he does not come?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "8-05",
+     "topic": "Предложения: let us, why not",
+     "sentences": [
+      {
+       "id": "8-05-1",
+       "ru": "Давай пойдём в кино.",
+       "target": "Let's go to the cinema.",
+       "alternatives": [
+        "Let us go to the cinema.",
+        "Let's go to the movies."
+       ]
+      },
+      {
+       "id": "8-05-2",
+       "ru": "Почему бы нам не заказать пиццу?",
+       "target": "Why don't we order a pizza?",
+       "alternatives": [
+        "Why don't we order pizza?"
+       ]
+      },
+      {
+       "id": "8-05-3",
+       "ru": "Может, встретимся в шесть?",
+       "target": "Shall we meet at six?",
+       "alternatives": [
+        "How about meeting at six?"
+       ]
+      },
+      {
+       "id": "8-05-4",
+       "ru": "Как насчёт прогулки?",
+       "target": "How about a walk?",
+       "alternatives": [
+        "What about a walk?"
+       ]
+      },
+      {
+       "id": "8-05-5",
+       "ru": "Давай не будем спорить.",
+       "target": "Let's not argue.",
+       "alternatives": [
+        "Let us not argue."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "8-06",
+     "topic": "Слишком и достаточно: too, enough",
+     "sentences": [
+      {
+       "id": "8-06-1",
+       "ru": "Чай слишком горячий.",
+       "target": "The tea is too hot.",
+       "alternatives": [
+        "The tea's too hot."
+       ]
+      },
+      {
+       "id": "8-06-2",
+       "ru": "У меня недостаточно денег.",
+       "target": "I do not have enough money.",
+       "alternatives": [
+        "I have not got enough money."
+       ]
+      },
+      {
+       "id": "8-06-3",
+       "ru": "Он достаточно взрослый, чтобы водить.",
+       "target": "He is old enough to drive.",
+       "alternatives": [
+        "He's old enough to drive."
+       ]
+      },
+      {
+       "id": "8-06-4",
+       "ru": "Здесь слишком шумно.",
+       "target": "It is too noisy here.",
+       "alternatives": [
+        "It's too noisy here."
+       ]
+      },
+      {
+       "id": "8-06-5",
+       "ru": "Комната недостаточно большая.",
+       "target": "The room is not big enough.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "8-07",
+     "topic": "Сравнение: as … as",
+     "sentences": [
+      {
+       "id": "8-07-1",
+       "ru": "Она такая же высокая, как её брат.",
+       "target": "She is as tall as her brother.",
+       "alternatives": [
+        "She's as tall as her brother."
+       ]
+      },
+      {
+       "id": "8-07-2",
+       "ru": "Этот фильм не такой интересный, как книга.",
+       "target": "This film is not as interesting as the book.",
+       "alternatives": [
+        "This movie is not as interesting as the book."
+       ]
+      },
+      {
+       "id": "8-07-3",
+       "ru": "Приходи как можно скорее.",
+       "target": "Come as soon as possible.",
+       "alternatives": []
+      },
+      {
+       "id": "8-07-4",
+       "ru": "Я работаю столько же, сколько ты.",
+       "target": "I work as much as you do.",
+       "alternatives": [
+        "I work as much as you."
+       ]
+      },
+      {
+       "id": "8-07-5",
+       "ru": "Сегодня не так холодно, как вчера.",
+       "target": "It is not as cold as yesterday.",
+       "alternatives": [
+        "Today is not as cold as yesterday."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "8-08",
+     "topic": "Связки: so, because, but",
+     "sentences": [
+      {
+       "id": "8-08-1",
+       "ru": "Я устал, поэтому лёг спать.",
+       "target": "I was tired, so I went to bed.",
+       "alternatives": []
+      },
+      {
+       "id": "8-08-2",
+       "ru": "Он не пришёл, потому что заболел.",
+       "target": "He did not come because he was ill.",
+       "alternatives": [
+        "He did not come because he was sick."
+       ]
+      },
+      {
+       "id": "8-08-3",
+       "ru": "Мне нравится, но это дорого.",
+       "target": "I like it, but it is expensive.",
+       "alternatives": [
+        "I like it, but it's expensive."
+       ]
+      },
+      {
+       "id": "8-08-4",
+       "ru": "Шёл дождь, но мы пошли гулять.",
+       "target": "It was raining, but we went for a walk.",
+       "alternatives": []
+      },
+      {
+       "id": "8-08-5",
+       "ru": "Я учу английский, потому что люблю путешествовать.",
+       "target": "I am learning English because I love travelling.",
+       "alternatives": [
+        "I am learning English because I love to travel.",
+        "I am learning English because I love traveling."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "8-09",
+     "topic": "Я тоже: so do I, neither do I",
+     "sentences": [
+      {
+       "id": "8-09-1",
+       "ru": "— Я люблю кофе. — Я тоже.",
+       "target": "I love coffee. So do I.",
+       "alternatives": [
+        "I love coffee. Me too."
+       ]
+      },
+      {
+       "id": "8-09-2",
+       "ru": "— Я не курю. — Я тоже.",
+       "target": "I do not smoke. Neither do I.",
+       "alternatives": [
+        "I do not smoke. Me neither.",
+        "I do not smoke. Nor do I."
+       ]
+      },
+      {
+       "id": "8-09-3",
+       "ru": "— Я устал. — Я тоже.",
+       "target": "I am tired. So am I.",
+       "alternatives": [
+        "I am tired. Me too."
+       ]
+      },
+      {
+       "id": "8-09-4",
+       "ru": "— Я не был в Америке. — Я тоже.",
+       "target": "I have not been to America. Neither have I.",
+       "alternatives": [
+        "I have not been to America. Me neither."
+       ]
+      },
+      {
+       "id": "8-09-5",
+       "ru": "Мой брат тоже любит футбол.",
+       "target": "My brother likes football too.",
+       "alternatives": [
+        "My brother also likes football."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "8-10",
+     "topic": "Повторение: мнения и планы",
+     "sentences": [
+      {
+       "id": "8-10-1",
+       "ru": "Я думаю, мы опоздаем, если не поторопимся.",
+       "target": "I think we will be late if we do not hurry.",
+       "alternatives": []
+      },
+      {
+       "id": "8-10-2",
+       "ru": "Давай встретимся завтра, если ты свободен.",
+       "target": "Let's meet tomorrow if you are free.",
+       "alternatives": [
+        "Let us meet tomorrow if you are free."
+       ]
+      },
+      {
+       "id": "8-10-3",
+       "ru": "Может быть, он тоже придёт.",
+       "target": "Maybe he will come too.",
+       "alternatives": [
+        "He might come too.",
+        "He may come too."
+       ]
+      },
+      {
+       "id": "8-10-4",
+       "ru": "Это платье слишком маленькое, но красивое.",
+       "target": "This dress is too small, but it is beautiful.",
+       "alternatives": [
+        "This dress is too small, but it's beautiful.",
+        "This dress is too small but beautiful."
+       ]
+      },
+      {
+       "id": "8-10-5",
+       "ru": "В пятницу я иду к врачу.",
+       "target": "I am going to the doctor on Friday.",
+       "alternatives": [
+        "I am seeing the doctor on Friday.",
+        "On Friday I am going to the doctor."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 9,
+   "title": "Люди вокруг",
+   "blocks": [
+    {
+     "id": "9-01",
+     "topic": "Внешность: tall, long hair",
+     "sentences": [
+      {
+       "id": "9-01-1",
+       "ru": "Он высокий и худой.",
+       "target": "He is tall and thin.",
+       "alternatives": [
+        "He's tall and thin.",
+        "He is tall and slim."
+       ]
+      },
+      {
+       "id": "9-01-2",
+       "ru": "У неё длинные тёмные волосы.",
+       "target": "She has long dark hair.",
+       "alternatives": [
+        "She's got long dark hair.",
+        "She has got long dark hair."
+       ]
+      },
+      {
+       "id": "9-01-3",
+       "ru": "У него голубые глаза.",
+       "target": "He has blue eyes.",
+       "alternatives": [
+        "He's got blue eyes.",
+        "He has got blue eyes."
+       ]
+      },
+      {
+       "id": "9-01-4",
+       "ru": "Моя сестра похожа на маму.",
+       "target": "My sister looks like my mother.",
+       "alternatives": [
+        "My sister looks like our mother.",
+        "My sister looks like my mum."
+       ]
+      },
+      {
+       "id": "9-01-5",
+       "ru": "Как она выглядит?",
+       "target": "What does she look like?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "9-02",
+     "topic": "Характер: kind, lazy",
+     "sentences": [
+      {
+       "id": "9-02-1",
+       "ru": "Он очень добрый человек.",
+       "target": "He is a very kind person.",
+       "alternatives": [
+        "He's a very kind person."
+       ]
+      },
+      {
+       "id": "9-02-2",
+       "ru": "Не будь таким ленивым!",
+       "target": "Do not be so lazy!",
+       "alternatives": []
+      },
+      {
+       "id": "9-02-3",
+       "ru": "Она стеснительная, но дружелюбная.",
+       "target": "She is shy but friendly.",
+       "alternatives": [
+        "She's shy but friendly."
+       ]
+      },
+      {
+       "id": "9-02-4",
+       "ru": "Какой он человек?",
+       "target": "What is he like?",
+       "alternatives": [
+        "What's he like?"
+       ]
+      },
+      {
+       "id": "9-02-5",
+       "ru": "Мой начальник строгий, но честный.",
+       "target": "My boss is strict but fair.",
+       "alternatives": [
+        "My boss is strict but honest."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-03",
+     "topic": "Сам: myself, yourself",
+     "sentences": [
+      {
+       "id": "9-03-1",
+       "ru": "Я сделал это сам.",
+       "target": "I did it myself.",
+       "alternatives": []
+      },
+      {
+       "id": "9-03-2",
+       "ru": "Осторожно, не порежься!",
+       "target": "Be careful, do not cut yourself!",
+       "alternatives": []
+      },
+      {
+       "id": "9-03-3",
+       "ru": "Она смотрит на себя в зеркало.",
+       "target": "She is looking at herself in the mirror.",
+       "alternatives": []
+      },
+      {
+       "id": "9-03-4",
+       "ru": "Угощайтесь!",
+       "target": "Help yourselves!",
+       "alternatives": [
+        "Help yourself!"
+       ]
+      },
+      {
+       "id": "9-03-5",
+       "ru": "Мы хорошо провели время.",
+       "target": "We enjoyed ourselves.",
+       "alternatives": [
+        "We had a good time."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-04",
+     "topic": "Чей: mine, yours",
+     "sentences": [
+      {
+       "id": "9-04-1",
+       "ru": "Эта сумка моя.",
+       "target": "This bag is mine.",
+       "alternatives": []
+      },
+      {
+       "id": "9-04-2",
+       "ru": "Это твоё или его?",
+       "target": "Is it yours or his?",
+       "alternatives": [
+        "Is this yours or his?"
+       ]
+      },
+      {
+       "id": "9-04-3",
+       "ru": "Наш дом больше, чем их.",
+       "target": "Our house is bigger than theirs.",
+       "alternatives": []
+      },
+      {
+       "id": "9-04-4",
+       "ru": "Чья это машина?",
+       "target": "Whose car is this?",
+       "alternatives": [
+        "Whose car is it?"
+       ]
+      },
+      {
+       "id": "9-04-5",
+       "ru": "Это не моя вина.",
+       "target": "It is not my fault.",
+       "alternatives": [
+        "It's not my fault."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-05",
+     "topic": "Как: quickly, well",
+     "sentences": [
+      {
+       "id": "9-05-1",
+       "ru": "Он говорит очень быстро.",
+       "target": "He speaks very quickly.",
+       "alternatives": [
+        "He speaks very fast.",
+        "He talks very fast."
+       ]
+      },
+      {
+       "id": "9-05-2",
+       "ru": "Она хорошо поёт.",
+       "target": "She sings well.",
+       "alternatives": []
+      },
+      {
+       "id": "9-05-3",
+       "ru": "Водите осторожно!",
+       "target": "Drive carefully!",
+       "alternatives": []
+      },
+      {
+       "id": "9-05-4",
+       "ru": "Я плохо спал.",
+       "target": "I slept badly.",
+       "alternatives": [
+        "I did not sleep well."
+       ]
+      },
+      {
+       "id": "9-05-5",
+       "ru": "Говори тише, пожалуйста.",
+       "target": "Speak more quietly, please.",
+       "alternatives": [
+        "Please speak more quietly."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-06",
+     "topic": "Чувства: bored или boring",
+     "sentences": [
+      {
+       "id": "9-06-1",
+       "ru": "Мне скучно.",
+       "target": "I am bored.",
+       "alternatives": []
+      },
+      {
+       "id": "9-06-2",
+       "ru": "Этот фильм скучный.",
+       "target": "This film is boring.",
+       "alternatives": [
+        "This movie is boring."
+       ]
+      },
+      {
+       "id": "9-06-3",
+       "ru": "Я очень устала после работы.",
+       "target": "I am very tired after work.",
+       "alternatives": []
+      },
+      {
+       "id": "9-06-4",
+       "ru": "Новости были шокирующими.",
+       "target": "The news was shocking.",
+       "alternatives": []
+      },
+      {
+       "id": "9-06-5",
+       "ru": "Она интересуется музыкой.",
+       "target": "She is interested in music.",
+       "alternatives": [
+        "She's interested in music."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-07",
+     "topic": "Все и никто: everyone, nobody",
+     "sentences": [
+      {
+       "id": "9-07-1",
+       "ru": "Все уже пришли.",
+       "target": "Everyone has already arrived.",
+       "alternatives": [
+        "Everybody has already arrived.",
+        "Everyone is already here."
+       ]
+      },
+      {
+       "id": "9-07-2",
+       "ru": "Никто не знает ответа.",
+       "target": "Nobody knows the answer.",
+       "alternatives": [
+        "No one knows the answer."
+       ]
+      },
+      {
+       "id": "9-07-3",
+       "ru": "Кто-то стучит в дверь.",
+       "target": "Someone is knocking at the door.",
+       "alternatives": [
+        "Somebody is knocking at the door.",
+        "Someone is knocking on the door."
+       ]
+      },
+      {
+       "id": "9-07-4",
+       "ru": "Они помогают друг другу.",
+       "target": "They help each other.",
+       "alternatives": [
+        "They help one another."
+       ]
+      },
+      {
+       "id": "9-07-5",
+       "ru": "Я ничего не видел.",
+       "target": "I did not see anything.",
+       "alternatives": [
+        "I saw nothing."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-08",
+     "topic": "Кто сделал: who + глагол",
+     "sentences": [
+      {
+       "id": "9-08-1",
+       "ru": "Кто звонил?",
+       "target": "Who called?",
+       "alternatives": [
+        "Who rang?"
+       ]
+      },
+      {
+       "id": "9-08-2",
+       "ru": "Кто разбил окно?",
+       "target": "Who broke the window?",
+       "alternatives": []
+      },
+      {
+       "id": "9-08-3",
+       "ru": "Что случилось?",
+       "target": "What happened?",
+       "alternatives": []
+      },
+      {
+       "id": "9-08-4",
+       "ru": "Кто живёт в этом доме?",
+       "target": "Who lives in this house?",
+       "alternatives": []
+      },
+      {
+       "id": "9-08-5",
+       "ru": "Что тебя беспокоит?",
+       "target": "What is worrying you?",
+       "alternatives": [
+        "What worries you?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-09",
+     "topic": "Семья и друзья",
+     "sentences": [
+      {
+       "id": "9-09-1",
+       "ru": "Мы с братом очень похожи.",
+       "target": "My brother and I are very similar.",
+       "alternatives": [
+        "My brother and I are very alike."
+       ]
+      },
+      {
+       "id": "9-09-2",
+       "ru": "Она вышла замуж в прошлом году.",
+       "target": "She got married last year.",
+       "alternatives": []
+      },
+      {
+       "id": "9-09-3",
+       "ru": "У меня много друзей в этом городе.",
+       "target": "I have a lot of friends in this city.",
+       "alternatives": [
+        "I have many friends in this city.",
+        "I have a lot of friends in this town."
+       ]
+      },
+      {
+       "id": "9-09-4",
+       "ru": "Мы дружим со школы.",
+       "target": "We have been friends since school.",
+       "alternatives": []
+      },
+      {
+       "id": "9-09-5",
+       "ru": "Мои родители живут недалеко.",
+       "target": "My parents live nearby.",
+       "alternatives": [
+        "My parents live near here.",
+        "My parents do not live far away."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "9-10",
+     "topic": "Повторение: люди",
+     "sentences": [
+      {
+       "id": "9-10-1",
+       "ru": "Она добрая и всегда помогает другим.",
+       "target": "She is kind and always helps others.",
+       "alternatives": [
+        "She's kind and always helps others.",
+        "She is kind and always helps other people."
+       ]
+      },
+      {
+       "id": "9-10-2",
+       "ru": "Кто этот высокий мужчина с бородой?",
+       "target": "Who is that tall man with a beard?",
+       "alternatives": [
+        "Who's that tall man with a beard?",
+        "Who is this tall man with a beard?"
+       ]
+      },
+      {
+       "id": "9-10-3",
+       "ru": "Я сам испёк этот торт.",
+       "target": "I baked this cake myself.",
+       "alternatives": [
+        "I made this cake myself."
+       ]
+      },
+      {
+       "id": "9-10-4",
+       "ru": "Никто не говорил мне об этом.",
+       "target": "Nobody told me about it.",
+       "alternatives": [
+        "No one told me about it.",
+        "Nobody told me about that."
+       ]
+      },
+      {
+       "id": "9-10-5",
+       "ru": "Он говорит по-английски лучше, чем я.",
+       "target": "He speaks English better than me.",
+       "alternatives": [
+        "He speaks English better than I do."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 10,
+   "title": "Работа и учёба",
+   "blocks": [
+    {
+     "id": "10-01",
+     "topic": "Профессии: work as",
+     "sentences": [
+      {
+       "id": "10-01-1",
+       "ru": "Кем ты работаешь?",
+       "target": "What do you do?",
+       "alternatives": [
+        "What is your job?",
+        "What's your job?"
+       ]
+      },
+      {
+       "id": "10-01-2",
+       "ru": "Она работает медсестрой.",
+       "target": "She works as a nurse.",
+       "alternatives": [
+        "She's a nurse.",
+        "She is a nurse."
+       ]
+      },
+      {
+       "id": "10-01-3",
+       "ru": "Мой отец работает в банке.",
+       "target": "My father works in a bank.",
+       "alternatives": [
+        "My father works at a bank.",
+        "My dad works in a bank."
+       ]
+      },
+      {
+       "id": "10-01-4",
+       "ru": "Я ищу новую работу.",
+       "target": "I am looking for a new job.",
+       "alternatives": []
+      },
+      {
+       "id": "10-01-5",
+       "ru": "Он работает из дома.",
+       "target": "He works from home.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "10-02",
+     "topic": "Учёба: exam, pass",
+     "sentences": [
+      {
+       "id": "10-02-1",
+       "ru": "Завтра у меня экзамен.",
+       "target": "I have an exam tomorrow.",
+       "alternatives": [
+        "I have got an exam tomorrow."
+       ]
+      },
+      {
+       "id": "10-02-2",
+       "ru": "Она сдала экзамен.",
+       "target": "She passed the exam.",
+       "alternatives": []
+      },
+      {
+       "id": "10-02-3",
+       "ru": "Он не сдал тест.",
+       "target": "He failed the test.",
+       "alternatives": [
+        "He did not pass the test."
+       ]
+      },
+      {
+       "id": "10-02-4",
+       "ru": "Я учусь в университете.",
+       "target": "I study at university.",
+       "alternatives": [
+        "I am a university student.",
+        "I study at a university."
+       ]
+      },
+      {
+       "id": "10-02-5",
+       "ru": "Сколько лет ты учишь английский?",
+       "target": "How long have you been learning English?",
+       "alternatives": [
+        "How many years have you been learning English?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "10-03",
+     "topic": "Как делают: is made, is spoken",
+     "sentences": [
+      {
+       "id": "10-03-1",
+       "ru": "Этот сыр делают во Франции.",
+       "target": "This cheese is made in France.",
+       "alternatives": []
+      },
+      {
+       "id": "10-03-2",
+       "ru": "По-английски говорят во многих странах.",
+       "target": "English is spoken in many countries.",
+       "alternatives": []
+      },
+      {
+       "id": "10-03-3",
+       "ru": "Обед подают в час.",
+       "target": "Lunch is served at one o'clock.",
+       "alternatives": [
+        "Lunch is served at one."
+       ]
+      },
+      {
+       "id": "10-03-4",
+       "ru": "Здесь не разрешено курить.",
+       "target": "Smoking is not allowed here.",
+       "alternatives": []
+      },
+      {
+       "id": "10-03-5",
+       "ru": "Как это пишется?",
+       "target": "How is it spelled?",
+       "alternatives": [
+        "How do you spell it?",
+        "How is it spelt?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "10-04",
+     "topic": "Как сделали: was built",
+     "sentences": [
+      {
+       "id": "10-04-1",
+       "ru": "Этот мост построили в 1900 году.",
+       "target": "This bridge was built in 1900.",
+       "alternatives": []
+      },
+      {
+       "id": "10-04-2",
+       "ru": "Меня пригласили на свадьбу.",
+       "target": "I was invited to the wedding.",
+       "alternatives": []
+      },
+      {
+       "id": "10-04-3",
+       "ru": "Его машину украли.",
+       "target": "His car was stolen.",
+       "alternatives": []
+      },
+      {
+       "id": "10-04-4",
+       "ru": "Письмо было отправлено вчера.",
+       "target": "The letter was sent yesterday.",
+       "alternatives": []
+      },
+      {
+       "id": "10-04-5",
+       "ru": "Когда была написана эта книга?",
+       "target": "When was this book written?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "10-05",
+     "topic": "Он сказал, что…: said that",
+     "sentences": [
+      {
+       "id": "10-05-1",
+       "ru": "Он сказал, что устал.",
+       "target": "He said that he was tired.",
+       "alternatives": [
+        "He said he was tired."
+       ]
+      },
+      {
+       "id": "10-05-2",
+       "ru": "Она сказала мне, что опоздает.",
+       "target": "She told me that she would be late.",
+       "alternatives": [
+        "She told me she would be late."
+       ]
+      },
+      {
+       "id": "10-05-3",
+       "ru": "Они сказали, что всё в порядке.",
+       "target": "They said that everything was fine.",
+       "alternatives": [
+        "They said everything was fine.",
+        "They said that everything was OK."
+       ]
+      },
+      {
+       "id": "10-05-4",
+       "ru": "Он спросил, где я живу.",
+       "target": "He asked where I lived.",
+       "alternatives": [
+        "He asked me where I lived."
+       ]
+      },
+      {
+       "id": "10-05-5",
+       "ru": "Я сказал ей позвонить мне.",
+       "target": "I told her to call me.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "10-06",
+     "topic": "Вежливый вопрос: do you know where",
+     "sentences": [
+      {
+       "id": "10-06-1",
+       "ru": "Вы не знаете, где вокзал?",
+       "target": "Do you know where the station is?",
+       "alternatives": []
+      },
+      {
+       "id": "10-06-2",
+       "ru": "Можете сказать, который час?",
+       "target": "Can you tell me what time it is?",
+       "alternatives": [
+        "Could you tell me what time it is?"
+       ]
+      },
+      {
+       "id": "10-06-3",
+       "ru": "Я не знаю, что он хочет.",
+       "target": "I do not know what he wants.",
+       "alternatives": []
+      },
+      {
+       "id": "10-06-4",
+       "ru": "Интересно, придёт ли она.",
+       "target": "I wonder if she will come.",
+       "alternatives": [
+        "I wonder whether she will come."
+       ]
+      },
+      {
+       "id": "10-06-5",
+       "ru": "Ты помнишь, как его зовут?",
+       "target": "Do you remember what his name is?",
+       "alternatives": [
+        "Do you remember his name?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "10-07",
+     "topic": "Становиться: get",
+     "sentences": [
+      {
+       "id": "10-07-1",
+       "ru": "Становится темно.",
+       "target": "It is getting dark.",
+       "alternatives": [
+        "It's getting dark."
+       ]
+      },
+      {
+       "id": "10-07-2",
+       "ru": "Я быстро устаю.",
+       "target": "I get tired quickly.",
+       "alternatives": []
+      },
+      {
+       "id": "10-07-3",
+       "ru": "Они поженились в мае.",
+       "target": "They got married in May.",
+       "alternatives": []
+      },
+      {
+       "id": "10-07-4",
+       "ru": "Не сердись!",
+       "target": "Do not get angry!",
+       "alternatives": []
+      },
+      {
+       "id": "10-07-5",
+       "ru": "Как ты добрался домой?",
+       "target": "How did you get home?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "10-08",
+     "topic": "После предлога: good at doing",
+     "sentences": [
+      {
+       "id": "10-08-1",
+       "ru": "Она хорошо рисует.",
+       "target": "She is good at drawing.",
+       "alternatives": [
+        "She's good at drawing.",
+        "She draws well."
+       ]
+      },
+      {
+       "id": "10-08-2",
+       "ru": "Я думаю о том, чтобы сменить работу.",
+       "target": "I am thinking about changing jobs.",
+       "alternatives": [
+        "I am thinking of changing my job.",
+        "I am thinking about changing my job."
+       ]
+      },
+      {
+       "id": "10-08-3",
+       "ru": "Спасибо, что помог мне.",
+       "target": "Thank you for helping me.",
+       "alternatives": [
+        "Thanks for helping me."
+       ]
+      },
+      {
+       "id": "10-08-4",
+       "ru": "Он ушёл, не попрощавшись.",
+       "target": "He left without saying goodbye.",
+       "alternatives": []
+      },
+      {
+       "id": "10-08-5",
+       "ru": "Я устал ждать.",
+       "target": "I am tired of waiting.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "10-09",
+     "topic": "Если бы: if I had, I would",
+     "sentences": [
+      {
+       "id": "10-09-1",
+       "ru": "Если бы у меня было больше денег, я бы путешествовал.",
+       "target": "If I had more money, I would travel.",
+       "alternatives": [
+        "If I had more money, I'd travel."
+       ]
+      },
+      {
+       "id": "10-09-2",
+       "ru": "Будь я тобой, я бы согласился.",
+       "target": "If I were you, I would agree.",
+       "alternatives": [
+        "If I were you, I'd agree.",
+        "If I was you, I would agree."
+       ]
+      },
+      {
+       "id": "10-09-3",
+       "ru": "Что бы ты сделал, если бы выиграл деньги?",
+       "target": "What would you do if you won the money?",
+       "alternatives": [
+        "What would you do if you won money?"
+       ]
+      },
+      {
+       "id": "10-09-4",
+       "ru": "Если бы он знал, он бы позвонил.",
+       "target": "If he knew, he would call.",
+       "alternatives": [
+        "If he knew, he'd call."
+       ]
+      },
+      {
+       "id": "10-09-5",
+       "ru": "Я бы купил дом у моря.",
+       "target": "I would buy a house by the sea.",
+       "alternatives": [
+        "I'd buy a house by the sea."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "10-10",
+     "topic": "Повторение: работа",
+     "sentences": [
+      {
+       "id": "10-10-1",
+       "ru": "Нашу компанию основали десять лет назад.",
+       "target": "Our company was founded ten years ago.",
+       "alternatives": []
+      },
+      {
+       "id": "10-10-2",
+       "ru": "Она сказала, что ищет новую работу.",
+       "target": "She said that she was looking for a new job.",
+       "alternatives": [
+        "She said she was looking for a new job."
+       ]
+      },
+      {
+       "id": "10-10-3",
+       "ru": "Если бы я лучше говорил по-английски, я бы нашёл работу.",
+       "target": "If I spoke English better, I would find a job.",
+       "alternatives": [
+        "If I spoke English better, I'd find a job."
+       ]
+      },
+      {
+       "id": "10-10-4",
+       "ru": "Я хорошо умею работать с людьми.",
+       "target": "I am good at working with people.",
+       "alternatives": [
+        "I'm good at working with people."
+       ]
+      },
+      {
+       "id": "10-10-5",
+       "ru": "Вы не знаете, когда начинается собрание?",
+       "target": "Do you know when the meeting starts?",
+       "alternatives": []
+      }
+     ]
+    }
+   ]
   }
  ]
 }
