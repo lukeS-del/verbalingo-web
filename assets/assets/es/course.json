@@ -1,0 +1,2696 @@
+{
+ "version": 1,
+ "levels": [
+  {
+   "level": 1,
+   "title": "Самое начало",
+   "blocks": [
+    {
+     "id": "1-01",
+     "topic": "Быть: soy, eres, es",
+     "sentences": [
+      {
+       "id": "1-01-1",
+       "ru": "Я студент.",
+       "target": "Soy estudiante.",
+       "alternatives": [
+        "Yo soy estudiante."
+       ]
+      },
+      {
+       "id": "1-01-2",
+       "ru": "Ты мой друг.",
+       "target": "Eres mi amigo.",
+       "alternatives": [
+        "Tú eres mi amigo."
+       ]
+      },
+      {
+       "id": "1-01-3",
+       "ru": "Он врач.",
+       "target": "Es médico.",
+       "alternatives": [
+        "Él es médico.",
+        "Es doctor.",
+        "Él es doctor."
+       ]
+      },
+      {
+       "id": "1-01-4",
+       "ru": "Она учительница.",
+       "target": "Es profesora.",
+       "alternatives": [
+        "Ella es profesora.",
+        "Es maestra.",
+        "Ella es maestra."
+       ]
+      },
+      {
+       "id": "1-01-5",
+       "ru": "Мы из России.",
+       "target": "Somos de Rusia.",
+       "alternatives": [
+        "Nosotros somos de Rusia.",
+        "Nosotras somos de Rusia."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-02",
+     "topic": "Где: estoy, estás, está",
+     "sentences": [
+      {
+       "id": "1-02-1",
+       "ru": "Я дома.",
+       "target": "Estoy en casa.",
+       "alternatives": [
+        "Yo estoy en casa."
+       ]
+      },
+      {
+       "id": "1-02-2",
+       "ru": "Ты в офисе.",
+       "target": "Estás en la oficina.",
+       "alternatives": [
+        "Tú estás en la oficina."
+       ]
+      },
+      {
+       "id": "1-02-3",
+       "ru": "Он в Мадриде.",
+       "target": "Está en Madrid.",
+       "alternatives": [
+        "Él está en Madrid."
+       ]
+      },
+      {
+       "id": "1-02-4",
+       "ru": "Мы в парке.",
+       "target": "Estamos en el parque.",
+       "alternatives": [
+        "Nosotros estamos en el parque.",
+        "Nosotras estamos en el parque."
+       ]
+      },
+      {
+       "id": "1-02-5",
+       "ru": "Они здесь.",
+       "target": "Están aquí.",
+       "alternatives": [
+        "Ellos están aquí.",
+        "Ellas están aquí.",
+        "Están acá.",
+        "Ellos están acá.",
+        "Ellas están acá."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-03",
+     "topic": "Как: estar и состояние",
+     "sentences": [
+      {
+       "id": "1-03-1",
+       "ru": "Я устал.",
+       "target": "Estoy cansado.",
+       "alternatives": [
+        "Yo estoy cansado."
+       ]
+      },
+      {
+       "id": "1-03-2",
+       "ru": "Она занята.",
+       "target": "Está ocupada.",
+       "alternatives": [
+        "Ella está ocupada."
+       ]
+      },
+      {
+       "id": "1-03-3",
+       "ru": "Он болен.",
+       "target": "Está enfermo.",
+       "alternatives": [
+        "Él está enfermo."
+       ]
+      },
+      {
+       "id": "1-03-4",
+       "ru": "Мы готовы.",
+       "target": "Estamos listos.",
+       "alternatives": [
+        "Estamos listas.",
+        "Nosotros estamos listos.",
+        "Nosotras estamos listas.",
+        "Estamos preparados.",
+        "Estamos preparadas."
+       ]
+      },
+      {
+       "id": "1-03-5",
+       "ru": "Я очень рада.",
+       "target": "Estoy muy contenta.",
+       "alternatives": [
+        "Yo estoy muy contenta."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-04",
+     "topic": "Это: esto es, este es, esta es",
+     "sentences": [
+      {
+       "id": "1-04-1",
+       "ru": "Это книга.",
+       "target": "Esto es un libro.",
+       "alternatives": [
+        "Es un libro."
+       ]
+      },
+      {
+       "id": "1-04-2",
+       "ru": "Это мой дом.",
+       "target": "Esta es mi casa.",
+       "alternatives": [
+        "Es mi casa.",
+        "Esto es mi casa."
+       ]
+      },
+      {
+       "id": "1-04-3",
+       "ru": "Это мой брат.",
+       "target": "Este es mi hermano.",
+       "alternatives": [
+        "Es mi hermano."
+       ]
+      },
+      {
+       "id": "1-04-4",
+       "ru": "Это моя сестра.",
+       "target": "Esta es mi hermana.",
+       "alternatives": [
+        "Es mi hermana."
+       ]
+      },
+      {
+       "id": "1-04-5",
+       "ru": "Что это?",
+       "target": "¿Qué es esto?",
+       "alternatives": [
+        "¿Qué es eso?",
+        "¿Esto qué es?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-05",
+     "topic": "Отрицание: no",
+     "sentences": [
+      {
+       "id": "1-05-1",
+       "ru": "Я не врач.",
+       "target": "No soy médico.",
+       "alternatives": [
+        "Yo no soy médico.",
+        "No soy médica.",
+        "Yo no soy médica.",
+        "No soy doctor.",
+        "No soy doctora."
+       ]
+      },
+      {
+       "id": "1-05-2",
+       "ru": "Он не дома.",
+       "target": "No está en casa.",
+       "alternatives": [
+        "Él no está en casa."
+       ]
+      },
+      {
+       "id": "1-05-3",
+       "ru": "Она не испанка.",
+       "target": "No es española.",
+       "alternatives": [
+        "Ella no es española."
+       ]
+      },
+      {
+       "id": "1-05-4",
+       "ru": "Мы не в Москве.",
+       "target": "No estamos en Moscú.",
+       "alternatives": [
+        "Nosotros no estamos en Moscú.",
+        "Nosotras no estamos en Moscú."
+       ]
+      },
+      {
+       "id": "1-05-5",
+       "ru": "Это не мой телефон.",
+       "target": "Este no es mi teléfono.",
+       "alternatives": [
+        "No es mi teléfono.",
+        "Esto no es mi teléfono.",
+        "Este no es mi móvil.",
+        "No es mi móvil.",
+        "Este no es mi celular.",
+        "No es mi celular."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-06",
+     "topic": "Вопрос: да или нет",
+     "sentences": [
+      {
+       "id": "1-06-1",
+       "ru": "Ты готов?",
+       "target": "¿Estás listo?",
+       "alternatives": [
+        "¿Tú estás listo?",
+        "¿Estás preparado?"
+       ]
+      },
+      {
+       "id": "1-06-2",
+       "ru": "Ты из Испании?",
+       "target": "¿Eres de España?",
+       "alternatives": [
+        "¿Tú eres de España?"
+       ]
+      },
+      {
+       "id": "1-06-3",
+       "ru": "Он дома?",
+       "target": "¿Está en casa?",
+       "alternatives": [
+        "¿Él está en casa?",
+        "¿Está él en casa?"
+       ]
+      },
+      {
+       "id": "1-06-4",
+       "ru": "Она твоя сестра?",
+       "target": "¿Es tu hermana?",
+       "alternatives": [
+        "¿Ella es tu hermana?"
+       ]
+      },
+      {
+       "id": "1-06-5",
+       "ru": "Это твоя машина?",
+       "target": "¿Es tu coche?",
+       "alternatives": [
+        "¿Este es tu coche?",
+        "¿Es tu auto?",
+        "¿Este es tu auto?",
+        "¿Es tu carro?",
+        "¿Este es tu carro?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-07",
+     "topic": "У меня есть: tener",
+     "sentences": [
+      {
+       "id": "1-07-1",
+       "ru": "У меня есть брат.",
+       "target": "Tengo un hermano.",
+       "alternatives": [
+        "Yo tengo un hermano."
+       ]
+      },
+      {
+       "id": "1-07-2",
+       "ru": "У тебя есть время?",
+       "target": "¿Tienes tiempo?",
+       "alternatives": [
+        "¿Tú tienes tiempo?"
+       ]
+      },
+      {
+       "id": "1-07-3",
+       "ru": "У неё две кошки.",
+       "target": "Tiene dos gatos.",
+       "alternatives": [
+        "Ella tiene dos gatos.",
+        "Tiene dos gatas.",
+        "Ella tiene dos gatas."
+       ]
+      },
+      {
+       "id": "1-07-4",
+       "ru": "У нас нет машины.",
+       "target": "No tenemos coche.",
+       "alternatives": [
+        "Nosotros no tenemos coche.",
+        "Nosotras no tenemos coche.",
+        "No tenemos auto.",
+        "No tenemos carro."
+       ]
+      },
+      {
+       "id": "1-07-5",
+       "ru": "Мне двадцать лет.",
+       "target": "Tengo veinte años.",
+       "alternatives": [
+        "Yo tengo veinte años."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-08",
+     "topic": "Меня зовут: llamarse",
+     "sentences": [
+      {
+       "id": "1-08-1",
+       "ru": "Меня зовут Анна.",
+       "target": "Me llamo Ana.",
+       "alternatives": [
+        "Me llamo Anna.",
+        "Yo me llamo Ana.",
+        "Yo me llamo Anna.",
+        "Mi nombre es Ana.",
+        "Mi nombre es Anna."
+       ]
+      },
+      {
+       "id": "1-08-2",
+       "ru": "Как тебя зовут?",
+       "target": "¿Cómo te llamas?",
+       "alternatives": [
+        "¿Cómo te llamas tú?",
+        "¿Cuál es tu nombre?"
+       ]
+      },
+      {
+       "id": "1-08-3",
+       "ru": "Его зовут Пабло.",
+       "target": "Se llama Pablo.",
+       "alternatives": [
+        "Él se llama Pablo.",
+        "Su nombre es Pablo."
+       ]
+      },
+      {
+       "id": "1-08-4",
+       "ru": "Её зовут Мария.",
+       "target": "Se llama María.",
+       "alternatives": [
+        "Ella se llama María.",
+        "Su nombre es María."
+       ]
+      },
+      {
+       "id": "1-08-5",
+       "ru": "Как зовут твою собаку?",
+       "target": "¿Cómo se llama tu perro?",
+       "alternatives": [
+        "¿Cómo se llama tu perra?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-09",
+     "topic": "Есть, имеется: hay",
+     "sentences": [
+      {
+       "id": "1-09-1",
+       "ru": "Здесь есть банк.",
+       "target": "Aquí hay un banco.",
+       "alternatives": [
+        "Hay un banco aquí.",
+        "Acá hay un banco.",
+        "Hay un banco acá."
+       ]
+      },
+      {
+       "id": "1-09-2",
+       "ru": "В городе есть музей.",
+       "target": "En la ciudad hay un museo.",
+       "alternatives": [
+        "Hay un museo en la ciudad."
+       ]
+      },
+      {
+       "id": "1-09-3",
+       "ru": "На столе книга.",
+       "target": "En la mesa hay un libro.",
+       "alternatives": [
+        "Hay un libro en la mesa.",
+        "Sobre la mesa hay un libro.",
+        "Hay un libro sobre la mesa."
+       ]
+      },
+      {
+       "id": "1-09-4",
+       "ru": "Здесь нет метро.",
+       "target": "Aquí no hay metro.",
+       "alternatives": [
+        "No hay metro aquí.",
+        "Acá no hay metro.",
+        "No hay metro acá."
+       ]
+      },
+      {
+       "id": "1-09-5",
+       "ru": "Здесь есть аптека?",
+       "target": "¿Hay una farmacia aquí?",
+       "alternatives": [
+        "¿Aquí hay una farmacia?",
+        "¿Hay una farmacia acá?",
+        "¿Acá hay una farmacia?",
+        "¿Hay alguna farmacia aquí?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-10",
+     "topic": "Артикли: un, una, el, la",
+     "sentences": [
+      {
+       "id": "1-10-1",
+       "ru": "У меня есть собака.",
+       "target": "Tengo un perro.",
+       "alternatives": [
+        "Yo tengo un perro.",
+        "Tengo perro.",
+        "Tengo una perra."
+       ]
+      },
+      {
+       "id": "1-10-2",
+       "ru": "Собака в саду.",
+       "target": "El perro está en el jardín.",
+       "alternatives": []
+      },
+      {
+       "id": "1-10-3",
+       "ru": "Это стол.",
+       "target": "Esto es una mesa.",
+       "alternatives": [
+        "Es una mesa."
+       ]
+      },
+      {
+       "id": "1-10-4",
+       "ru": "Стол большой.",
+       "target": "La mesa es grande.",
+       "alternatives": []
+      },
+      {
+       "id": "1-10-5",
+       "ru": "Вода холодная.",
+       "target": "El agua está fría.",
+       "alternatives": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 2,
+   "title": "Каждый день",
+   "blocks": [
+    {
+     "id": "2-01",
+     "topic": "Глаголы на -ar: hablo, hablas, habla",
+     "sentences": [
+      {
+       "id": "2-01-1",
+       "ru": "Я работаю в банке.",
+       "target": "Trabajo en un banco.",
+       "alternatives": [
+        "Yo trabajo en un banco.",
+        "Trabajo en el banco.",
+        "Yo trabajo en el banco."
+       ]
+      },
+      {
+       "id": "2-01-2",
+       "ru": "Ты говоришь по-испански.",
+       "target": "Hablas español.",
+       "alternatives": [
+        "Tú hablas español.",
+        "Hablas castellano.",
+        "Tú hablas castellano."
+       ]
+      },
+      {
+       "id": "2-01-3",
+       "ru": "Она изучает английский.",
+       "target": "Estudia inglés.",
+       "alternatives": [
+        "Ella estudia inglés."
+       ]
+      },
+      {
+       "id": "2-01-4",
+       "ru": "Мы покупаем хлеб.",
+       "target": "Compramos pan.",
+       "alternatives": [
+        "Nosotros compramos pan.",
+        "Nosotras compramos pan.",
+        "Compramos el pan."
+       ]
+      },
+      {
+       "id": "2-01-5",
+       "ru": "Они слушают музыку.",
+       "target": "Escuchan música.",
+       "alternatives": [
+        "Ellos escuchan música.",
+        "Ellas escuchan música."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-02",
+     "topic": "Глаголы на -er: como, comes, come",
+     "sentences": [
+      {
+       "id": "2-02-1",
+       "ru": "Я ем мясо.",
+       "target": "Como carne.",
+       "alternatives": [
+        "Yo como carne."
+       ]
+      },
+      {
+       "id": "2-02-2",
+       "ru": "Ты пьёшь кофе?",
+       "target": "¿Bebes café?",
+       "alternatives": [
+        "¿Tomas café?",
+        "¿Tú bebes café?",
+        "¿Tú tomas café?"
+       ]
+      },
+      {
+       "id": "2-02-3",
+       "ru": "Он читает газету.",
+       "target": "Lee el periódico.",
+       "alternatives": [
+        "Él lee el periódico.",
+        "Lee un periódico.",
+        "Él lee un periódico."
+       ]
+      },
+      {
+       "id": "2-02-4",
+       "ru": "Мы учим испанский.",
+       "target": "Aprendemos español.",
+       "alternatives": [
+        "Nosotros aprendemos español.",
+        "Nosotras aprendemos español.",
+        "Estudiamos español.",
+        "Nosotros estudiamos español.",
+        "Nosotras estudiamos español."
+       ]
+      },
+      {
+       "id": "2-02-5",
+       "ru": "Они продают фрукты.",
+       "target": "Venden fruta.",
+       "alternatives": [
+        "Venden frutas.",
+        "Ellos venden fruta.",
+        "Ellos venden frutas.",
+        "Ellas venden fruta.",
+        "Ellas venden frutas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-03",
+     "topic": "Глаголы на -ir: vivo, vives, vive",
+     "sentences": [
+      {
+       "id": "2-03-1",
+       "ru": "Я живу в Москве.",
+       "target": "Vivo en Moscú.",
+       "alternatives": [
+        "Yo vivo en Moscú."
+       ]
+      },
+      {
+       "id": "2-03-2",
+       "ru": "Где ты живёшь?",
+       "target": "¿Dónde vives?",
+       "alternatives": [
+        "¿Dónde vives tú?",
+        "¿Tú dónde vives?"
+       ]
+      },
+      {
+       "id": "2-03-3",
+       "ru": "Она пишет письмо.",
+       "target": "Escribe una carta.",
+       "alternatives": [
+        "Ella escribe una carta."
+       ]
+      },
+      {
+       "id": "2-03-4",
+       "ru": "Мы открываем окно.",
+       "target": "Abrimos la ventana.",
+       "alternatives": [
+        "Nosotros abrimos la ventana.",
+        "Nosotras abrimos la ventana."
+       ]
+      },
+      {
+       "id": "2-03-5",
+       "ru": "Они живут в Испании.",
+       "target": "Viven en España.",
+       "alternatives": [
+        "Ellos viven en España.",
+        "Ellas viven en España."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-04",
+     "topic": "Иду в...: ir a",
+     "sentences": [
+      {
+       "id": "2-04-1",
+       "ru": "Я иду в школу.",
+       "target": "Voy a la escuela.",
+       "alternatives": [
+        "Yo voy a la escuela.",
+        "Voy al colegio.",
+        "Yo voy al colegio."
+       ]
+      },
+      {
+       "id": "2-04-2",
+       "ru": "Ты идёшь в магазин?",
+       "target": "¿Vas a la tienda?",
+       "alternatives": [
+        "¿Tú vas a la tienda?"
+       ]
+      },
+      {
+       "id": "2-04-3",
+       "ru": "Он идёт в кино.",
+       "target": "Va al cine.",
+       "alternatives": [
+        "Él va al cine."
+       ]
+      },
+      {
+       "id": "2-04-4",
+       "ru": "Мы идём на пляж.",
+       "target": "Vamos a la playa.",
+       "alternatives": [
+        "Nosotros vamos a la playa.",
+        "Nosotras vamos a la playa."
+       ]
+      },
+      {
+       "id": "2-04-5",
+       "ru": "Они едут в Барселону.",
+       "target": "Van a Barcelona.",
+       "alternatives": [
+        "Ellos van a Barcelona.",
+        "Ellas van a Barcelona."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-05",
+     "topic": "Хочу: querer + инфинитив",
+     "sentences": [
+      {
+       "id": "2-05-1",
+       "ru": "Я хочу отдохнуть.",
+       "target": "Quiero descansar.",
+       "alternatives": [
+        "Yo quiero descansar."
+       ]
+      },
+      {
+       "id": "2-05-2",
+       "ru": "Ты хочешь кофе?",
+       "target": "¿Quieres café?",
+       "alternatives": [
+        "¿Quieres un café?",
+        "¿Tú quieres café?",
+        "¿Tú quieres un café?"
+       ]
+      },
+      {
+       "id": "2-05-3",
+       "ru": "Она хочет жить в Испании.",
+       "target": "Quiere vivir en España.",
+       "alternatives": [
+        "Ella quiere vivir en España."
+       ]
+      },
+      {
+       "id": "2-05-4",
+       "ru": "Мы хотим купить дом.",
+       "target": "Queremos comprar una casa.",
+       "alternatives": [
+        "Nosotros queremos comprar una casa.",
+        "Nosotras queremos comprar una casa."
+       ]
+      },
+      {
+       "id": "2-05-5",
+       "ru": "Я не хочу работать сегодня.",
+       "target": "No quiero trabajar hoy.",
+       "alternatives": [
+        "Hoy no quiero trabajar.",
+        "Yo no quiero trabajar hoy."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-06",
+     "topic": "Могу: poder + инфинитив",
+     "sentences": [
+      {
+       "id": "2-06-1",
+       "ru": "Я могу помочь.",
+       "target": "Puedo ayudar.",
+       "alternatives": [
+        "Yo puedo ayudar."
+       ]
+      },
+      {
+       "id": "2-06-2",
+       "ru": "Ты можешь прийти завтра?",
+       "target": "¿Puedes venir mañana?",
+       "alternatives": [
+        "¿Tú puedes venir mañana?",
+        "¿Mañana puedes venir?"
+       ]
+      },
+      {
+       "id": "2-06-3",
+       "ru": "Он не может спать.",
+       "target": "No puede dormir.",
+       "alternatives": [
+        "Él no puede dormir."
+       ]
+      },
+      {
+       "id": "2-06-4",
+       "ru": "Мы можем подождать.",
+       "target": "Podemos esperar.",
+       "alternatives": [
+        "Nosotros podemos esperar.",
+        "Nosotras podemos esperar."
+       ]
+      },
+      {
+       "id": "2-06-5",
+       "ru": "Здесь можно курить?",
+       "target": "¿Se puede fumar aquí?",
+       "alternatives": [
+        "¿Aquí se puede fumar?",
+        "¿Se puede fumar acá?",
+        "¿Acá se puede fumar?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-07",
+     "topic": "Когда: утром, вечером, сегодня",
+     "sentences": [
+      {
+       "id": "2-07-1",
+       "ru": "Утром я пью чай.",
+       "target": "Por la mañana bebo té.",
+       "alternatives": [
+        "Por la mañana tomo té.",
+        "Bebo té por la mañana.",
+        "Tomo té por la mañana."
+       ]
+      },
+      {
+       "id": "2-07-2",
+       "ru": "Вечером мы смотрим телевизор.",
+       "target": "Por la noche vemos la televisión.",
+       "alternatives": [
+        "Por la noche vemos la tele.",
+        "Vemos la televisión por la noche.",
+        "Vemos la tele por la noche.",
+        "Por la tarde vemos la televisión.",
+        "Por la tarde vemos la tele.",
+        "Vemos la televisión por la tarde.",
+        "Vemos la tele por la tarde."
+       ]
+      },
+      {
+       "id": "2-07-3",
+       "ru": "Ночью он работает.",
+       "target": "Por la noche trabaja.",
+       "alternatives": [
+        "Trabaja por la noche.",
+        "Él trabaja por la noche.",
+        "De noche trabaja.",
+        "Trabaja de noche.",
+        "Él trabaja de noche."
+       ]
+      },
+      {
+       "id": "2-07-4",
+       "ru": "Сегодня я работаю дома.",
+       "target": "Hoy trabajo en casa.",
+       "alternatives": [
+        "Trabajo en casa hoy.",
+        "Hoy yo trabajo en casa.",
+        "Hoy trabajo desde casa."
+       ]
+      },
+      {
+       "id": "2-07-5",
+       "ru": "Завтра мы едем в Мадрид.",
+       "target": "Mañana vamos a Madrid.",
+       "alternatives": [
+        "Vamos a Madrid mañana.",
+        "Mañana nos vamos a Madrid."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-08",
+     "topic": "Как часто: siempre, nunca, a veces",
+     "sentences": [
+      {
+       "id": "2-08-1",
+       "ru": "Я всегда завтракаю дома.",
+       "target": "Siempre desayuno en casa.",
+       "alternatives": [
+        "Yo siempre desayuno en casa.",
+        "Desayuno siempre en casa."
+       ]
+      },
+      {
+       "id": "2-08-2",
+       "ru": "Он никогда не опаздывает.",
+       "target": "Nunca llega tarde.",
+       "alternatives": [
+        "Él nunca llega tarde.",
+        "No llega tarde nunca.",
+        "No llega nunca tarde."
+       ]
+      },
+      {
+       "id": "2-08-3",
+       "ru": "Иногда мы ужинаем в ресторане.",
+       "target": "A veces cenamos en un restaurante.",
+       "alternatives": [
+        "Cenamos a veces en un restaurante.",
+        "Cenamos en un restaurante a veces.",
+        "A veces cenamos en el restaurante."
+       ]
+      },
+      {
+       "id": "2-08-4",
+       "ru": "Она бегает каждый день.",
+       "target": "Corre todos los días.",
+       "alternatives": [
+        "Ella corre todos los días.",
+        "Todos los días corre.",
+        "Corre cada día.",
+        "Ella corre cada día."
+       ]
+      },
+      {
+       "id": "2-08-5",
+       "ru": "Ты часто готовишь?",
+       "target": "¿Cocinas a menudo?",
+       "alternatives": [
+        "¿Tú cocinas a menudo?",
+        "¿Cocinas con frecuencia?",
+        "¿Cocinas mucho?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-09",
+     "topic": "Мой, твой, его: mi, tu, su",
+     "sentences": [
+      {
+       "id": "2-09-1",
+       "ru": "Мой брат живёт в Мадриде.",
+       "target": "Mi hermano vive en Madrid.",
+       "alternatives": []
+      },
+      {
+       "id": "2-09-2",
+       "ru": "Твоя мама хорошо готовит.",
+       "target": "Tu madre cocina bien.",
+       "alternatives": [
+        "Tu mamá cocina bien."
+       ]
+      },
+      {
+       "id": "2-09-3",
+       "ru": "Его сестра работает в больнице.",
+       "target": "Su hermana trabaja en un hospital.",
+       "alternatives": [
+        "Su hermana trabaja en el hospital."
+       ]
+      },
+      {
+       "id": "2-09-4",
+       "ru": "Мои родители живут в деревне.",
+       "target": "Mis padres viven en un pueblo.",
+       "alternatives": [
+        "Mis padres viven en el pueblo.",
+        "Mis padres viven en el campo."
+       ]
+      },
+      {
+       "id": "2-09-5",
+       "ru": "Где твои ключи?",
+       "target": "¿Dónde están tus llaves?",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "2-10",
+     "topic": "Мне нравится: me gusta, me gustan",
+     "sentences": [
+      {
+       "id": "2-10-1",
+       "ru": "Мне нравится этот город.",
+       "target": "Me gusta esta ciudad.",
+       "alternatives": [
+        "A mí me gusta esta ciudad."
+       ]
+      },
+      {
+       "id": "2-10-2",
+       "ru": "Мне нравятся кошки.",
+       "target": "Me gustan los gatos.",
+       "alternatives": [
+        "A mí me gustan los gatos."
+       ]
+      },
+      {
+       "id": "2-10-3",
+       "ru": "Тебе нравится музыка?",
+       "target": "¿Te gusta la música?",
+       "alternatives": [
+        "¿A ti te gusta la música?"
+       ]
+      },
+      {
+       "id": "2-10-4",
+       "ru": "Мне не нравится кофе.",
+       "target": "No me gusta el café.",
+       "alternatives": [
+        "A mí no me gusta el café."
+       ]
+      },
+      {
+       "id": "2-10-5",
+       "ru": "Ему нравится читать.",
+       "target": "Le gusta leer.",
+       "alternatives": [
+        "A él le gusta leer."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 3,
+   "title": "Вопросы и планы",
+   "blocks": [
+    {
+     "id": "3-01",
+     "topic": "Что и кто: qué, quién",
+     "sentences": [
+      {
+       "id": "3-01-1",
+       "ru": "Что ты читаешь?",
+       "target": "¿Qué lees?",
+       "alternatives": [
+        "¿Qué lees tú?",
+        "¿Qué estás leyendo?"
+       ]
+      },
+      {
+       "id": "3-01-2",
+       "ru": "Что он говорит?",
+       "target": "¿Qué dice?",
+       "alternatives": [
+        "¿Qué dice él?",
+        "¿Qué está diciendo?"
+       ]
+      },
+      {
+       "id": "3-01-3",
+       "ru": "Кто этот мужчина?",
+       "target": "¿Quién es este hombre?",
+       "alternatives": [
+        "¿Quién es ese hombre?",
+        "¿Quién es este señor?",
+        "¿Quién es ese señor?"
+       ]
+      },
+      {
+       "id": "3-01-4",
+       "ru": "Кто живёт в этом доме?",
+       "target": "¿Quién vive en esta casa?",
+       "alternatives": [
+        "¿Quién vive en esa casa?"
+       ]
+      },
+      {
+       "id": "3-01-5",
+       "ru": "С кем ты живёшь?",
+       "target": "¿Con quién vives?",
+       "alternatives": [
+        "¿Con quién vives tú?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-02",
+     "topic": "Где, куда, откуда: dónde, adónde, de dónde",
+     "sentences": [
+      {
+       "id": "3-02-1",
+       "ru": "Где вокзал?",
+       "target": "¿Dónde está la estación?",
+       "alternatives": [
+        "¿Dónde queda la estación?"
+       ]
+      },
+      {
+       "id": "3-02-2",
+       "ru": "Где ты работаешь?",
+       "target": "¿Dónde trabajas?",
+       "alternatives": [
+        "¿Dónde trabajas tú?",
+        "¿En dónde trabajas?"
+       ]
+      },
+      {
+       "id": "3-02-3",
+       "ru": "Куда ты идёшь?",
+       "target": "¿Adónde vas?",
+       "alternatives": [
+        "¿A dónde vas?",
+        "¿Dónde vas?",
+        "¿Adónde vas tú?"
+       ]
+      },
+      {
+       "id": "3-02-4",
+       "ru": "Откуда ты?",
+       "target": "¿De dónde eres?",
+       "alternatives": [
+        "¿De dónde eres tú?",
+        "¿Tú de dónde eres?"
+       ]
+      },
+      {
+       "id": "3-02-5",
+       "ru": "Где мои очки?",
+       "target": "¿Dónde están mis gafas?",
+       "alternatives": [
+        "¿Dónde están mis lentes?",
+        "¿Dónde están mis anteojos?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-03",
+     "topic": "Когда и как: cuándo, cómo",
+     "sentences": [
+      {
+       "id": "3-03-1",
+       "ru": "Когда ты приезжаешь?",
+       "target": "¿Cuándo llegas?",
+       "alternatives": [
+        "¿Cuándo llegas tú?",
+        "¿Cuándo vienes?"
+       ]
+      },
+      {
+       "id": "3-03-2",
+       "ru": "Когда начинается урок?",
+       "target": "¿Cuándo empieza la clase?",
+       "alternatives": [
+        "¿Cuándo comienza la clase?"
+       ]
+      },
+      {
+       "id": "3-03-3",
+       "ru": "Во сколько открывается магазин?",
+       "target": "¿A qué hora abre la tienda?",
+       "alternatives": [
+        "¿A qué hora se abre la tienda?"
+       ]
+      },
+      {
+       "id": "3-03-4",
+       "ru": "Как дела?",
+       "target": "¿Cómo estás?",
+       "alternatives": [
+        "¿Qué tal?",
+        "¿Qué tal estás?",
+        "¿Cómo te va?"
+       ]
+      },
+      {
+       "id": "3-03-5",
+       "ru": "Как это сказать по-испански?",
+       "target": "¿Cómo se dice esto en español?",
+       "alternatives": [
+        "¿Cómo se dice eso en español?",
+        "¿Cómo se dice en español?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-04",
+     "topic": "Почему и сколько: por qué, cuánto",
+     "sentences": [
+      {
+       "id": "3-04-1",
+       "ru": "Почему ты не ешь?",
+       "target": "¿Por qué no comes?",
+       "alternatives": [
+        "¿Por qué no estás comiendo?"
+       ]
+      },
+      {
+       "id": "3-04-2",
+       "ru": "Почему она плачет?",
+       "target": "¿Por qué llora?",
+       "alternatives": [
+        "¿Por qué llora ella?",
+        "¿Por qué está llorando?"
+       ]
+      },
+      {
+       "id": "3-04-3",
+       "ru": "Сколько это стоит?",
+       "target": "¿Cuánto cuesta?",
+       "alternatives": [
+        "¿Cuánto cuesta esto?",
+        "¿Cuánto cuesta eso?",
+        "¿Cuánto vale?",
+        "¿Cuánto vale esto?",
+        "¿Cuánto es?"
+       ]
+      },
+      {
+       "id": "3-04-4",
+       "ru": "Сколько тебе лет?",
+       "target": "¿Cuántos años tienes?",
+       "alternatives": [
+        "¿Cuántos años tienes tú?",
+        "¿Qué edad tienes?"
+       ]
+      },
+      {
+       "id": "3-04-5",
+       "ru": "Сколько у тебя детей?",
+       "target": "¿Cuántos hijos tienes?",
+       "alternatives": [
+        "¿Cuántos hijos tienes tú?",
+        "¿Cuántos niños tienes?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-05",
+     "topic": "Собираюсь: ir a + инфинитив",
+     "sentences": [
+      {
+       "id": "3-05-1",
+       "ru": "Я собираюсь купить машину.",
+       "target": "Voy a comprar un coche.",
+       "alternatives": [
+        "Yo voy a comprar un coche.",
+        "Voy a comprarme un coche.",
+        "Voy a comprar un auto.",
+        "Voy a comprar un carro."
+       ]
+      },
+      {
+       "id": "3-05-2",
+       "ru": "Что ты будешь делать завтра?",
+       "target": "¿Qué vas a hacer mañana?",
+       "alternatives": [
+        "¿Mañana qué vas a hacer?",
+        "¿Qué harás mañana?"
+       ]
+      },
+      {
+       "id": "3-05-3",
+       "ru": "Она собирается учить французский.",
+       "target": "Va a estudiar francés.",
+       "alternatives": [
+        "Ella va a estudiar francés.",
+        "Va a aprender francés.",
+        "Ella va a aprender francés."
+       ]
+      },
+      {
+       "id": "3-05-4",
+       "ru": "Летом мы поедем в Испанию.",
+       "target": "En verano vamos a ir a España.",
+       "alternatives": [
+        "Vamos a ir a España en verano.",
+        "Este verano vamos a ir a España.",
+        "En verano iremos a España.",
+        "Iremos a España en verano.",
+        "En verano vamos a viajar a España."
+       ]
+      },
+      {
+       "id": "3-05-5",
+       "ru": "Сегодня будет дождь.",
+       "target": "Hoy va a llover.",
+       "alternatives": [
+        "Va a llover hoy.",
+        "Hoy lloverá.",
+        "Lloverá hoy."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-06",
+     "topic": "Должен, надо: tener que",
+     "sentences": [
+      {
+       "id": "3-06-1",
+       "ru": "Я должен работать.",
+       "target": "Tengo que trabajar.",
+       "alternatives": [
+        "Yo tengo que trabajar.",
+        "Debo trabajar.",
+        "Yo debo trabajar."
+       ]
+      },
+      {
+       "id": "3-06-2",
+       "ru": "Ты должен отдохнуть.",
+       "target": "Tienes que descansar.",
+       "alternatives": [
+        "Tú tienes que descansar.",
+        "Debes descansar.",
+        "Tú debes descansar."
+       ]
+      },
+      {
+       "id": "3-06-3",
+       "ru": "Ей надо идти к врачу.",
+       "target": "Tiene que ir al médico.",
+       "alternatives": [
+        "Ella tiene que ir al médico.",
+        "Tiene que ir al doctor.",
+        "Debe ir al médico.",
+        "Necesita ir al médico."
+       ]
+      },
+      {
+       "id": "3-06-4",
+       "ru": "Нам надо поговорить.",
+       "target": "Tenemos que hablar.",
+       "alternatives": [
+        "Nosotros tenemos que hablar.",
+        "Nosotras tenemos que hablar.",
+        "Debemos hablar.",
+        "Necesitamos hablar."
+       ]
+      },
+      {
+       "id": "3-06-5",
+       "ru": "Тебе не надо платить.",
+       "target": "No tienes que pagar.",
+       "alternatives": [
+        "Tú no tienes que pagar.",
+        "No necesitas pagar."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-07",
+     "topic": "Прямо сейчас: estar + gerundio",
+     "sentences": [
+      {
+       "id": "3-07-1",
+       "ru": "Я сейчас читаю.",
+       "target": "Estoy leyendo.",
+       "alternatives": [
+        "Ahora estoy leyendo.",
+        "Estoy leyendo ahora.",
+        "Yo estoy leyendo ahora.",
+        "Ahora leo."
+       ]
+      },
+      {
+       "id": "3-07-2",
+       "ru": "Он сейчас спит.",
+       "target": "Está durmiendo.",
+       "alternatives": [
+        "Ahora está durmiendo.",
+        "Está durmiendo ahora.",
+        "Él está durmiendo.",
+        "Él está durmiendo ahora.",
+        "Ahora duerme."
+       ]
+      },
+      {
+       "id": "3-07-3",
+       "ru": "Что ты сейчас делаешь?",
+       "target": "¿Qué estás haciendo?",
+       "alternatives": [
+        "¿Qué estás haciendo ahora?",
+        "¿Qué estás haciendo ahora mismo?",
+        "¿Qué haces ahora?",
+        "¿Qué haces ahora mismo?",
+        "¿Qué haces?"
+       ]
+      },
+      {
+       "id": "3-07-4",
+       "ru": "Мы ждём автобус.",
+       "target": "Estamos esperando el autobús.",
+       "alternatives": [
+        "Nosotros estamos esperando el autobús.",
+        "Esperamos el autobús.",
+        "Estamos esperando el bus.",
+        "Esperamos el bus."
+       ]
+      },
+      {
+       "id": "3-07-5",
+       "ru": "Сейчас идёт дождь.",
+       "target": "Está lloviendo.",
+       "alternatives": [
+        "Ahora está lloviendo.",
+        "Está lloviendo ahora.",
+        "Ahora llueve.",
+        "Llueve."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-08",
+     "topic": "Возвратные глаголы: me levanto, te acuestas",
+     "sentences": [
+      {
+       "id": "3-08-1",
+       "ru": "Я встаю в семь.",
+       "target": "Me levanto a las siete.",
+       "alternatives": [
+        "Yo me levanto a las siete."
+       ]
+      },
+      {
+       "id": "3-08-2",
+       "ru": "Ты рано ложишься?",
+       "target": "¿Te acuestas temprano?",
+       "alternatives": [
+        "¿Tú te acuestas temprano?",
+        "¿Te acuestas pronto?"
+       ]
+      },
+      {
+       "id": "3-08-3",
+       "ru": "Он принимает душ утром.",
+       "target": "Se ducha por la mañana.",
+       "alternatives": [
+        "Él se ducha por la mañana.",
+        "Por la mañana se ducha."
+       ]
+      },
+      {
+       "id": "3-08-4",
+       "ru": "Мы ложимся спать поздно.",
+       "target": "Nos acostamos tarde.",
+       "alternatives": [
+        "Nosotros nos acostamos tarde.",
+        "Nosotras nos acostamos tarde."
+       ]
+      },
+      {
+       "id": "3-08-5",
+       "ru": "Дети встают рано.",
+       "target": "Los niños se levantan temprano.",
+       "alternatives": [
+        "Los niños se levantan pronto."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-09",
+     "topic": "Возвратные с инфинитивом: ducharme, levantarse",
+     "sentences": [
+      {
+       "id": "3-09-1",
+       "ru": "Я хочу принять душ.",
+       "target": "Quiero ducharme.",
+       "alternatives": [
+        "Me quiero duchar.",
+        "Yo quiero ducharme."
+       ]
+      },
+      {
+       "id": "3-09-2",
+       "ru": "Мне надо рано встать.",
+       "target": "Tengo que levantarme temprano.",
+       "alternatives": [
+        "Me tengo que levantar temprano.",
+        "Tengo que levantarme pronto.",
+        "Me tengo que levantar pronto.",
+        "Necesito levantarme temprano."
+       ]
+      },
+      {
+       "id": "3-09-3",
+       "ru": "Я собираюсь лечь спать.",
+       "target": "Voy a acostarme.",
+       "alternatives": [
+        "Me voy a acostar.",
+        "Yo voy a acostarme."
+       ]
+      },
+      {
+       "id": "3-09-4",
+       "ru": "Ты можешь сесть здесь.",
+       "target": "Puedes sentarte aquí.",
+       "alternatives": [
+        "Te puedes sentar aquí.",
+        "Puedes sentarte acá.",
+        "Te puedes sentar acá."
+       ]
+      },
+      {
+       "id": "3-09-5",
+       "ru": "Она не хочет вставать.",
+       "target": "No quiere levantarse.",
+       "alternatives": [
+        "No se quiere levantar.",
+        "Ella no quiere levantarse.",
+        "Ella no se quiere levantar."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-10",
+     "topic": "Его и её: lo, la",
+     "sentences": [
+      {
+       "id": "3-10-1",
+       "ru": "Я его знаю.",
+       "target": "Lo conozco.",
+       "alternatives": [
+        "Yo lo conozco.",
+        "Le conozco."
+       ]
+      },
+      {
+       "id": "3-10-2",
+       "ru": "Я её не вижу.",
+       "target": "No la veo.",
+       "alternatives": [
+        "Yo no la veo."
+       ]
+      },
+      {
+       "id": "3-10-3",
+       "ru": "Ты его любишь?",
+       "target": "¿Lo quieres?",
+       "alternatives": [
+        "¿Tú lo quieres?",
+        "¿Lo amas?",
+        "¿Le quieres?"
+       ]
+      },
+      {
+       "id": "3-10-4",
+       "ru": "Мы её ждём.",
+       "target": "La esperamos.",
+       "alternatives": [
+        "Nosotros la esperamos.",
+        "La estamos esperando.",
+        "Estamos esperándola."
+       ]
+      },
+      {
+       "id": "3-10-5",
+       "ru": "Я хочу его увидеть.",
+       "target": "Quiero verlo.",
+       "alternatives": [
+        "Lo quiero ver.",
+        "Yo quiero verlo.",
+        "Quiero verle.",
+        "Le quiero ver."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 4,
+   "title": "Прошлое",
+   "blocks": [
+    {
+     "id": "4-01",
+     "topic": "Уже сделал: he comido, has visto",
+     "sentences": [
+      {
+       "id": "4-01-1",
+       "ru": "Я уже поел.",
+       "target": "Ya he comido.",
+       "alternatives": [
+        "Yo ya he comido.",
+        "Ya comí.",
+        "Yo ya comí."
+       ]
+      },
+      {
+       "id": "4-01-2",
+       "ru": "Ты видел этот фильм?",
+       "target": "¿Has visto esta película?",
+       "alternatives": [
+        "¿Tú has visto esta película?",
+        "¿Has visto esa película?",
+        "¿Viste esta película?",
+        "¿Viste esa película?"
+       ]
+      },
+      {
+       "id": "4-01-3",
+       "ru": "Она ещё не пришла.",
+       "target": "Todavía no ha llegado.",
+       "alternatives": [
+        "Ella todavía no ha llegado.",
+        "No ha llegado todavía.",
+        "Aún no ha llegado.",
+        "No ha llegado aún.",
+        "Todavía no ha venido.",
+        "Aún no ha venido.",
+        "Todavía no llegó.",
+        "Aún no llegó."
+       ]
+      },
+      {
+       "id": "4-01-4",
+       "ru": "Мы никогда не были в Мексике.",
+       "target": "Nunca hemos estado en México.",
+       "alternatives": [
+        "Nosotros nunca hemos estado en México.",
+        "No hemos estado nunca en México.",
+        "Nunca hemos ido a México.",
+        "Nunca estuvimos en México."
+       ]
+      },
+      {
+       "id": "4-01-5",
+       "ru": "Сегодня я много работал.",
+       "target": "Hoy he trabajado mucho.",
+       "alternatives": [
+        "He trabajado mucho hoy.",
+        "Hoy trabajé mucho.",
+        "Trabajé mucho hoy."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-02",
+     "topic": "Причастия не по правилу: hecho, escrito, abierto",
+     "sentences": [
+      {
+       "id": "4-02-1",
+       "ru": "Что ты сделал?",
+       "target": "¿Qué has hecho?",
+       "alternatives": [
+        "¿Tú qué has hecho?",
+        "¿Qué hiciste?"
+       ]
+      },
+      {
+       "id": "4-02-2",
+       "ru": "Я написал письмо.",
+       "target": "He escrito una carta.",
+       "alternatives": [
+        "Yo he escrito una carta.",
+        "Escribí una carta.",
+        "Yo escribí una carta."
+       ]
+      },
+      {
+       "id": "4-02-3",
+       "ru": "Он открыл дверь.",
+       "target": "Ha abierto la puerta.",
+       "alternatives": [
+        "Él ha abierto la puerta.",
+        "Abrió la puerta.",
+        "Él abrió la puerta."
+       ]
+      },
+      {
+       "id": "4-02-4",
+       "ru": "Мы вернулись домой.",
+       "target": "Hemos vuelto a casa.",
+       "alternatives": [
+        "Volvimos a casa.",
+        "Hemos regresado a casa.",
+        "Regresamos a casa."
+       ]
+      },
+      {
+       "id": "4-02-5",
+       "ru": "Кто это сказал?",
+       "target": "¿Quién ha dicho eso?",
+       "alternatives": [
+        "¿Quién ha dicho esto?",
+        "¿Quién lo ha dicho?",
+        "¿Quién dijo eso?",
+        "¿Quién dijo esto?",
+        "¿Quién lo dijo?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-03",
+     "topic": "Прошедшее на -ar: trabajé, compraste, llamó",
+     "sentences": [
+      {
+       "id": "4-03-1",
+       "ru": "Вчера я работал до восьми.",
+       "target": "Ayer trabajé hasta las ocho.",
+       "alternatives": [
+        "Ayer yo trabajé hasta las ocho.",
+        "Trabajé hasta las ocho ayer."
+       ]
+      },
+      {
+       "id": "4-03-2",
+       "ru": "Ты купил хлеб?",
+       "target": "¿Compraste pan?",
+       "alternatives": [
+        "¿Tú compraste pan?",
+        "¿Compraste el pan?",
+        "¿Has comprado pan?",
+        "¿Has comprado el pan?"
+       ]
+      },
+      {
+       "id": "4-03-3",
+       "ru": "Она позвонила мне вчера.",
+       "target": "Me llamó ayer.",
+       "alternatives": [
+        "Ayer me llamó.",
+        "Ella me llamó ayer.",
+        "Ayer ella me llamó."
+       ]
+      },
+      {
+       "id": "4-03-4",
+       "ru": "Мы поужинали в ресторане.",
+       "target": "Cenamos en un restaurante.",
+       "alternatives": [
+        "Cenamos en el restaurante.",
+        "Hemos cenado en un restaurante.",
+        "Hemos cenado en el restaurante."
+       ]
+      },
+      {
+       "id": "4-03-5",
+       "ru": "Они приехали в понедельник.",
+       "target": "Llegaron el lunes.",
+       "alternatives": [
+        "Ellos llegaron el lunes.",
+        "Ellas llegaron el lunes.",
+        "Vinieron el lunes."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-04",
+     "topic": "Прошедшее на -er и -ir: comí, vivió, vendieron",
+     "sentences": [
+      {
+       "id": "4-04-1",
+       "ru": "Вчера я ел рыбу.",
+       "target": "Ayer comí pescado.",
+       "alternatives": [
+        "Ayer yo comí pescado.",
+        "Comí pescado ayer."
+       ]
+      },
+      {
+       "id": "4-04-2",
+       "ru": "Ты понял вопрос?",
+       "target": "¿Entendiste la pregunta?",
+       "alternatives": [
+        "¿Has entendido la pregunta?",
+        "¿Comprendiste la pregunta?",
+        "¿Has comprendido la pregunta?"
+       ]
+      },
+      {
+       "id": "4-04-3",
+       "ru": "Он жил в Париже два года.",
+       "target": "Vivió en París dos años.",
+       "alternatives": [
+        "Vivió dos años en París.",
+        "Él vivió en París dos años.",
+        "Él vivió dos años en París.",
+        "Vivió en París durante dos años.",
+        "Vivió en París por dos años."
+       ]
+      },
+      {
+       "id": "4-04-4",
+       "ru": "Мы выпили бутылку вина.",
+       "target": "Bebimos una botella de vino.",
+       "alternatives": [
+        "Nos bebimos una botella de vino.",
+        "Hemos bebido una botella de vino.",
+        "Tomamos una botella de vino.",
+        "Nos tomamos una botella de vino."
+       ]
+      },
+      {
+       "id": "4-04-5",
+       "ru": "Они продали дом в прошлом году.",
+       "target": "Vendieron la casa el año pasado.",
+       "alternatives": [
+        "El año pasado vendieron la casa.",
+        "Ellos vendieron la casa el año pasado.",
+        "Vendieron su casa el año pasado."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-05",
+     "topic": "Был и ходил: fui, fuiste, fue",
+     "sentences": [
+      {
+       "id": "4-05-1",
+       "ru": "Вчера я ходил в кино.",
+       "target": "Ayer fui al cine.",
+       "alternatives": [
+        "Ayer yo fui al cine.",
+        "Fui al cine ayer."
+       ]
+      },
+      {
+       "id": "4-05-2",
+       "ru": "Куда ты ходил в субботу?",
+       "target": "¿Adónde fuiste el sábado?",
+       "alternatives": [
+        "¿A dónde fuiste el sábado?",
+        "¿Dónde fuiste el sábado?"
+       ]
+      },
+      {
+       "id": "4-05-3",
+       "ru": "Фильм был очень хороший.",
+       "target": "La película fue muy buena.",
+       "alternatives": [
+        "La película estuvo muy buena.",
+        "La película era muy buena."
+       ]
+      },
+      {
+       "id": "4-05-4",
+       "ru": "Мы ездили в Италию в прошлом году.",
+       "target": "Fuimos a Italia el año pasado.",
+       "alternatives": [
+        "El año pasado fuimos a Italia.",
+        "Viajamos a Italia el año pasado.",
+        "El año pasado viajamos a Italia."
+       ]
+      },
+      {
+       "id": "4-05-5",
+       "ru": "Это была хорошая идея.",
+       "target": "Fue una buena idea.",
+       "alternatives": [
+        "Esa fue una buena idea.",
+        "Era una buena idea."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-06",
+     "topic": "Находился и имел: estuve, tuve",
+     "sentences": [
+      {
+       "id": "4-06-1",
+       "ru": "Вчера я был дома.",
+       "target": "Ayer estuve en casa.",
+       "alternatives": [
+        "Ayer yo estuve en casa.",
+        "Estuve en casa ayer.",
+        "Ayer estaba en casa."
+       ]
+      },
+      {
+       "id": "4-06-2",
+       "ru": "Где ты был вчера?",
+       "target": "¿Dónde estuviste ayer?",
+       "alternatives": [
+        "¿Ayer dónde estuviste?",
+        "¿Dónde estabas ayer?"
+       ]
+      },
+      {
+       "id": "4-06-3",
+       "ru": "Она была в Мадриде на прошлой неделе.",
+       "target": "Estuvo en Madrid la semana pasada.",
+       "alternatives": [
+        "La semana pasada estuvo en Madrid.",
+        "Ella estuvo en Madrid la semana pasada.",
+        "La semana pasada ella estuvo en Madrid."
+       ]
+      },
+      {
+       "id": "4-06-4",
+       "ru": "У меня не было времени.",
+       "target": "No tuve tiempo.",
+       "alternatives": [
+        "Yo no tuve tiempo.",
+        "No tenía tiempo.",
+        "No he tenido tiempo."
+       ]
+      },
+      {
+       "id": "4-06-5",
+       "ru": "У нас была проблема.",
+       "target": "Tuvimos un problema.",
+       "alternatives": [
+        "Teníamos un problema.",
+        "Hemos tenido un problema."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-07",
+     "topic": "Делал: hice, hiciste, hizo",
+     "sentences": [
+      {
+       "id": "4-07-1",
+       "ru": "Что ты делал вчера?",
+       "target": "¿Qué hiciste ayer?",
+       "alternatives": [
+        "¿Ayer qué hiciste?",
+        "¿Qué hiciste tú ayer?"
+       ]
+      },
+      {
+       "id": "4-07-2",
+       "ru": "Я сделал домашнее задание.",
+       "target": "Hice los deberes.",
+       "alternatives": [
+        "Yo hice los deberes.",
+        "He hecho los deberes.",
+        "Hice la tarea.",
+        "He hecho la tarea."
+       ]
+      },
+      {
+       "id": "4-07-3",
+       "ru": "Она приготовила ужин.",
+       "target": "Hizo la cena.",
+       "alternatives": [
+        "Ella hizo la cena.",
+        "Ha hecho la cena.",
+        "Preparó la cena.",
+        "Ella preparó la cena.",
+        "Ha preparado la cena.",
+        "Cocinó la cena."
+       ]
+      },
+      {
+       "id": "4-07-4",
+       "ru": "Вчера было холодно.",
+       "target": "Ayer hizo frío.",
+       "alternatives": [
+        "Hizo frío ayer.",
+        "Ayer hacía frío."
+       ]
+      },
+      {
+       "id": "4-07-5",
+       "ru": "Мы ничего не сделали.",
+       "target": "No hicimos nada.",
+       "alternatives": [
+        "Nosotros no hicimos nada.",
+        "No hemos hecho nada."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-08",
+     "topic": "Когда это было: anoche, la semana pasada",
+     "sentences": [
+      {
+       "id": "4-08-1",
+       "ru": "Вчера вечером я смотрел фильм.",
+       "target": "Anoche vi una película.",
+       "alternatives": [
+        "Vi una película anoche.",
+        "Ayer por la noche vi una película.",
+        "Ayer por la tarde vi una película.",
+        "Anoche vi una peli."
+       ]
+      },
+      {
+       "id": "4-08-2",
+       "ru": "Сегодня утром я встал поздно.",
+       "target": "Esta mañana me he levantado tarde.",
+       "alternatives": [
+        "Me he levantado tarde esta mañana.",
+        "Esta mañana me levanté tarde.",
+        "Me levanté tarde esta mañana.",
+        "Hoy por la mañana me levanté tarde."
+       ]
+      },
+      {
+       "id": "4-08-3",
+       "ru": "На прошлой неделе мы не работали.",
+       "target": "La semana pasada no trabajamos.",
+       "alternatives": [
+        "No trabajamos la semana pasada."
+       ]
+      },
+      {
+       "id": "4-08-4",
+       "ru": "В прошлом месяце он купил машину.",
+       "target": "El mes pasado compró un coche.",
+       "alternatives": [
+        "Compró un coche el mes pasado.",
+        "Él compró un coche el mes pasado.",
+        "El mes pasado se compró un coche.",
+        "El mes pasado compró un auto.",
+        "El mes pasado compró un carro."
+       ]
+      },
+      {
+       "id": "4-08-5",
+       "ru": "Позавчера она уехала в Барселону.",
+       "target": "Anteayer se fue a Barcelona.",
+       "alternatives": [
+        "Se fue a Barcelona anteayer.",
+        "Antes de ayer se fue a Barcelona.",
+        "Anteayer fue a Barcelona.",
+        "Anteayer salió para Barcelona."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-09",
+     "topic": "Назад: hace + время",
+     "sentences": [
+      {
+       "id": "4-09-1",
+       "ru": "Я приехал два дня назад.",
+       "target": "Llegué hace dos días.",
+       "alternatives": [
+        "Yo llegué hace dos días.",
+        "Hace dos días llegué.",
+        "Hace dos días que llegué.",
+        "Vine hace dos días."
+       ]
+      },
+      {
+       "id": "4-09-2",
+       "ru": "Он позвонил час назад.",
+       "target": "Llamó hace una hora.",
+       "alternatives": [
+        "Él llamó hace una hora.",
+        "Hace una hora llamó.",
+        "Ha llamado hace una hora."
+       ]
+      },
+      {
+       "id": "4-09-3",
+       "ru": "Мы познакомились год назад.",
+       "target": "Nos conocimos hace un año.",
+       "alternatives": [
+        "Hace un año nos conocimos.",
+        "Hace un año que nos conocimos."
+       ]
+      },
+      {
+       "id": "4-09-4",
+       "ru": "Она ушла пять минут назад.",
+       "target": "Se fue hace cinco minutos.",
+       "alternatives": [
+        "Ella se fue hace cinco minutos.",
+        "Hace cinco minutos se fue.",
+        "Se ha ido hace cinco minutos.",
+        "Salió hace cinco minutos."
+       ]
+      },
+      {
+       "id": "4-09-5",
+       "ru": "Я видел его неделю назад.",
+       "target": "Lo vi hace una semana.",
+       "alternatives": [
+        "Yo lo vi hace una semana.",
+        "Hace una semana lo vi.",
+        "Le vi hace una semana.",
+        "Hace una semana le vi."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-10",
+     "topic": "Не и вопрос в прошлом",
+     "sentences": [
+      {
+       "id": "4-10-1",
+       "ru": "Я не спал этой ночью.",
+       "target": "No he dormido esta noche.",
+       "alternatives": [
+        "Esta noche no he dormido.",
+        "No dormí esta noche.",
+        "Esta noche no dormí.",
+        "Anoche no dormí."
+       ]
+      },
+      {
+       "id": "4-10-2",
+       "ru": "Она мне ничего не сказала.",
+       "target": "No me dijo nada.",
+       "alternatives": [
+        "Ella no me dijo nada.",
+        "No me ha dicho nada.",
+        "Ella no me ha dicho nada."
+       ]
+      },
+      {
+       "id": "4-10-3",
+       "ru": "Почему ты не пришёл?",
+       "target": "¿Por qué no viniste?",
+       "alternatives": [
+        "¿Por qué no has venido?"
+       ]
+      },
+      {
+       "id": "4-10-4",
+       "ru": "Они уже ушли?",
+       "target": "¿Ya se han ido?",
+       "alternatives": [
+        "¿Se han ido ya?",
+        "¿Ya se fueron?",
+        "¿Se fueron ya?"
+       ]
+      },
+      {
+       "id": "4-10-5",
+       "ru": "Во сколько ты вчера лёг спать?",
+       "target": "¿A qué hora te acostaste ayer?",
+       "alternatives": [
+        "¿Ayer a qué hora te acostaste?",
+        "¿A qué hora te acostaste anoche?"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 5,
+   "title": "Сложнее",
+   "blocks": [
+    {
+     "id": "5-01",
+     "topic": "Раньше, обычно: jugaba, vivía, íbamos",
+     "sentences": [
+      {
+       "id": "5-01-1",
+       "ru": "В детстве я играл в футбол.",
+       "target": "De niño jugaba al fútbol.",
+       "alternatives": [
+        "De niño yo jugaba al fútbol.",
+        "De pequeño jugaba al fútbol.",
+        "Cuando era niño jugaba al fútbol.",
+        "Cuando era pequeño jugaba al fútbol.",
+        "En mi infancia jugaba al fútbol.",
+        "De niño jugaba fútbol."
+       ]
+      },
+      {
+       "id": "5-01-2",
+       "ru": "Раньше она жила в Мадриде.",
+       "target": "Antes vivía en Madrid.",
+       "alternatives": [
+        "Antes ella vivía en Madrid.",
+        "Ella antes vivía en Madrid.",
+        "Vivía antes en Madrid."
+       ]
+      },
+      {
+       "id": "5-01-3",
+       "ru": "Каждое лето мы ездили на море.",
+       "target": "Cada verano íbamos al mar.",
+       "alternatives": [
+        "Todos los veranos íbamos al mar.",
+        "Íbamos al mar cada verano.",
+        "Íbamos al mar todos los veranos.",
+        "Cada verano íbamos a la playa.",
+        "Todos los veranos íbamos a la playa."
+       ]
+      },
+      {
+       "id": "5-01-4",
+       "ru": "Мой дедушка много читал.",
+       "target": "Mi abuelo leía mucho.",
+       "alternatives": []
+      },
+      {
+       "id": "5-01-5",
+       "ru": "Раньше я не пил кофе.",
+       "target": "Antes no bebía café.",
+       "alternatives": [
+        "Antes no tomaba café.",
+        "Antes yo no bebía café.",
+        "Antes yo no tomaba café.",
+        "Yo antes no bebía café.",
+        "Yo antes no tomaba café."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-02",
+     "topic": "Каким это было: era, tenía, había",
+     "sentences": [
+      {
+       "id": "5-02-1",
+       "ru": "Дом был большой и старый.",
+       "target": "La casa era grande y vieja.",
+       "alternatives": [
+        "La casa era grande y antigua."
+       ]
+      },
+      {
+       "id": "5-02-2",
+       "ru": "Было очень холодно.",
+       "target": "Hacía mucho frío.",
+       "alternatives": [
+        "Hizo mucho frío."
+       ]
+      },
+      {
+       "id": "5-02-3",
+       "ru": "Ей было десять лет.",
+       "target": "Tenía diez años.",
+       "alternatives": [
+        "Ella tenía diez años."
+       ]
+      },
+      {
+       "id": "5-02-4",
+       "ru": "Мы были очень уставшие.",
+       "target": "Estábamos muy cansados.",
+       "alternatives": [
+        "Estábamos muy cansadas.",
+        "Nosotros estábamos muy cansados.",
+        "Nosotras estábamos muy cansadas."
+       ]
+      },
+      {
+       "id": "5-02-5",
+       "ru": "На улице никого не было.",
+       "target": "No había nadie en la calle.",
+       "alternatives": [
+        "En la calle no había nadie.",
+        "No había nadie fuera.",
+        "Fuera no había nadie.",
+        "No había nadie afuera.",
+        "Afuera no había nadie."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-03",
+     "topic": "Сравнение: más ... que",
+     "sentences": [
+      {
+       "id": "5-03-1",
+       "ru": "Мой брат выше меня.",
+       "target": "Mi hermano es más alto que yo.",
+       "alternatives": []
+      },
+      {
+       "id": "5-03-2",
+       "ru": "Этот дом дороже того.",
+       "target": "Esta casa es más cara que esa.",
+       "alternatives": [
+        "Esta casa es más cara que aquella."
+       ]
+      },
+      {
+       "id": "5-03-3",
+       "ru": "Мадрид больше Барселоны.",
+       "target": "Madrid es más grande que Barcelona.",
+       "alternatives": [
+        "Madrid es mayor que Barcelona."
+       ]
+      },
+      {
+       "id": "5-03-4",
+       "ru": "Испанский легче немецкого.",
+       "target": "El español es más fácil que el alemán.",
+       "alternatives": []
+      },
+      {
+       "id": "5-03-5",
+       "ru": "Она работает больше, чем я.",
+       "target": "Trabaja más que yo.",
+       "alternatives": [
+        "Ella trabaja más que yo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-04",
+     "topic": "Лучше и хуже: mejor, peor, mayor",
+     "sentences": [
+      {
+       "id": "5-04-1",
+       "ru": "Этот ресторан лучше.",
+       "target": "Este restaurante es mejor.",
+       "alternatives": [
+        "Este restaurante está mejor."
+       ]
+      },
+      {
+       "id": "5-04-2",
+       "ru": "Ты готовишь лучше меня.",
+       "target": "Cocinas mejor que yo.",
+       "alternatives": [
+        "Tú cocinas mejor que yo."
+       ]
+      },
+      {
+       "id": "5-04-3",
+       "ru": "Сегодня погода хуже, чем вчера.",
+       "target": "Hoy hace peor tiempo que ayer.",
+       "alternatives": [
+        "Hoy el tiempo es peor que ayer.",
+        "Hoy el tiempo está peor que ayer.",
+        "El tiempo hoy es peor que ayer.",
+        "Hoy el clima está peor que ayer."
+       ]
+      },
+      {
+       "id": "5-04-4",
+       "ru": "Это лучший фильм года.",
+       "target": "Es la mejor película del año.",
+       "alternatives": [
+        "Esta es la mejor película del año."
+       ]
+      },
+      {
+       "id": "5-04-5",
+       "ru": "Мой старший брат живёт в Севилье.",
+       "target": "Mi hermano mayor vive en Sevilla.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "5-05",
+     "topic": "Мне, тебе, ему: me, te, le",
+     "sentences": [
+      {
+       "id": "5-05-1",
+       "ru": "Он дал мне книгу.",
+       "target": "Me dio un libro.",
+       "alternatives": [
+        "Él me dio un libro.",
+        "Me ha dado un libro.",
+        "Me dio el libro.",
+        "Él me dio el libro.",
+        "Me ha dado el libro."
+       ]
+      },
+      {
+       "id": "5-05-2",
+       "ru": "Я тебе напишу завтра.",
+       "target": "Te escribo mañana.",
+       "alternatives": [
+        "Mañana te escribo.",
+        "Te escribiré mañana.",
+        "Mañana te escribiré.",
+        "Te voy a escribir mañana.",
+        "Mañana te voy a escribir.",
+        "Voy a escribirte mañana."
+       ]
+      },
+      {
+       "id": "5-05-3",
+       "ru": "Я купил ей цветы.",
+       "target": "Le compré flores.",
+       "alternatives": [
+        "Yo le compré flores.",
+        "Le he comprado flores.",
+        "Le compré unas flores.",
+        "Le he comprado unas flores."
+       ]
+      },
+      {
+       "id": "5-05-4",
+       "ru": "Что ты ему сказал?",
+       "target": "¿Qué le dijiste?",
+       "alternatives": [
+        "¿Tú qué le dijiste?",
+        "¿Qué le has dicho?"
+       ]
+      },
+      {
+       "id": "5-05-5",
+       "ru": "Можешь дать мне воды?",
+       "target": "¿Puedes darme agua?",
+       "alternatives": [
+        "¿Me puedes dar agua?",
+        "¿Puedes darme un poco de agua?",
+        "¿Me puedes dar un poco de agua?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-06",
+     "topic": "Просьба на «ты»: habla, abre, espera",
+     "sentences": [
+      {
+       "id": "5-06-1",
+       "ru": "Говори медленнее, пожалуйста.",
+       "target": "Habla más despacio, por favor.",
+       "alternatives": [
+        "Por favor, habla más despacio.",
+        "Habla más lento, por favor.",
+        "Por favor, habla más lento."
+       ]
+      },
+      {
+       "id": "5-06-2",
+       "ru": "Открой окно.",
+       "target": "Abre la ventana.",
+       "alternatives": []
+      },
+      {
+       "id": "5-06-3",
+       "ru": "Подожди минуту.",
+       "target": "Espera un minuto.",
+       "alternatives": [
+        "Espera un momento."
+       ]
+      },
+      {
+       "id": "5-06-4",
+       "ru": "Иди сюда!",
+       "target": "¡Ven aquí!",
+       "alternatives": [
+        "¡Ven acá!",
+        "¡Ven!"
+       ]
+      },
+      {
+       "id": "5-06-5",
+       "ru": "Скажи мне правду.",
+       "target": "Dime la verdad.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "5-07",
+     "topic": "Императив с местоимением: hazlo, dame, siéntate",
+     "sentences": [
+      {
+       "id": "5-07-1",
+       "ru": "Сделай это сейчас.",
+       "target": "Hazlo ahora.",
+       "alternatives": [
+        "Hazlo ya.",
+        "Haz esto ahora.",
+        "Haz eso ahora."
+       ]
+      },
+      {
+       "id": "5-07-2",
+       "ru": "Дай мне ключи.",
+       "target": "Dame las llaves.",
+       "alternatives": []
+      },
+      {
+       "id": "5-07-3",
+       "ru": "Садись здесь.",
+       "target": "Siéntate aquí.",
+       "alternatives": [
+        "Siéntate acá."
+       ]
+      },
+      {
+       "id": "5-07-4",
+       "ru": "Позвони мне вечером.",
+       "target": "Llámame por la tarde.",
+       "alternatives": [
+        "Llámame por la noche.",
+        "Llámame esta tarde.",
+        "Llámame esta noche."
+       ]
+      },
+      {
+       "id": "5-07-5",
+       "ru": "Положи книгу на стол.",
+       "target": "Pon el libro en la mesa.",
+       "alternatives": [
+        "Pon el libro sobre la mesa.",
+        "Pon el libro encima de la mesa."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-08",
+     "topic": "Думаю, что: creo que, sé que, dice que",
+     "sentences": [
+      {
+       "id": "5-08-1",
+       "ru": "Я думаю, что он прав.",
+       "target": "Creo que tiene razón.",
+       "alternatives": [
+        "Creo que él tiene razón.",
+        "Yo creo que tiene razón.",
+        "Yo creo que él tiene razón.",
+        "Pienso que tiene razón.",
+        "Pienso que él tiene razón."
+       ]
+      },
+      {
+       "id": "5-08-2",
+       "ru": "Я думаю, что это дорого.",
+       "target": "Creo que es caro.",
+       "alternatives": [
+        "Yo creo que es caro.",
+        "Creo que esto es caro.",
+        "Creo que eso es caro.",
+        "Pienso que es caro.",
+        "Me parece que es caro."
+       ]
+      },
+      {
+       "id": "5-08-3",
+       "ru": "Она говорит, что устала.",
+       "target": "Dice que está cansada.",
+       "alternatives": [
+        "Ella dice que está cansada."
+       ]
+      },
+      {
+       "id": "5-08-4",
+       "ru": "Я знаю, что ты занят.",
+       "target": "Sé que estás ocupado.",
+       "alternatives": [
+        "Yo sé que estás ocupado.",
+        "Sé que tú estás ocupado."
+       ]
+      },
+      {
+       "id": "5-08-5",
+       "ru": "Мне кажется, что будет дождь.",
+       "target": "Me parece que va a llover.",
+       "alternatives": [
+        "Me parece que lloverá.",
+        "Creo que va a llover.",
+        "Parece que va a llover."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-09",
+     "topic": "Потому что и когда: porque, cuando",
+     "sentences": [
+      {
+       "id": "5-09-1",
+       "ru": "Я не иду, потому что я устал.",
+       "target": "No voy porque estoy cansado.",
+       "alternatives": [
+        "Yo no voy porque estoy cansado."
+       ]
+      },
+      {
+       "id": "5-09-2",
+       "ru": "Она учит испанский, потому что хочет жить в Испании.",
+       "target": "Estudia español porque quiere vivir en España.",
+       "alternatives": [
+        "Ella estudia español porque quiere vivir en España.",
+        "Aprende español porque quiere vivir en España.",
+        "Ella aprende español porque quiere vivir en España."
+       ]
+      },
+      {
+       "id": "5-09-3",
+       "ru": "Я не купил это, потому что было дорого.",
+       "target": "No lo compré porque era caro.",
+       "alternatives": [
+        "No lo compré porque estaba caro.",
+        "No lo he comprado porque era caro."
+       ]
+      },
+      {
+       "id": "5-09-4",
+       "ru": "Когда я ем, я не разговариваю.",
+       "target": "Cuando como, no hablo.",
+       "alternatives": [
+        "Cuando yo como, no hablo.",
+        "No hablo cuando como."
+       ]
+      },
+      {
+       "id": "5-09-5",
+       "ru": "Когда я был маленьким, я жил в деревне.",
+       "target": "Cuando era pequeño, vivía en un pueblo.",
+       "alternatives": [
+        "Cuando era niño, vivía en un pueblo.",
+        "Cuando yo era pequeño, vivía en un pueblo.",
+        "Cuando yo era niño, vivía en un pueblo.",
+        "Cuando era pequeño, vivía en el campo.",
+        "Cuando era niño, vivía en el campo.",
+        "De pequeño vivía en un pueblo.",
+        "De niño vivía en un pueblo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "5-10",
+     "topic": "Будущее и вежливость: hablaré, me gustaría",
+     "sentences": [
+      {
+       "id": "5-10-1",
+       "ru": "Завтра я поговорю с ним.",
+       "target": "Mañana hablaré con él.",
+       "alternatives": [
+        "Hablaré con él mañana.",
+        "Mañana voy a hablar con él.",
+        "Voy a hablar con él mañana.",
+        "Mañana hablo con él."
+       ]
+      },
+      {
+       "id": "5-10-2",
+       "ru": "Мы приедем в субботу.",
+       "target": "Llegaremos el sábado.",
+       "alternatives": [
+        "Nosotros llegaremos el sábado.",
+        "El sábado llegaremos.",
+        "Vendremos el sábado.",
+        "Vamos a llegar el sábado.",
+        "Vamos a venir el sábado.",
+        "Llegamos el sábado."
+       ]
+      },
+      {
+       "id": "5-10-3",
+       "ru": "Я хотел бы кофе с молоком.",
+       "target": "Me gustaría un café con leche.",
+       "alternatives": [
+        "Quisiera un café con leche.",
+        "Querría un café con leche.",
+        "Quería un café con leche."
+       ]
+      },
+      {
+       "id": "5-10-4",
+       "ru": "Мне хотелось бы жить у моря.",
+       "target": "Me gustaría vivir cerca del mar.",
+       "alternatives": [
+        "Me gustaría vivir junto al mar.",
+        "Me gustaría vivir al lado del mar.",
+        "Quisiera vivir cerca del mar."
+       ]
+      },
+      {
+       "id": "5-10-5",
+       "ru": "Не мог бы ты мне помочь?",
+       "target": "¿Podrías ayudarme?",
+       "alternatives": [
+        "¿Me podrías ayudar?",
+        "¿Puedes ayudarme?",
+        "¿Me puedes ayudar?"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
