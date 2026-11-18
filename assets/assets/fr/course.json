@@ -1,0 +1,2041 @@
+{
+ "version": 1,
+ "levels": [
+  {
+   "level": 1,
+   "title": "Самое начало",
+   "blocks": [
+    {
+     "id": "1-01",
+     "topic": "Быть: je suis, tu es, il est",
+     "sentences": [
+      {
+       "id": "1-01-1",
+       "ru": "Я студент.",
+       "target": "Je suis étudiant.",
+       "alternatives": []
+      },
+      {
+       "id": "1-01-2",
+       "ru": "Ты мой друг.",
+       "target": "Tu es mon ami.",
+       "alternatives": []
+      },
+      {
+       "id": "1-01-3",
+       "ru": "Он врач.",
+       "target": "Il est médecin.",
+       "alternatives": [
+        "Il est docteur."
+       ]
+      },
+      {
+       "id": "1-01-4",
+       "ru": "Она учительница.",
+       "target": "Elle est professeure.",
+       "alternatives": [
+        "Elle est professeur.",
+        "Elle est prof.",
+        "Elle est enseignante.",
+        "Elle est institutrice."
+       ]
+      },
+      {
+       "id": "1-01-5",
+       "ru": "Мы русские.",
+       "target": "Nous sommes russes.",
+       "alternatives": [
+        "On est russes."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-02",
+     "topic": "Это мой, моя, мои: c'est mon, ma, ce sont mes",
+     "sentences": [
+      {
+       "id": "1-02-1",
+       "ru": "Это мой брат.",
+       "target": "C'est mon frère.",
+       "alternatives": [
+        "Voici mon frère."
+       ]
+      },
+      {
+       "id": "1-02-2",
+       "ru": "Это моя сестра.",
+       "target": "C'est ma sœur.",
+       "alternatives": [
+        "Voici ma sœur."
+       ]
+      },
+      {
+       "id": "1-02-3",
+       "ru": "Это моя подруга.",
+       "target": "C'est mon amie.",
+       "alternatives": [
+        "Voici mon amie.",
+        "C'est ma copine."
+       ]
+      },
+      {
+       "id": "1-02-4",
+       "ru": "Это мой дом.",
+       "target": "C'est ma maison.",
+       "alternatives": [
+        "C'est chez moi."
+       ]
+      },
+      {
+       "id": "1-02-5",
+       "ru": "Это мои родители.",
+       "target": "Ce sont mes parents.",
+       "alternatives": [
+        "Voici mes parents.",
+        "C'est mes parents."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-03",
+     "topic": "Артикли: un, une, le, la, l'",
+     "sentences": [
+      {
+       "id": "1-03-1",
+       "ru": "У меня есть собака.",
+       "target": "J'ai un chien.",
+       "alternatives": [
+        "J'ai une chienne."
+       ]
+      },
+      {
+       "id": "1-03-2",
+       "ru": "Собака в саду.",
+       "target": "Le chien est dans le jardin.",
+       "alternatives": [
+        "Le chien est au jardin.",
+        "La chienne est dans le jardin."
+       ]
+      },
+      {
+       "id": "1-03-3",
+       "ru": "Это стол.",
+       "target": "C'est une table.",
+       "alternatives": []
+      },
+      {
+       "id": "1-03-4",
+       "ru": "Стол большой.",
+       "target": "La table est grande.",
+       "alternatives": []
+      },
+      {
+       "id": "1-03-5",
+       "ru": "Вода холодная.",
+       "target": "L'eau est froide.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "1-04",
+     "topic": "Отрицание: ne... pas",
+     "sentences": [
+      {
+       "id": "1-04-1",
+       "ru": "Я не врач.",
+       "target": "Je ne suis pas médecin.",
+       "alternatives": [
+        "Je ne suis pas docteur."
+       ]
+      },
+      {
+       "id": "1-04-2",
+       "ru": "Он не дома.",
+       "target": "Il n'est pas à la maison.",
+       "alternatives": [
+        "Il n'est pas chez lui."
+       ]
+      },
+      {
+       "id": "1-04-3",
+       "ru": "Она не француженка.",
+       "target": "Elle n'est pas française.",
+       "alternatives": []
+      },
+      {
+       "id": "1-04-4",
+       "ru": "Мы не в Париже.",
+       "target": "Nous ne sommes pas à Paris.",
+       "alternatives": [
+        "On n'est pas à Paris."
+       ]
+      },
+      {
+       "id": "1-04-5",
+       "ru": "Это не мой телефон.",
+       "target": "Ce n'est pas mon téléphone.",
+       "alternatives": [
+        "Ce n'est pas mon portable."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-05",
+     "topic": "Вопрос: да или нет",
+     "sentences": [
+      {
+       "id": "1-05-1",
+       "ru": "Ты готов?",
+       "target": "Tu es prêt ?",
+       "alternatives": [
+        "Est-ce que tu es prêt ?",
+        "Es-tu prêt ?"
+       ]
+      },
+      {
+       "id": "1-05-2",
+       "ru": "Ты студент?",
+       "target": "Tu es étudiant ?",
+       "alternatives": [
+        "Est-ce que tu es étudiant ?",
+        "Es-tu étudiant ?"
+       ]
+      },
+      {
+       "id": "1-05-3",
+       "ru": "Он дома?",
+       "target": "Il est à la maison ?",
+       "alternatives": [
+        "Est-ce qu'il est à la maison ?",
+        "Est-il à la maison ?",
+        "Il est chez lui ?",
+        "Est-ce qu'il est chez lui ?",
+        "Est-il chez lui ?"
+       ]
+      },
+      {
+       "id": "1-05-4",
+       "ru": "Вы француз?",
+       "target": "Vous êtes français ?",
+       "alternatives": [
+        "Est-ce que vous êtes français ?",
+        "Êtes-vous français ?"
+       ]
+      },
+      {
+       "id": "1-05-5",
+       "ru": "Это твоя машина?",
+       "target": "C'est ta voiture ?",
+       "alternatives": [
+        "Est-ce que c'est ta voiture ?",
+        "Est-ce ta voiture ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-06",
+     "topic": "Иметь и возраст: j'ai, tu as",
+     "sentences": [
+      {
+       "id": "1-06-1",
+       "ru": "У меня есть брат.",
+       "target": "J'ai un frère.",
+       "alternatives": []
+      },
+      {
+       "id": "1-06-2",
+       "ru": "У тебя есть время?",
+       "target": "Tu as le temps ?",
+       "alternatives": [
+        "Est-ce que tu as le temps ?",
+        "As-tu le temps ?",
+        "Tu as du temps ?",
+        "Est-ce que tu as du temps ?",
+        "As-tu du temps ?"
+       ]
+      },
+      {
+       "id": "1-06-3",
+       "ru": "У нас нет машины.",
+       "target": "Nous n'avons pas de voiture.",
+       "alternatives": [
+        "On n'a pas de voiture."
+       ]
+      },
+      {
+       "id": "1-06-4",
+       "ru": "Мне двадцать лет.",
+       "target": "J'ai vingt ans.",
+       "alternatives": [
+        "J'ai 20 ans."
+       ]
+      },
+      {
+       "id": "1-06-5",
+       "ru": "Сколько тебе лет?",
+       "target": "Quel âge as-tu ?",
+       "alternatives": [
+        "Tu as quel âge ?",
+        "Quel âge tu as ?",
+        "Quel âge est-ce que tu as ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-07",
+     "topic": "Есть, имеется: il y a",
+     "sentences": [
+      {
+       "id": "1-07-1",
+       "ru": "Здесь есть банк.",
+       "target": "Il y a une banque ici.",
+       "alternatives": [
+        "Ici, il y a une banque.",
+        "Ici il y a une banque."
+       ]
+      },
+      {
+       "id": "1-07-2",
+       "ru": "В комнате два окна.",
+       "target": "Il y a deux fenêtres dans la pièce.",
+       "alternatives": [
+        "Dans la pièce, il y a deux fenêtres.",
+        "Dans la pièce il y a deux fenêtres.",
+        "Il y a deux fenêtres dans la chambre.",
+        "Dans la chambre, il y a deux fenêtres.",
+        "Dans la chambre il y a deux fenêtres."
+       ]
+      },
+      {
+       "id": "1-07-3",
+       "ru": "На столе книга.",
+       "target": "Il y a un livre sur la table.",
+       "alternatives": [
+        "Sur la table, il y a un livre.",
+        "Sur la table il y a un livre."
+       ]
+      },
+      {
+       "id": "1-07-4",
+       "ru": "Здесь нет метро.",
+       "target": "Il n'y a pas de métro ici.",
+       "alternatives": [
+        "Ici, il n'y a pas de métro.",
+        "Ici il n'y a pas de métro."
+       ]
+      },
+      {
+       "id": "1-07-5",
+       "ru": "Здесь есть аптека?",
+       "target": "Il y a une pharmacie ici ?",
+       "alternatives": [
+        "Est-ce qu'il y a une pharmacie ici ?",
+        "Y a-t-il une pharmacie ici ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-08",
+     "topic": "Глаголы на -er: je parle, tu habites",
+     "sentences": [
+      {
+       "id": "1-08-1",
+       "ru": "Я говорю по-французски.",
+       "target": "Je parle français.",
+       "alternatives": [
+        "Je parle le français."
+       ]
+      },
+      {
+       "id": "1-08-2",
+       "ru": "Ты живёшь в Москве?",
+       "target": "Tu habites à Moscou ?",
+       "alternatives": [
+        "Est-ce que tu habites à Moscou ?",
+        "Habites-tu à Moscou ?",
+        "Tu vis à Moscou ?",
+        "Est-ce que tu vis à Moscou ?",
+        "Vis-tu à Moscou ?"
+       ]
+      },
+      {
+       "id": "1-08-3",
+       "ru": "Он работает в банке.",
+       "target": "Il travaille dans une banque.",
+       "alternatives": [
+        "Il travaille à la banque."
+       ]
+      },
+      {
+       "id": "1-08-4",
+       "ru": "Мы смотрим фильм.",
+       "target": "Nous regardons un film.",
+       "alternatives": [
+        "On regarde un film."
+       ]
+      },
+      {
+       "id": "1-08-5",
+       "ru": "Они слушают музыку.",
+       "target": "Ils écoutent de la musique.",
+       "alternatives": [
+        "Elles écoutent de la musique."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-09",
+     "topic": "Люблю, нравится: j'aime",
+     "sentences": [
+      {
+       "id": "1-09-1",
+       "ru": "Я люблю кофе.",
+       "target": "J'aime le café.",
+       "alternatives": [
+        "J'adore le café."
+       ]
+      },
+      {
+       "id": "1-09-2",
+       "ru": "Мне нравится Париж.",
+       "target": "J'aime Paris.",
+       "alternatives": [
+        "J'aime bien Paris.",
+        "Paris me plaît."
+       ]
+      },
+      {
+       "id": "1-09-3",
+       "ru": "Ты любишь читать?",
+       "target": "Tu aimes lire ?",
+       "alternatives": [
+        "Est-ce que tu aimes lire ?",
+        "Aimes-tu lire ?"
+       ]
+      },
+      {
+       "id": "1-09-4",
+       "ru": "Она не любит кошек.",
+       "target": "Elle n'aime pas les chats.",
+       "alternatives": []
+      },
+      {
+       "id": "1-09-5",
+       "ru": "Мы любим готовить.",
+       "target": "Nous aimons cuisiner.",
+       "alternatives": [
+        "On aime cuisiner.",
+        "Nous aimons faire la cuisine.",
+        "On aime faire la cuisine."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1-10",
+     "topic": "Идти, ехать: je vais, tu vas",
+     "sentences": [
+      {
+       "id": "1-10-1",
+       "ru": "Я иду домой.",
+       "target": "Je vais à la maison.",
+       "alternatives": [
+        "Je rentre à la maison.",
+        "Je vais chez moi.",
+        "Je rentre chez moi."
+       ]
+      },
+      {
+       "id": "1-10-2",
+       "ru": "Ты идёшь в кино?",
+       "target": "Tu vas au cinéma ?",
+       "alternatives": [
+        "Est-ce que tu vas au cinéma ?",
+        "Vas-tu au cinéma ?",
+        "Tu vas au ciné ?",
+        "Est-ce que tu vas au ciné ?",
+        "Vas-tu au ciné ?"
+       ]
+      },
+      {
+       "id": "1-10-3",
+       "ru": "Он едет в Париж.",
+       "target": "Il va à Paris.",
+       "alternatives": []
+      },
+      {
+       "id": "1-10-4",
+       "ru": "Мы идём в парк.",
+       "target": "Nous allons au parc.",
+       "alternatives": [
+        "On va au parc."
+       ]
+      },
+      {
+       "id": "1-10-5",
+       "ru": "Они едут во Францию.",
+       "target": "Ils vont en France.",
+       "alternatives": [
+        "Elles vont en France."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 2,
+   "title": "Каждый день",
+   "blocks": [
+    {
+     "id": "2-01",
+     "topic": "Делать: je fais, tu fais, il fait",
+     "sentences": [
+      {
+       "id": "2-01-1",
+       "ru": "Что ты делаешь?",
+       "target": "Qu'est-ce que tu fais ?",
+       "alternatives": [
+        "Tu fais quoi ?",
+        "Que fais-tu ?"
+       ]
+      },
+      {
+       "id": "2-01-2",
+       "ru": "Я делаю уроки.",
+       "target": "Je fais mes devoirs.",
+       "alternatives": [
+        "Je fais les devoirs."
+       ]
+      },
+      {
+       "id": "2-01-3",
+       "ru": "Он занимается спортом.",
+       "target": "Il fait du sport.",
+       "alternatives": []
+      },
+      {
+       "id": "2-01-4",
+       "ru": "Мы ходим за продуктами.",
+       "target": "Nous faisons les courses.",
+       "alternatives": [
+        "On fait les courses.",
+        "Nous faisons des courses.",
+        "On fait des courses."
+       ]
+      },
+      {
+       "id": "2-01-5",
+       "ru": "Сегодня хорошая погода.",
+       "target": "Il fait beau aujourd'hui.",
+       "alternatives": [
+        "Aujourd'hui, il fait beau.",
+        "Aujourd'hui il fait beau."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-02",
+     "topic": "Брать, ехать на: je prends",
+     "sentences": [
+      {
+       "id": "2-02-1",
+       "ru": "Я беру такси.",
+       "target": "Je prends un taxi.",
+       "alternatives": [
+        "Je prends le taxi."
+       ]
+      },
+      {
+       "id": "2-02-2",
+       "ru": "Ты едешь на автобусе?",
+       "target": "Tu prends le bus ?",
+       "alternatives": [
+        "Est-ce que tu prends le bus ?",
+        "Prends-tu le bus ?"
+       ]
+      },
+      {
+       "id": "2-02-3",
+       "ru": "Он берёт кофе.",
+       "target": "Il prend un café.",
+       "alternatives": []
+      },
+      {
+       "id": "2-02-4",
+       "ru": "Мы ездим на метро.",
+       "target": "Nous prenons le métro.",
+       "alternatives": [
+        "On prend le métro."
+       ]
+      },
+      {
+       "id": "2-02-5",
+       "ru": "Что ты возьмёшь?",
+       "target": "Qu'est-ce que tu prends ?",
+       "alternatives": [
+        "Tu prends quoi ?",
+        "Que prends-tu ?",
+        "Qu'est-ce que tu vas prendre ?",
+        "Tu vas prendre quoi ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-03",
+     "topic": "Хочу и могу: vouloir, pouvoir",
+     "sentences": [
+      {
+       "id": "2-03-1",
+       "ru": "Я хочу кофе.",
+       "target": "Je veux un café.",
+       "alternatives": [
+        "Je voudrais un café.",
+        "Je veux du café.",
+        "Je voudrais du café."
+       ]
+      },
+      {
+       "id": "2-03-2",
+       "ru": "Ты хочешь пойти в кино?",
+       "target": "Tu veux aller au cinéma ?",
+       "alternatives": [
+        "Est-ce que tu veux aller au cinéma ?",
+        "Veux-tu aller au cinéma ?",
+        "Tu veux aller au ciné ?",
+        "Est-ce que tu veux aller au ciné ?",
+        "Veux-tu aller au ciné ?"
+       ]
+      },
+      {
+       "id": "2-03-3",
+       "ru": "Я могу тебе помочь.",
+       "target": "Je peux t'aider.",
+       "alternatives": []
+      },
+      {
+       "id": "2-03-4",
+       "ru": "Он не может спать.",
+       "target": "Il ne peut pas dormir.",
+       "alternatives": [
+        "Il n'arrive pas à dormir."
+       ]
+      },
+      {
+       "id": "2-03-5",
+       "ru": "Мы можем подождать.",
+       "target": "Nous pouvons attendre.",
+       "alternatives": [
+        "On peut attendre."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-04",
+     "topic": "Скоро: je vais + инфинитив",
+     "sentences": [
+      {
+       "id": "2-04-1",
+       "ru": "Завтра я буду работать.",
+       "target": "Demain, je vais travailler.",
+       "alternatives": [
+        "Demain je vais travailler.",
+        "Je vais travailler demain."
+       ]
+      },
+      {
+       "id": "2-04-2",
+       "ru": "Сегодня вечером мы будем смотреть фильм.",
+       "target": "Ce soir, nous allons regarder un film.",
+       "alternatives": [
+        "Ce soir nous allons regarder un film.",
+        "Nous allons regarder un film ce soir.",
+        "Ce soir, on va regarder un film.",
+        "Ce soir on va regarder un film.",
+        "On va regarder un film ce soir."
+       ]
+      },
+      {
+       "id": "2-04-3",
+       "ru": "Ты будешь ужинать дома?",
+       "target": "Tu vas dîner à la maison ?",
+       "alternatives": [
+        "Est-ce que tu vas dîner à la maison ?",
+        "Vas-tu dîner à la maison ?",
+        "Tu vas dîner chez toi ?",
+        "Est-ce que tu vas dîner chez toi ?",
+        "Vas-tu dîner chez toi ?"
+       ]
+      },
+      {
+       "id": "2-04-4",
+       "ru": "Она собирается купить машину.",
+       "target": "Elle va acheter une voiture.",
+       "alternatives": []
+      },
+      {
+       "id": "2-04-5",
+       "ru": "Они скоро приедут.",
+       "target": "Ils vont bientôt arriver.",
+       "alternatives": [
+        "Ils vont arriver bientôt.",
+        "Elles vont bientôt arriver.",
+        "Elles vont arriver bientôt."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-05",
+     "topic": "Вопросы: où, quand, comment, pourquoi, combien",
+     "sentences": [
+      {
+       "id": "2-05-1",
+       "ru": "Где ты живёшь?",
+       "target": "Où habites-tu ?",
+       "alternatives": [
+        "Où est-ce que tu habites ?",
+        "Tu habites où ?",
+        "Où tu habites ?",
+        "Où vis-tu ?",
+        "Où est-ce que tu vis ?",
+        "Tu vis où ?",
+        "Où tu vis ?"
+       ]
+      },
+      {
+       "id": "2-05-2",
+       "ru": "Когда начинается фильм?",
+       "target": "Quand commence le film ?",
+       "alternatives": [
+        "Quand est-ce que le film commence ?",
+        "Le film commence quand ?",
+        "Quand le film commence-t-il ?"
+       ]
+      },
+      {
+       "id": "2-05-3",
+       "ru": "Как ты ездишь на работу?",
+       "target": "Comment vas-tu au travail ?",
+       "alternatives": [
+        "Comment est-ce que tu vas au travail ?",
+        "Comment tu vas au travail ?",
+        "Tu vas au travail comment ?"
+       ]
+      },
+      {
+       "id": "2-05-4",
+       "ru": "Почему ты плачешь?",
+       "target": "Pourquoi tu pleures ?",
+       "alternatives": [
+        "Pourquoi pleures-tu ?",
+        "Pourquoi est-ce que tu pleures ?",
+        "Tu pleures pourquoi ?"
+       ]
+      },
+      {
+       "id": "2-05-5",
+       "ru": "Сколько это стоит?",
+       "target": "Combien ça coûte ?",
+       "alternatives": [
+        "Ça coûte combien ?",
+        "Combien est-ce que ça coûte ?",
+        "C'est combien ?",
+        "Combien coûte cela ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-06",
+     "topic": "Куда, где: au, à la, à l'",
+     "sentences": [
+      {
+       "id": "2-06-1",
+       "ru": "Я иду в школу.",
+       "target": "Je vais à l'école.",
+       "alternatives": []
+      },
+      {
+       "id": "2-06-2",
+       "ru": "Ты идёшь в магазин?",
+       "target": "Tu vas au magasin ?",
+       "alternatives": [
+        "Est-ce que tu vas au magasin ?",
+        "Vas-tu au magasin ?"
+       ]
+      },
+      {
+       "id": "2-06-3",
+       "ru": "Она идёт в банк.",
+       "target": "Elle va à la banque.",
+       "alternatives": []
+      },
+      {
+       "id": "2-06-4",
+       "ru": "Мы идём на пляж.",
+       "target": "Nous allons à la plage.",
+       "alternatives": [
+        "On va à la plage."
+       ]
+      },
+      {
+       "id": "2-06-5",
+       "ru": "Они в больнице.",
+       "target": "Ils sont à l'hôpital.",
+       "alternatives": [
+        "Elles sont à l'hôpital."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-07",
+     "topic": "Немного чего-то: du, de la, de l'",
+     "sentences": [
+      {
+       "id": "2-07-1",
+       "ru": "Я ем хлеб.",
+       "target": "Je mange du pain.",
+       "alternatives": []
+      },
+      {
+       "id": "2-07-2",
+       "ru": "Ты хочешь воды?",
+       "target": "Tu veux de l'eau ?",
+       "alternatives": [
+        "Est-ce que tu veux de l'eau ?",
+        "Veux-tu de l'eau ?"
+       ]
+      },
+      {
+       "id": "2-07-3",
+       "ru": "Она покупает молоко.",
+       "target": "Elle achète du lait.",
+       "alternatives": []
+      },
+      {
+       "id": "2-07-4",
+       "ru": "Мы едим суп.",
+       "target": "Nous mangeons de la soupe.",
+       "alternatives": [
+        "On mange de la soupe."
+       ]
+      },
+      {
+       "id": "2-07-5",
+       "ru": "У меня нет денег.",
+       "target": "Je n'ai pas d'argent.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "2-08",
+     "topic": "Нужно: il faut",
+     "sentences": [
+      {
+       "id": "2-08-1",
+       "ru": "Нужно работать.",
+       "target": "Il faut travailler.",
+       "alternatives": []
+      },
+      {
+       "id": "2-08-2",
+       "ru": "Нужно купить хлеб.",
+       "target": "Il faut acheter du pain.",
+       "alternatives": [
+        "Il faut acheter le pain."
+       ]
+      },
+      {
+       "id": "2-08-3",
+       "ru": "Нужно рано вставать.",
+       "target": "Il faut se lever tôt.",
+       "alternatives": []
+      },
+      {
+       "id": "2-08-4",
+       "ru": "Здесь нельзя курить.",
+       "target": "Il ne faut pas fumer ici.",
+       "alternatives": [
+        "Ici, il ne faut pas fumer.",
+        "Ici il ne faut pas fumer.",
+        "On ne peut pas fumer ici.",
+        "Il est interdit de fumer ici.",
+        "On n'a pas le droit de fumer ici."
+       ]
+      },
+      {
+       "id": "2-08-5",
+       "ru": "Сколько времени нужно?",
+       "target": "Combien de temps faut-il ?",
+       "alternatives": [
+        "Il faut combien de temps ?",
+        "Combien de temps il faut ?",
+        "Combien de temps est-ce qu'il faut ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-09",
+     "topic": "Возвратные глаголы: je me lève",
+     "sentences": [
+      {
+       "id": "2-09-1",
+       "ru": "Меня зовут Анна.",
+       "target": "Je m'appelle Anna.",
+       "alternatives": [
+        "Je m'appelle Anne."
+       ]
+      },
+      {
+       "id": "2-09-2",
+       "ru": "Я встаю в семь часов.",
+       "target": "Je me lève à sept heures.",
+       "alternatives": [
+        "Je me lève à 7 heures."
+       ]
+      },
+      {
+       "id": "2-09-3",
+       "ru": "Ты встаёшь рано?",
+       "target": "Tu te lèves tôt ?",
+       "alternatives": [
+        "Est-ce que tu te lèves tôt ?",
+        "Te lèves-tu tôt ?"
+       ]
+      },
+      {
+       "id": "2-09-4",
+       "ru": "Он принимает душ утром.",
+       "target": "Il se douche le matin.",
+       "alternatives": [
+        "Le matin, il se douche.",
+        "Le matin il se douche.",
+        "Il prend une douche le matin.",
+        "Le matin, il prend une douche.",
+        "Le matin il prend une douche."
+       ]
+      },
+      {
+       "id": "2-09-5",
+       "ru": "Мы поздно ложимся спать.",
+       "target": "Nous nous couchons tard.",
+       "alternatives": [
+        "On se couche tard."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2-10",
+     "topic": "Прилагательные: grand, grande",
+     "sentences": [
+      {
+       "id": "2-10-1",
+       "ru": "Мой брат высокий.",
+       "target": "Mon frère est grand.",
+       "alternatives": []
+      },
+      {
+       "id": "2-10-2",
+       "ru": "Моя сестра высокая.",
+       "target": "Ma sœur est grande.",
+       "alternatives": []
+      },
+      {
+       "id": "2-10-3",
+       "ru": "Её дети маленькие.",
+       "target": "Ses enfants sont petits.",
+       "alternatives": [
+        "Ses enfants sont jeunes."
+       ]
+      },
+      {
+       "id": "2-10-4",
+       "ru": "У меня маленькая квартира.",
+       "target": "J'ai un petit appartement.",
+       "alternatives": []
+      },
+      {
+       "id": "2-10-5",
+       "ru": "Это интересная книга.",
+       "target": "C'est un livre intéressant.",
+       "alternatives": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 3,
+   "title": "В прошлом",
+   "blocks": [
+    {
+     "id": "3-01",
+     "topic": "Прошедшее время с avoir: j'ai mangé",
+     "sentences": [
+      {
+       "id": "3-01-1",
+       "ru": "Я съел яблоко.",
+       "target": "J'ai mangé une pomme.",
+       "alternatives": []
+      },
+      {
+       "id": "3-01-2",
+       "ru": "Ты купил хлеб?",
+       "target": "Tu as acheté du pain ?",
+       "alternatives": [
+        "Est-ce que tu as acheté du pain ?",
+        "As-tu acheté du pain ?",
+        "Tu as acheté le pain ?",
+        "Est-ce que tu as acheté le pain ?",
+        "As-tu acheté le pain ?"
+       ]
+      },
+      {
+       "id": "3-01-3",
+       "ru": "Он позвонил маме.",
+       "target": "Il a appelé sa mère.",
+       "alternatives": [
+        "Il a téléphoné à sa mère.",
+        "Il a appelé sa maman.",
+        "Il a téléphoné à sa maman."
+       ]
+      },
+      {
+       "id": "3-01-4",
+       "ru": "Мы посмотрели фильм.",
+       "target": "Nous avons regardé un film.",
+       "alternatives": [
+        "On a regardé un film.",
+        "Nous avons regardé le film.",
+        "On a regardé le film.",
+        "Nous avons vu un film.",
+        "On a vu un film.",
+        "Nous avons vu le film.",
+        "On a vu le film."
+       ]
+      },
+      {
+       "id": "3-01-5",
+       "ru": "Они выиграли матч.",
+       "target": "Ils ont gagné le match.",
+       "alternatives": [
+        "Elles ont gagné le match."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-02",
+     "topic": "Неправильные причастия: fait, vu, pris, dit, mis",
+     "sentences": [
+      {
+       "id": "3-02-1",
+       "ru": "Что ты делал вчера?",
+       "target": "Qu'est-ce que tu as fait hier ?",
+       "alternatives": [
+        "Tu as fait quoi hier ?",
+        "Qu'as-tu fait hier ?",
+        "Hier, qu'est-ce que tu as fait ?",
+        "Hier qu'est-ce que tu as fait ?",
+        "Hier, tu as fait quoi ?",
+        "Hier tu as fait quoi ?"
+       ]
+      },
+      {
+       "id": "3-02-2",
+       "ru": "Я видел этот фильм.",
+       "target": "J'ai vu ce film.",
+       "alternatives": []
+      },
+      {
+       "id": "3-02-3",
+       "ru": "Она взяла зонтик.",
+       "target": "Elle a pris un parapluie.",
+       "alternatives": [
+        "Elle a pris son parapluie.",
+        "Elle a pris le parapluie."
+       ]
+      },
+      {
+       "id": "3-02-4",
+       "ru": "Что он сказал?",
+       "target": "Qu'est-ce qu'il a dit ?",
+       "alternatives": [
+        "Il a dit quoi ?",
+        "Qu'a-t-il dit ?"
+       ]
+      },
+      {
+       "id": "3-02-5",
+       "ru": "Куда ты положил ключи?",
+       "target": "Où as-tu mis les clés ?",
+       "alternatives": [
+        "Où est-ce que tu as mis les clés ?",
+        "Tu as mis les clés où ?",
+        "Où tu as mis les clés ?",
+        "Où as-tu mis les clefs ?",
+        "Où est-ce que tu as mis les clefs ?",
+        "Tu as mis les clefs où ?",
+        "Où tu as mis les clefs ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-03",
+     "topic": "Ещё причастия: eu, été, lu, bu, écrit",
+     "sentences": [
+      {
+       "id": "3-03-1",
+       "ru": "Она родила ребёнка.",
+       "target": "Elle a eu un bébé.",
+       "alternatives": [
+        "Elle a eu un enfant."
+       ]
+      },
+      {
+       "id": "3-03-2",
+       "ru": "Я был в Риме два раза.",
+       "target": "Je suis allé à Rome deux fois.",
+       "alternatives": [
+        "Je suis allé deux fois à Rome.",
+        "J'ai été à Rome deux fois.",
+        "J'ai été deux fois à Rome.",
+        "Je suis allé à Rome 2 fois.",
+        "Je suis allé 2 fois à Rome.",
+        "J'ai été à Rome 2 fois.",
+        "J'ai été 2 fois à Rome."
+       ]
+      },
+      {
+       "id": "3-03-3",
+       "ru": "Я прочитала эту книгу.",
+       "target": "J'ai lu ce livre.",
+       "alternatives": []
+      },
+      {
+       "id": "3-03-4",
+       "ru": "Ты выпил свой кофе?",
+       "target": "Tu as bu ton café ?",
+       "alternatives": [
+        "Est-ce que tu as bu ton café ?",
+        "As-tu bu ton café ?"
+       ]
+      },
+      {
+       "id": "3-03-5",
+       "ru": "Он написал письмо.",
+       "target": "Il a écrit une lettre.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "3-04",
+     "topic": "Прошедшее время с être: je suis allé, elle est partie",
+     "sentences": [
+      {
+       "id": "3-04-1",
+       "ru": "Я пошёл в кино.",
+       "target": "Je suis allé au cinéma.",
+       "alternatives": [
+        "Je suis allé au ciné."
+       ]
+      },
+      {
+       "id": "3-04-2",
+       "ru": "Она ушла рано.",
+       "target": "Elle est partie tôt.",
+       "alternatives": []
+      },
+      {
+       "id": "3-04-3",
+       "ru": "Ты приехала вчера?",
+       "target": "Tu es arrivée hier ?",
+       "alternatives": [
+        "Est-ce que tu es arrivée hier ?",
+        "Es-tu arrivée hier ?"
+       ]
+      },
+      {
+       "id": "3-04-4",
+       "ru": "Мы остались дома.",
+       "target": "Nous sommes restés à la maison.",
+       "alternatives": [
+        "Nous sommes restées à la maison.",
+        "On est restés à la maison.",
+        "On est restées à la maison.",
+        "On est resté à la maison.",
+        "Nous sommes restés chez nous.",
+        "Nous sommes restées chez nous.",
+        "On est restés chez nous.",
+        "On est restées chez nous.",
+        "On est resté chez nous."
+       ]
+      },
+      {
+       "id": "3-04-5",
+       "ru": "Они вернулись в Париж.",
+       "target": "Ils sont rentrés à Paris.",
+       "alternatives": [
+        "Ils sont revenus à Paris.",
+        "Ils sont retournés à Paris.",
+        "Elles sont rentrées à Paris.",
+        "Elles sont revenues à Paris.",
+        "Elles sont retournées à Paris."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-05",
+     "topic": "Ещё с être: né, venu, tombé, monté, rentré",
+     "sentences": [
+      {
+       "id": "3-05-1",
+       "ru": "Я родилась в Москве.",
+       "target": "Je suis née à Moscou.",
+       "alternatives": []
+      },
+      {
+       "id": "3-05-2",
+       "ru": "Он упал.",
+       "target": "Il est tombé.",
+       "alternatives": []
+      },
+      {
+       "id": "3-05-3",
+       "ru": "Твои друзья пришли?",
+       "target": "Tes amis sont venus ?",
+       "alternatives": [
+        "Est-ce que tes amis sont venus ?",
+        "Tes amis sont-ils venus ?",
+        "Tes amis sont arrivés ?",
+        "Est-ce que tes amis sont arrivés ?",
+        "Tes amis sont-ils arrivés ?"
+       ]
+      },
+      {
+       "id": "3-05-4",
+       "ru": "Она поднялась на третий этаж.",
+       "target": "Elle est montée au troisième étage.",
+       "alternatives": [
+        "Elle est montée au 3e étage."
+       ]
+      },
+      {
+       "id": "3-05-5",
+       "ru": "Во сколько ты вернулся?",
+       "target": "À quelle heure es-tu rentré ?",
+       "alternatives": [
+        "À quelle heure est-ce que tu es rentré ?",
+        "Tu es rentré à quelle heure ?",
+        "À quelle heure tu es rentré ?",
+        "À quelle heure es-tu revenu ?",
+        "À quelle heure est-ce que tu es revenu ?",
+        "Tu es revenu à quelle heure ?",
+        "À quelle heure tu es revenu ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-06",
+     "topic": "Отрицание в прошлом: je n'ai pas vu",
+     "sentences": [
+      {
+       "id": "3-06-1",
+       "ru": "Я не видел твою сестру.",
+       "target": "Je n'ai pas vu ta sœur.",
+       "alternatives": []
+      },
+      {
+       "id": "3-06-2",
+       "ru": "Он не пришёл.",
+       "target": "Il n'est pas venu.",
+       "alternatives": []
+      },
+      {
+       "id": "3-06-3",
+       "ru": "Мы не поняли.",
+       "target": "Nous n'avons pas compris.",
+       "alternatives": [
+        "On n'a pas compris."
+       ]
+      },
+      {
+       "id": "3-06-4",
+       "ru": "Почему ты не позвонил?",
+       "target": "Pourquoi tu n'as pas appelé ?",
+       "alternatives": [
+        "Pourquoi n'as-tu pas appelé ?",
+        "Pourquoi est-ce que tu n'as pas appelé ?",
+        "Pourquoi tu n'as pas téléphoné ?",
+        "Pourquoi n'as-tu pas téléphoné ?",
+        "Pourquoi est-ce que tu n'as pas téléphoné ?"
+       ]
+      },
+      {
+       "id": "3-06-5",
+       "ru": "Она ничего не купила.",
+       "target": "Elle n'a rien acheté.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "3-07",
+     "topic": "Вопросы о прошлом: qui, combien, où, pourquoi",
+     "sentences": [
+      {
+       "id": "3-07-1",
+       "ru": "Что случилось?",
+       "target": "Qu'est-ce qui s'est passé ?",
+       "alternatives": [
+        "Que s'est-il passé ?",
+        "Il s'est passé quoi ?",
+        "Qu'est-ce qui est arrivé ?"
+       ]
+      },
+      {
+       "id": "3-07-2",
+       "ru": "Кто тебе это сказал?",
+       "target": "Qui t'a dit ça ?",
+       "alternatives": [
+        "Qui t'a dit cela ?",
+        "Qui est-ce qui t'a dit ça ?",
+        "Qui te l'a dit ?"
+       ]
+      },
+      {
+       "id": "3-07-3",
+       "ru": "Сколько ты заплатил?",
+       "target": "Combien tu as payé ?",
+       "alternatives": [
+        "Combien as-tu payé ?",
+        "Combien est-ce que tu as payé ?",
+        "Tu as payé combien ?"
+       ]
+      },
+      {
+       "id": "3-07-4",
+       "ru": "Где ты купила эту куртку?",
+       "target": "Où as-tu acheté cette veste ?",
+       "alternatives": [
+        "Où est-ce que tu as acheté cette veste ?",
+        "Tu as acheté cette veste où ?",
+        "Où tu as acheté cette veste ?",
+        "Où as-tu acheté ce blouson ?",
+        "Où est-ce que tu as acheté ce blouson ?",
+        "Tu as acheté ce blouson où ?",
+        "Où tu as acheté ce blouson ?"
+       ]
+      },
+      {
+       "id": "3-07-5",
+       "ru": "Почему она ушла?",
+       "target": "Pourquoi elle est partie ?",
+       "alternatives": [
+        "Pourquoi est-elle partie ?",
+        "Pourquoi est-ce qu'elle est partie ?",
+        "Elle est partie pourquoi ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-08",
+     "topic": "Назад: il y a deux jours",
+     "sentences": [
+      {
+       "id": "3-08-1",
+       "ru": "Я приехал два дня назад.",
+       "target": "Je suis arrivé il y a deux jours.",
+       "alternatives": [
+        "Je suis arrivé il y a 2 jours.",
+        "Je suis venu il y a deux jours.",
+        "Je suis venu il y a 2 jours."
+       ]
+      },
+      {
+       "id": "3-08-2",
+       "ru": "Она позвонила час назад.",
+       "target": "Elle a appelé il y a une heure.",
+       "alternatives": [
+        "Elle a téléphoné il y a une heure."
+       ]
+      },
+      {
+       "id": "3-08-3",
+       "ru": "Мы купили дом три года назад.",
+       "target": "Nous avons acheté une maison il y a trois ans.",
+       "alternatives": [
+        "On a acheté une maison il y a trois ans.",
+        "Nous avons acheté une maison il y a 3 ans.",
+        "On a acheté une maison il y a 3 ans."
+       ]
+      },
+      {
+       "id": "3-08-4",
+       "ru": "Фильм начался десять минут назад.",
+       "target": "Le film a commencé il y a dix minutes.",
+       "alternatives": [
+        "Le film a commencé il y a 10 minutes."
+       ]
+      },
+      {
+       "id": "3-08-5",
+       "ru": "Он уехал неделю назад.",
+       "target": "Il est parti il y a une semaine.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "3-09",
+     "topic": "Уже, ещё не, никогда: déjà, pas encore, jamais",
+     "sentences": [
+      {
+       "id": "3-09-1",
+       "ru": "Я уже поел.",
+       "target": "J'ai déjà mangé.",
+       "alternatives": []
+      },
+      {
+       "id": "3-09-2",
+       "ru": "Ты уже видел этот фильм?",
+       "target": "Tu as déjà vu ce film ?",
+       "alternatives": [
+        "Est-ce que tu as déjà vu ce film ?",
+        "As-tu déjà vu ce film ?"
+       ]
+      },
+      {
+       "id": "3-09-3",
+       "ru": "Она ещё не пришла.",
+       "target": "Elle n'est pas encore arrivée.",
+       "alternatives": [
+        "Elle n'est pas encore venue.",
+        "Elle n'est pas encore là."
+       ]
+      },
+      {
+       "id": "3-09-4",
+       "ru": "Мы ещё не решили.",
+       "target": "Nous n'avons pas encore décidé.",
+       "alternatives": [
+        "On n'a pas encore décidé."
+       ]
+      },
+      {
+       "id": "3-09-5",
+       "ru": "Я никогда не был в Париже.",
+       "target": "Je ne suis jamais allé à Paris.",
+       "alternatives": [
+        "Je n'ai jamais été à Paris."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "3-10",
+     "topic": "Возвратные в прошлом: je me suis levé",
+     "sentences": [
+      {
+       "id": "3-10-1",
+       "ru": "Я встал в шесть.",
+       "target": "Je me suis levé à six heures.",
+       "alternatives": [
+        "Je me suis levé à 6 heures."
+       ]
+      },
+      {
+       "id": "3-10-2",
+       "ru": "Она проснулась поздно.",
+       "target": "Elle s'est réveillée tard.",
+       "alternatives": []
+      },
+      {
+       "id": "3-10-3",
+       "ru": "Ты хорошо отдохнул?",
+       "target": "Tu t'es bien reposé ?",
+       "alternatives": [
+        "Est-ce que tu t'es bien reposé ?",
+        "T'es-tu bien reposé ?"
+       ]
+      },
+      {
+       "id": "3-10-4",
+       "ru": "Мы потерялись.",
+       "target": "Nous nous sommes perdus.",
+       "alternatives": [
+        "Nous nous sommes perdues.",
+        "On s'est perdus.",
+        "On s'est perdues.",
+        "On s'est perdu."
+       ]
+      },
+      {
+       "id": "3-10-5",
+       "ru": "Они поженились в мае.",
+       "target": "Ils se sont mariés en mai.",
+       "alternatives": [
+        "Ils se sont mariés au mois de mai.",
+        "Elles se sont mariées en mai.",
+        "Elles se sont mariées au mois de mai."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": 4,
+   "title": "Описать и сравнить",
+   "blocks": [
+    {
+     "id": "4-01",
+     "topic": "Описание в прошлом: c'était, il faisait",
+     "sentences": [
+      {
+       "id": "4-01-1",
+       "ru": "Было холодно.",
+       "target": "Il faisait froid.",
+       "alternatives": []
+      },
+      {
+       "id": "4-01-2",
+       "ru": "Шёл дождь.",
+       "target": "Il pleuvait.",
+       "alternatives": []
+      },
+      {
+       "id": "4-01-3",
+       "ru": "Это было вкусно.",
+       "target": "C'était bon.",
+       "alternatives": [
+        "C'était délicieux."
+       ]
+      },
+      {
+       "id": "4-01-4",
+       "ru": "Дом был старый.",
+       "target": "La maison était vieille.",
+       "alternatives": [
+        "La maison était ancienne."
+       ]
+      },
+      {
+       "id": "4-01-5",
+       "ru": "Улица была пустая.",
+       "target": "La rue était vide.",
+       "alternatives": [
+        "La rue était déserte."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-02",
+     "topic": "Привычки в прошлом: je jouais, nous allions",
+     "sentences": [
+      {
+       "id": "4-02-1",
+       "ru": "Раньше я жил в Москве.",
+       "target": "Avant, j'habitais à Moscou.",
+       "alternatives": [
+        "Avant j'habitais à Moscou.",
+        "J'habitais à Moscou avant.",
+        "Avant, je vivais à Moscou.",
+        "Avant je vivais à Moscou.",
+        "Je vivais à Moscou avant."
+       ]
+      },
+      {
+       "id": "4-02-2",
+       "ru": "Каждое лето мы ездили на море.",
+       "target": "Chaque été, nous allions à la mer.",
+       "alternatives": [
+        "Chaque été nous allions à la mer.",
+        "Nous allions à la mer chaque été.",
+        "Chaque été, on allait à la mer.",
+        "Chaque été on allait à la mer.",
+        "On allait à la mer chaque été.",
+        "Tous les étés, nous allions à la mer.",
+        "Tous les étés nous allions à la mer.",
+        "Nous allions à la mer tous les étés.",
+        "Tous les étés, on allait à la mer.",
+        "Tous les étés on allait à la mer.",
+        "On allait à la mer tous les étés."
+       ]
+      },
+      {
+       "id": "4-02-3",
+       "ru": "Он часто читал по вечерам.",
+       "target": "Il lisait souvent le soir.",
+       "alternatives": [
+        "Le soir, il lisait souvent.",
+        "Le soir il lisait souvent."
+       ]
+      },
+      {
+       "id": "4-02-4",
+       "ru": "Обычно я вставал рано.",
+       "target": "D'habitude, je me levais tôt.",
+       "alternatives": [
+        "D'habitude je me levais tôt.",
+        "Je me levais tôt d'habitude.",
+        "En général, je me levais tôt.",
+        "En général je me levais tôt.",
+        "Généralement, je me levais tôt.",
+        "Généralement je me levais tôt."
+       ]
+      },
+      {
+       "id": "4-02-5",
+       "ru": "Когда я был маленьким, я играл в футбол.",
+       "target": "Quand j'étais petit, je jouais au foot.",
+       "alternatives": [
+        "Quand j'étais petit je jouais au foot.",
+        "Quand j'étais petit, je jouais au football.",
+        "Quand j'étais petit je jouais au football.",
+        "Quand j'étais enfant, je jouais au foot.",
+        "Quand j'étais enfant je jouais au foot.",
+        "Quand j'étais enfant, je jouais au football.",
+        "Quand j'étais enfant je jouais au football."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-03",
+     "topic": "Было, имелось: j'avais, il y avait",
+     "sentences": [
+      {
+       "id": "4-03-1",
+       "ru": "У меня была собака.",
+       "target": "J'avais un chien.",
+       "alternatives": [
+        "J'avais une chienne.",
+        "J'ai eu un chien.",
+        "J'ai eu une chienne."
+       ]
+      },
+      {
+       "id": "4-03-2",
+       "ru": "Там было много людей.",
+       "target": "Il y avait beaucoup de monde.",
+       "alternatives": [
+        "Il y avait beaucoup de gens.",
+        "Il y avait beaucoup de monde là-bas.",
+        "Il y avait beaucoup de gens là-bas.",
+        "Là-bas, il y avait beaucoup de monde.",
+        "Là-bas il y avait beaucoup de monde.",
+        "Là-bas, il y avait beaucoup de gens.",
+        "Là-bas il y avait beaucoup de gens."
+       ]
+      },
+      {
+       "id": "4-03-3",
+       "ru": "Она была очень уставшей.",
+       "target": "Elle était très fatiguée.",
+       "alternatives": []
+      },
+      {
+       "id": "4-03-4",
+       "ru": "Мы были голодны.",
+       "target": "Nous avions faim.",
+       "alternatives": [
+        "On avait faim."
+       ]
+      },
+      {
+       "id": "4-03-5",
+       "ru": "Ему было десять лет.",
+       "target": "Il avait dix ans.",
+       "alternatives": [
+        "Il avait 10 ans."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-04",
+     "topic": "Сравнение: plus, moins, aussi... que",
+     "sentences": [
+      {
+       "id": "4-04-1",
+       "ru": "Мой брат выше меня.",
+       "target": "Mon frère est plus grand que moi.",
+       "alternatives": []
+      },
+      {
+       "id": "4-04-2",
+       "ru": "Поезд быстрее автобуса.",
+       "target": "Le train est plus rapide que le bus.",
+       "alternatives": [
+        "Le train est plus rapide que l'autobus.",
+        "Le train va plus vite que le bus.",
+        "Le train va plus vite que l'autobus."
+       ]
+      },
+      {
+       "id": "4-04-3",
+       "ru": "Этот фильм менее интересный, чем книга.",
+       "target": "Ce film est moins intéressant que le livre.",
+       "alternatives": []
+      },
+      {
+       "id": "4-04-4",
+       "ru": "Она такая же умная, как ты.",
+       "target": "Elle est aussi intelligente que toi.",
+       "alternatives": []
+      },
+      {
+       "id": "4-04-5",
+       "ru": "Москва больше Парижа.",
+       "target": "Moscou est plus grande que Paris.",
+       "alternatives": [
+        "Moscou est plus grand que Paris."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-05",
+     "topic": "Лучше: meilleur, mieux",
+     "sentences": [
+      {
+       "id": "4-05-1",
+       "ru": "Это лучший фильм года.",
+       "target": "C'est le meilleur film de l'année.",
+       "alternatives": []
+      },
+      {
+       "id": "4-05-2",
+       "ru": "Её кофе лучше моего.",
+       "target": "Son café est meilleur que le mien.",
+       "alternatives": []
+      },
+      {
+       "id": "4-05-3",
+       "ru": "Ты говоришь по-французски лучше меня.",
+       "target": "Tu parles français mieux que moi.",
+       "alternatives": [
+        "Tu parles mieux français que moi.",
+        "Tu parles le français mieux que moi.",
+        "Tu parles mieux le français que moi."
+       ]
+      },
+      {
+       "id": "4-05-4",
+       "ru": "Мне уже лучше.",
+       "target": "Je vais déjà mieux.",
+       "alternatives": [
+        "Ça va déjà mieux.",
+        "Je me sens déjà mieux."
+       ]
+      },
+      {
+       "id": "4-05-5",
+       "ru": "Он работает больше меня.",
+       "target": "Il travaille plus que moi.",
+       "alternatives": [
+        "Il travaille davantage que moi."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-06",
+     "topic": "Его, её, их: le, la, les",
+     "sentences": [
+      {
+       "id": "4-06-1",
+       "ru": "Я его знаю.",
+       "target": "Je le connais.",
+       "alternatives": []
+      },
+      {
+       "id": "4-06-2",
+       "ru": "Ты её видишь?",
+       "target": "Tu la vois ?",
+       "alternatives": [
+        "Est-ce que tu la vois ?",
+        "La vois-tu ?"
+       ]
+      },
+      {
+       "id": "4-06-3",
+       "ru": "Мы их ждём.",
+       "target": "Nous les attendons.",
+       "alternatives": [
+        "On les attend."
+       ]
+      },
+      {
+       "id": "4-06-4",
+       "ru": "Я её не понимаю.",
+       "target": "Je ne la comprends pas.",
+       "alternatives": []
+      },
+      {
+       "id": "4-06-5",
+       "ru": "Я его уже видел.",
+       "target": "Je l'ai déjà vu.",
+       "alternatives": []
+      }
+     ]
+    },
+    {
+     "id": "4-07",
+     "topic": "Ему, ей, им: lui, leur",
+     "sentences": [
+      {
+       "id": "4-07-1",
+       "ru": "Я ему звоню.",
+       "target": "Je lui téléphone.",
+       "alternatives": [
+        "Je l'appelle."
+       ]
+      },
+      {
+       "id": "4-07-2",
+       "ru": "Она ей пишет.",
+       "target": "Elle lui écrit.",
+       "alternatives": []
+      },
+      {
+       "id": "4-07-3",
+       "ru": "Мы говорим им правду.",
+       "target": "Nous leur disons la vérité.",
+       "alternatives": [
+        "On leur dit la vérité."
+       ]
+      },
+      {
+       "id": "4-07-4",
+       "ru": "Я дал ему книгу.",
+       "target": "Je lui ai donné le livre.",
+       "alternatives": [
+        "Je lui ai donné un livre."
+       ]
+      },
+      {
+       "id": "4-07-5",
+       "ru": "Ты им ответил?",
+       "target": "Tu leur as répondu ?",
+       "alternatives": [
+        "Est-ce que tu leur as répondu ?",
+        "Leur as-tu répondu ?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-08",
+     "topic": "Туда и этого: y, en",
+     "sentences": [
+      {
+       "id": "4-08-1",
+       "ru": "Я иду туда.",
+       "target": "J'y vais.",
+       "alternatives": [
+        "Je vais là-bas."
+       ]
+      },
+      {
+       "id": "4-08-2",
+       "ru": "Ты туда часто ходишь?",
+       "target": "Tu y vas souvent ?",
+       "alternatives": [
+        "Est-ce que tu y vas souvent ?",
+        "Y vas-tu souvent ?",
+        "Tu vas souvent là-bas ?",
+        "Est-ce que tu vas souvent là-bas ?",
+        "Vas-tu souvent là-bas ?"
+       ]
+      },
+      {
+       "id": "4-08-3",
+       "ru": "Мы живём там уже два года.",
+       "target": "Nous y habitons depuis deux ans.",
+       "alternatives": [
+        "On y habite depuis deux ans.",
+        "Nous y vivons depuis deux ans.",
+        "On y vit depuis deux ans.",
+        "Nous y habitons depuis 2 ans.",
+        "On y habite depuis 2 ans.",
+        "Nous y vivons depuis 2 ans.",
+        "On y vit depuis 2 ans.",
+        "Nous habitons là-bas depuis deux ans.",
+        "On habite là-bas depuis deux ans.",
+        "Nous vivons là-bas depuis deux ans.",
+        "On vit là-bas depuis deux ans."
+       ]
+      },
+      {
+       "id": "4-08-4",
+       "ru": "У меня их три.",
+       "target": "J'en ai trois.",
+       "alternatives": [
+        "J'en ai 3."
+       ]
+      },
+      {
+       "id": "4-08-5",
+       "ru": "Я больше не хочу.",
+       "target": "Je n'en veux plus.",
+       "alternatives": [
+        "Je ne veux plus."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-09",
+     "topic": "Будущее время: je ferai, il viendra",
+     "sentences": [
+      {
+       "id": "4-09-1",
+       "ru": "Я сделаю это завтра.",
+       "target": "Je le ferai demain.",
+       "alternatives": [
+        "Je ferai ça demain.",
+        "Demain, je le ferai.",
+        "Demain je le ferai.",
+        "Demain, je ferai ça.",
+        "Demain je ferai ça.",
+        "Je vais le faire demain.",
+        "Je vais faire ça demain."
+       ]
+      },
+      {
+       "id": "4-09-2",
+       "ru": "Он придёт завтра.",
+       "target": "Il viendra demain.",
+       "alternatives": [
+        "Demain, il viendra.",
+        "Demain il viendra.",
+        "Il va venir demain."
+       ]
+      },
+      {
+       "id": "4-09-3",
+       "ru": "Я тебе позвоню.",
+       "target": "Je t'appellerai.",
+       "alternatives": [
+        "Je te téléphonerai.",
+        "Je vais t'appeler.",
+        "Je vais te téléphoner."
+       ]
+      },
+      {
+       "id": "4-09-4",
+       "ru": "Ты будешь дома вечером?",
+       "target": "Tu seras à la maison ce soir ?",
+       "alternatives": [
+        "Est-ce que tu seras à la maison ce soir ?",
+        "Seras-tu à la maison ce soir ?",
+        "Tu seras chez toi ce soir ?",
+        "Est-ce que tu seras chez toi ce soir ?",
+        "Seras-tu chez toi ce soir ?"
+       ]
+      },
+      {
+       "id": "4-09-5",
+       "ru": "Завтра будет дождь.",
+       "target": "Il pleuvra demain.",
+       "alternatives": [
+        "Demain, il pleuvra.",
+        "Demain il pleuvra.",
+        "Il va pleuvoir demain.",
+        "Demain, il va pleuvoir.",
+        "Demain il va pleuvoir."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-10",
+     "topic": "Если: si + présent",
+     "sentences": [
+      {
+       "id": "4-10-1",
+       "ru": "Если хочешь, я тебе помогу.",
+       "target": "Si tu veux, je t'aiderai.",
+       "alternatives": [
+        "Si tu veux je t'aiderai.",
+        "Je t'aiderai si tu veux.",
+        "Si tu veux, je vais t'aider.",
+        "Si tu veux je vais t'aider.",
+        "Si tu veux, je t'aide.",
+        "Si tu veux je t'aide."
+       ]
+      },
+      {
+       "id": "4-10-2",
+       "ru": "Если у меня будет время, я приду.",
+       "target": "Si j'ai le temps, je viendrai.",
+       "alternatives": [
+        "Si j'ai le temps je viendrai.",
+        "Je viendrai si j'ai le temps."
+       ]
+      },
+      {
+       "id": "4-10-3",
+       "ru": "Если будет хорошая погода, мы пойдём на пляж.",
+       "target": "S'il fait beau, nous irons à la plage.",
+       "alternatives": [
+        "S'il fait beau nous irons à la plage.",
+        "Nous irons à la plage s'il fait beau.",
+        "S'il fait beau, on ira à la plage.",
+        "S'il fait beau on ira à la plage.",
+        "On ira à la plage s'il fait beau.",
+        "S'il fait beau, on va à la plage.",
+        "S'il fait beau on va à la plage.",
+        "On va à la plage s'il fait beau."
+       ]
+      },
+      {
+       "id": "4-10-4",
+       "ru": "Если он позвонит, я тебе скажу.",
+       "target": "S'il appelle, je te le dirai.",
+       "alternatives": [
+        "S'il appelle je te le dirai.",
+        "Je te le dirai s'il appelle.",
+        "S'il téléphone, je te le dirai.",
+        "S'il téléphone je te le dirai.",
+        "Je te le dirai s'il téléphone."
+       ]
+      },
+      {
+       "id": "4-10-5",
+       "ru": "Если ты устал, отдохни.",
+       "target": "Si tu es fatigué, repose-toi.",
+       "alternatives": [
+        "Si tu es fatigué repose-toi."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
