@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /audio/
+Disallow: /assets/
+Disallow: /canvaskit/
+
+Sitemap: https://app.verbalingo.uk/sitemap.xml

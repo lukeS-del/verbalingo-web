@@ -19,19 +19,19 @@
   <meta charset="UTF-8">
   <meta name="theme-color" content="#3A5A7A">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Тренажёр английской лексики A1–C2 для русскоязычных.">
+  <meta name="description" content="Французская лексика для русскоязычных: интервальное повторение, слово вводится в предложение, с озвучкой и разбором ошибок.">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Verbalingo">
+  <meta name="apple-mobile-web-app-title" content="Verbalingo Français">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>Verbalingo</title>
-  <link rel="manifest" href="manifest.json">
+  <title>Verbalingo Français — тренажёр французских слов</title>
+  <link rel="manifest" href="manifest-fr.json">
 
   <!--
     Заставка на время холодной загрузки.
@@ -102,11 +102,42 @@
       #splash { transition: none; }
     }
   </style>
+
+  <link rel="canonical" href="https://app.verbalingo.uk/fr/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Verbalingo">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:url" content="https://app.verbalingo.uk/fr/">
+  <meta property="og:title" content="Verbalingo Français — тренажёр французских слов">
+  <meta property="og:description" content="Французская лексика для русскоязычных: интервальное повторение, слово вводится в предложение, с озвучкой и разбором ошибок.">
+  <meta property="og:image" content="https://app.verbalingo.uk/icons/Icon-512.png">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
+  <meta property="og:image:alt" content="Verbalingo Français">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Verbalingo Français — тренажёр французских слов">
+  <meta name="twitter:description" content="Французская лексика для русскоязычных: интервальное повторение, слово вводится в предложение, с озвучкой и разбором ошибок.">
+  <meta name="twitter:image" content="https://app.verbalingo.uk/icons/Icon-512.png">
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Verbalingo Français",
+  "url": "https://app.verbalingo.uk/fr/",
+  "description": "Французская лексика для русскоязычных: интервальное повторение, слово вводится в предложение, с озвучкой и разбором ошибок.",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Web",
+  "inLanguage": "ru"
+}
+  </script>
 </head>
 <body>
   <div id="splash" role="status" aria-live="polite">
     <div id="splash-ring"></div>
-    <div id="splash-name">Verbalingo</div>
+    <div id="splash-name">Verbalingo Français</div>
   </div>
   <!--
     You can customize the "flutter_bootstrap.js" script.
@@ -117,5 +148,14 @@
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
   <script src="flutter_bootstrap.js" async></script>
+  <noscript>
+    <div style="max-width:34em;margin:12vh auto;padding:0 1.5em;
+                font-family:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+                line-height:1.5;color:#3A5A7A">
+      <h1 style="font-size:1.4em;font-weight:500">Verbalingo Français</h1>
+      <p>Французская лексика для русскоязычных: интервальное повторение, слово вводится в предложение, с озвучкой и разбором ошибок.</p>
+      <p>Приложение работает на JavaScript — включите его и обновите страницу.</p>
+    </div>
+  </noscript>
 </body>
 </html>

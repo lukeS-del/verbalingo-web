@@ -1,0 +1,26 @@
+{
+    "name": "Verbalingo Español",
+    "short_name": "Verbalingo Español",
+    "start_url": "/es/",
+    "display": "standalone",
+    "background_color": "#3A5A7A",
+    "theme_color": "#3A5A7A",
+    "description": "Испанская лексика для русскоязычных: интервальное повторение, слово вводится в предложение, с озвучкой и разбором ошибок.",
+    "lang": "ru",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
